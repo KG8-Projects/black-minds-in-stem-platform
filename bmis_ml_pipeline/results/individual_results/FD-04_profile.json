@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-04",
+  "name": "Low-income 12th grader - Mathematics interest, Hybrid preference",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 12,
+    "academic_level": "Advanced",
+    "time_availability": 15,
+    "support_needed": "Low",
+    "stem_interests": "mathematics calculus statistics data analysis mathematical modeling",
+    "stem_fields": [
+      "Mathematics",
+      "Statistics",
+      "Data Science"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Competition",
+      "Scholarship"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:07.938324"
+}

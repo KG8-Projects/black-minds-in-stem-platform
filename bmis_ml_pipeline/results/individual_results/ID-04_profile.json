@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-04",
+  "name": "Web Development enthusiast",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "web development HTML CSS JavaScript frontend backend websites",
+    "stem_fields": [
+      "Web Development",
+      "Software Engineering",
+      "Computer Science"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Bootcamp",
+      "Learning Platform"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.321958"
+}

@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-02",
+  "name": "Artificial Intelligence & Machine Learning enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 15,
+    "support_needed": "Low",
+    "stem_interests": "artificial intelligence machine learning neural networks deep learning AI models",
+    "stem_fields": [
+      "Artificial Intelligence/Machine Learning",
+      "Computer Science",
+      "Data Science"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Research Opportunity",
+      "Competition"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.264981"
+}

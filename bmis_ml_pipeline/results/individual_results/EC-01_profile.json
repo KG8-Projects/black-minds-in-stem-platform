@@ -1,0 +1,26 @@
+{
+  "profile_id": "EC-01",
+  "name": "Niche interest: Quantum Computing",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 12,
+    "academic_level": "Advanced",
+    "time_availability": 15,
+    "support_needed": "Low",
+    "stem_interests": "quantum computing quantum mechanics qubits quantum algorithms superposition entanglement",
+    "stem_fields": [
+      "Physics",
+      "Computer Science",
+      "Quantum Computing"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Online Course",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 17,
+  "timestamp": "2025-10-15T23:02:08.804466"
+}

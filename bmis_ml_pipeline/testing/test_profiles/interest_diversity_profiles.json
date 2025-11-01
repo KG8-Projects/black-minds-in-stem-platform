@@ -1,0 +1,330 @@
+{
+  "description": "Interest Diversity Test Profiles - Testing STEM field matching across all 18+ categories",
+  "total_profiles": 18,
+  "profiles": [
+    {
+      "profile_id": "ID-01",
+      "name": "Computer Science enthusiast",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "computer science programming algorithms data structures coding software",
+      "stem_fields": ["Computer Science", "Software Engineering"],
+      "format_preferences": ["Online Course", "Competition", "Learning Platform"],
+      "expected_alignment": {
+        "cs_field_match": ">=80%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-02",
+      "name": "Artificial Intelligence & Machine Learning enthusiast",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 15,
+      "support_needed": "Low",
+      "stem_interests": "artificial intelligence machine learning neural networks deep learning AI models",
+      "stem_fields": ["Artificial Intelligence/Machine Learning", "Computer Science", "Data Science"],
+      "format_preferences": ["Online Course", "Research Opportunity", "Competition"],
+      "expected_alignment": {
+        "ai_ml_field_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-03",
+      "name": "Software Engineering enthusiast",
+      "financial_situation": "High",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Low",
+      "stem_interests": "software engineering development programming java python web applications",
+      "stem_fields": ["Software Engineering", "Computer Science", "Web Development"],
+      "format_preferences": ["Internship", "Bootcamp", "Online Course"],
+      "expected_alignment": {
+        "software_eng_match": ">=80%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-04",
+      "name": "Web Development enthusiast",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "web development HTML CSS JavaScript frontend backend websites",
+      "stem_fields": ["Web Development", "Software Engineering", "Computer Science"],
+      "format_preferences": ["Online Course", "Bootcamp", "Learning Platform"],
+      "expected_alignment": {
+        "web_dev_match": ">=70%",
+        "low_free_resources": ">=60%"
+      }
+    },
+    {
+      "profile_id": "ID-05",
+      "name": "Data Science enthusiast",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "data science analytics statistics machine learning data visualization python",
+      "stem_fields": ["Data Science", "Statistics", "Artificial Intelligence/Machine Learning"],
+      "format_preferences": ["Online Course", "Research Opportunity", "Internship"],
+      "expected_alignment": {
+        "data_science_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-06",
+      "name": "Biology enthusiast",
+      "financial_situation": "Medium",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "biology genetics cells DNA molecular biology research lab",
+      "stem_fields": ["Biology", "Life Sciences", "Biomedical Sciences"],
+      "format_preferences": ["Research Opportunity", "Summer Program", "Mentorship Program"],
+      "expected_alignment": {
+        "biology_match": ">=80%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-07",
+      "name": "Biomedical Sciences enthusiast",
+      "financial_situation": "High",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 18,
+      "support_needed": "Low",
+      "stem_interests": "biomedical sciences medicine healthcare medical research disease treatment",
+      "stem_fields": ["Biomedical Sciences", "Biology", "Life Sciences"],
+      "format_preferences": ["Research Opportunity", "Internship", "Mentorship Program"],
+      "expected_alignment": {
+        "biomedical_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-08",
+      "name": "Engineering enthusiast",
+      "financial_situation": "Medium",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "engineering design build systems mechanical electrical projects",
+      "stem_fields": ["Engineering", "Technology", "Applied Sciences"],
+      "format_preferences": ["Summer Program", "Workshop/Training", "Competition"],
+      "expected_alignment": {
+        "engineering_match": ">=80%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-09",
+      "name": "Robotics enthusiast",
+      "financial_situation": "Medium",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 15,
+      "support_needed": "Low",
+      "stem_interests": "robotics autonomous systems programming mechatronics control engineering",
+      "stem_fields": ["Robotics", "Engineering", "Computer Science"],
+      "format_preferences": ["Competition", "Summer Program", "Workshop/Training"],
+      "expected_alignment": {
+        "robotics_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-10",
+      "name": "Mathematics enthusiast",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Low",
+      "stem_interests": "mathematics algebra calculus geometry proofs mathematical reasoning",
+      "stem_fields": ["Mathematics", "Applied Mathematics", "Statistics"],
+      "format_preferences": ["Competition", "Online Course", "Mentorship Program"],
+      "expected_alignment": {
+        "math_match": ">=80%",
+        "low_free_resources": ">=60%"
+      }
+    },
+    {
+      "profile_id": "ID-11",
+      "name": "Physics enthusiast",
+      "financial_situation": "Medium",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "physics mechanics thermodynamics quantum relativity astrophysics",
+      "stem_fields": ["Physics", "Physical Sciences", "Astronomy"],
+      "format_preferences": ["Research Opportunity", "Competition", "Summer Program"],
+      "expected_alignment": {
+        "physics_match": ">=80%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-12",
+      "name": "Chemistry enthusiast",
+      "financial_situation": "Medium",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "chemistry chemical reactions lab experiments molecules organic inorganic",
+      "stem_fields": ["Chemistry", "Physical Sciences", "Life Sciences"],
+      "format_preferences": ["Research Opportunity", "Summer Program", "Lab Experience"],
+      "expected_alignment": {
+        "chemistry_match": ">=80%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-13",
+      "name": "Earth Sciences enthusiast",
+      "financial_situation": "Medium",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 9,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "earth science geology climate environment ecology conservation",
+      "stem_fields": ["Earth Sciences", "Environmental Science", "Biology"],
+      "format_preferences": ["Summer Program", "Research Opportunity", "Field Study"],
+      "expected_alignment": {
+        "earth_sciences_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-14",
+      "name": "Environmental Science enthusiast",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "environment sustainability climate change conservation ecology biodiversity",
+      "stem_fields": ["Environmental Science", "Earth Sciences", "Biology"],
+      "format_preferences": ["Online Course", "Research Opportunity", "Advocacy Program"],
+      "expected_alignment": {
+        "environmental_match": ">=70%",
+        "low_free_resources": ">=60%"
+      }
+    },
+    {
+      "profile_id": "ID-15",
+      "name": "Astronomy & Space Science enthusiast",
+      "financial_situation": "High",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 15,
+      "support_needed": "Low",
+      "stem_interests": "astronomy astrophysics space planets stars galaxies cosmology telescopes",
+      "stem_fields": ["Astronomy", "Physics", "Aerospace Engineering"],
+      "format_preferences": ["Research Opportunity", "Summer Program", "Observatory Program"],
+      "expected_alignment": {
+        "astronomy_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-16",
+      "name": "Aerospace Engineering enthusiast",
+      "financial_situation": "Medium",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 18,
+      "support_needed": "Low",
+      "stem_interests": "aerospace aviation flight rockets spacecraft propulsion aerodynamics",
+      "stem_fields": ["Aerospace Engineering", "Engineering", "Physics"],
+      "format_preferences": ["Research Opportunity", "Internship", "Summer Program"],
+      "expected_alignment": {
+        "aerospace_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-17",
+      "name": "Cybersecurity enthusiast",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "cybersecurity network security cryptography hacking ethical security systems",
+      "stem_fields": ["Cybersecurity", "Computer Science", "Information Technology"],
+      "format_preferences": ["Online Course", "Competition", "Certification Program"],
+      "expected_alignment": {
+        "cybersecurity_match": ">=70%",
+        "field_diversity": "1-2 fields"
+      }
+    },
+    {
+      "profile_id": "ID-18",
+      "name": "Game Design & Development enthusiast",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 9,
+      "academic_level": "Beginner",
+      "time_availability": 10,
+      "support_needed": "High",
+      "stem_interests": "game design development programming unity unreal graphics animation",
+      "stem_fields": ["Game Design", "Computer Science", "Software Engineering"],
+      "format_preferences": ["Online Course", "Learning Platform", "Workshop/Training"],
+      "expected_alignment": {
+        "game_design_match": ">=70%",
+        "low_free_resources": ">=60%"
+      }
+    }
+  ]
+}

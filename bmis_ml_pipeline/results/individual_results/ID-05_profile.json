@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-05",
+  "name": "Data Science enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 12,
+    "support_needed": "Medium",
+    "stem_interests": "data science analytics statistics machine learning data visualization python",
+    "stem_fields": [
+      "Data Science",
+      "Statistics",
+      "Artificial Intelligence/Machine Learning"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Research Opportunity",
+      "Internship"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.354962"
+}

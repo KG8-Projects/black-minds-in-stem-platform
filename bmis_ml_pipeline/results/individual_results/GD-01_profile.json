@@ -1,0 +1,26 @@
+{
+  "profile_id": "GD-01",
+  "name": "6th grader - Beginner science interest",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 6,
+    "academic_level": "Beginner",
+    "time_availability": 5,
+    "support_needed": "High",
+    "stem_interests": "science experiments animals plants nature exploration discovery",
+    "stem_fields": [
+      "Life Sciences",
+      "Biology",
+      "Earth Sciences"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Camp",
+      "Learning Platform"
+    ]
+  },
+  "num_recommendations": 2,
+  "timestamp": "2025-10-15T23:02:08.088324"
+}

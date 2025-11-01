@@ -1,0 +1,26 @@
+{
+  "profile_id": "GD-06",
+  "name": "11th grader - Advanced computer science student",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 12,
+    "support_needed": "Low",
+    "stem_interests": "computer science algorithms data structures machine learning AI programming",
+    "stem_fields": [
+      "Computer Science",
+      "Artificial Intelligence/Machine Learning",
+      "Software Engineering"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Competition",
+      "Internship"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.195676"
+}

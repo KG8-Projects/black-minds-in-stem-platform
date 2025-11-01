@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-17",
+  "name": "Cybersecurity enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 12,
+    "support_needed": "Medium",
+    "stem_interests": "cybersecurity network security cryptography hacking ethical security systems",
+    "stem_fields": [
+      "Cybersecurity",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Competition",
+      "Certification Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.739270"
+}

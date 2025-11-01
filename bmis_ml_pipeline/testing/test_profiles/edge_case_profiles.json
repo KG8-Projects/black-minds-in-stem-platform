@@ -1,0 +1,196 @@
+{
+  "description": "Edge Case Test Profiles - Testing system robustness with challenging scenarios",
+  "total_profiles": 10,
+  "profiles": [
+    {
+      "profile_id": "EC-01",
+      "name": "Niche interest: Quantum Computing",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 15,
+      "support_needed": "Low",
+      "stem_interests": "quantum computing quantum mechanics qubits quantum algorithms superposition entanglement",
+      "stem_fields": ["Physics", "Computer Science", "Quantum Computing"],
+      "format_preferences": ["Research Opportunity", "Online Course", "Mentorship Program"],
+      "expected_alignment": {
+        "finds_relevant_matches": ">=10 recommendations",
+        "physics_cs_overlap": ">=50%",
+        "notes": "May match advanced physics/CS resources if no quantum-specific"
+      }
+    },
+    {
+      "profile_id": "EC-02",
+      "name": "Conflicting constraints: Low budget + In-person only",
+      "financial_situation": "Low",
+      "location": "In-person",
+      "transportation_available": false,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 8,
+      "support_needed": "High",
+      "stem_interests": "biology lab research hands-on experiments microscopy",
+      "stem_fields": ["Biology", "Life Sciences", "Biomedical Sciences"],
+      "format_preferences": ["Research Opportunity", "Lab Experience", "Mentorship Program"],
+      "expected_alignment": {
+        "finds_creative_solutions": ">=10 recommendations",
+        "low_free_resources": ">=60%",
+        "notes": "Should find local in-person programs or virtual alternatives"
+      }
+    },
+    {
+      "profile_id": "EC-03",
+      "name": "Very limited time availability: 3 hours/week",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 11,
+      "academic_level": "Intermediate",
+      "time_availability": 3,
+      "support_needed": "High",
+      "stem_interests": "computer science programming web development",
+      "stem_fields": ["Computer Science", "Web Development", "Software Engineering"],
+      "format_preferences": ["Online Course", "Learning Platform", "Self-Paced"],
+      "expected_alignment": {
+        "low_time_commitment": ">=60%",
+        "self_paced_options": ">=50%",
+        "notes": "Should prioritize flexible, low-commitment resources"
+      }
+    },
+    {
+      "profile_id": "EC-04",
+      "name": "Rural location: Limited access to technology",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 9,
+      "academic_level": "Beginner",
+      "time_availability": 10,
+      "support_needed": "High",
+      "stem_interests": "agriculture environmental science farming sustainability rural development",
+      "stem_fields": ["Environmental Science", "Earth Sciences", "Biology"],
+      "format_preferences": ["Online Course", "Correspondence Program", "Self-Study"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "virtual_accessible": ">=80%",
+        "notes": "Should prioritize low-bandwidth, accessible options"
+      }
+    },
+    {
+      "profile_id": "EC-05",
+      "name": "Multiple STEM interests: Interdisciplinary student",
+      "financial_situation": "Medium",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 20,
+      "support_needed": "Low",
+      "stem_interests": "bioengineering computational biology bioinformatics systems biology genomics data science",
+      "stem_fields": ["Biomedical Sciences", "Biology", "Computer Science", "Data Science", "Engineering"],
+      "format_preferences": ["Research Opportunity", "Internship", "Mentorship Program"],
+      "expected_alignment": {
+        "interdisciplinary_matches": ">=50%",
+        "field_diversity": ">=3 fields",
+        "notes": "Should find resources bridging biology and CS/engineering"
+      }
+    },
+    {
+      "profile_id": "EC-06",
+      "name": "Very young student: 6th grade advanced learner",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 6,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "mathematics competition problem solving mathematical olympiad number theory",
+      "stem_fields": ["Mathematics", "Computer Science"],
+      "format_preferences": ["Competition", "Online Course", "Mentorship Program"],
+      "expected_alignment": {
+        "age_appropriate": ">=80%",
+        "advanced_content_accessible": ">=50%",
+        "notes": "Should balance age-appropriateness with advanced content"
+      }
+    },
+    {
+      "profile_id": "EC-07",
+      "name": "Senior with very specific college prep needs",
+      "financial_situation": "Low",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 25,
+      "support_needed": "Low",
+      "stem_interests": "engineering scholarships college preparation STEM careers undergraduate research",
+      "stem_fields": ["Engineering", "Technology", "Applied Sciences"],
+      "format_preferences": ["Scholarship", "College Prep", "Mentorship Program", "Research Opportunity"],
+      "expected_alignment": {
+        "scholarship_opportunities": ">=30%",
+        "college_prep_focus": ">=40%",
+        "low_free_resources": ">=60%"
+      }
+    },
+    {
+      "profile_id": "EC-08",
+      "name": "Non-traditional STEM interest: Music Technology",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "music technology audio engineering sound design signal processing acoustics",
+      "stem_fields": ["Technology", "Engineering", "Computer Science", "Physics"],
+      "format_preferences": ["Online Course", "Workshop/Training", "Mentorship Program"],
+      "expected_alignment": {
+        "finds_relevant_matches": ">=10 recommendations",
+        "engineering_tech_matches": ">=50%",
+        "notes": "May match general engineering/CS/physics if no music tech specific"
+      }
+    },
+    {
+      "profile_id": "EC-09",
+      "name": "Student with accessibility needs: High support required",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 10,
+      "academic_level": "Beginner",
+      "time_availability": 6,
+      "support_needed": "High",
+      "stem_interests": "computer science accessible technology assistive tech programming",
+      "stem_fields": ["Computer Science", "Technology", "Software Engineering"],
+      "format_preferences": ["Online Course", "Mentorship Program", "Self-Paced"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "high_support_programs": ">=60%",
+        "flexible_pacing": ">=50%"
+      }
+    },
+    {
+      "profile_id": "EC-10",
+      "name": "Student seeking career transition: Technical skills",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 12,
+      "academic_level": "Intermediate",
+      "time_availability": 15,
+      "support_needed": "Medium",
+      "stem_interests": "career skills job training technical certifications employability workforce development",
+      "stem_fields": ["Computer Science", "Technology", "Information Technology"],
+      "format_preferences": ["Certification Program", "Bootcamp", "Online Course", "Internship"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "career_focused": ">=40%",
+        "certification_opportunities": ">=30%"
+      }
+    }
+  ]
+}

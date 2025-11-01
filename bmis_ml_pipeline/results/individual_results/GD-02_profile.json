@@ -1,0 +1,26 @@
+{
+  "profile_id": "GD-02",
+  "name": "7th grader - Coding beginner",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 7,
+    "academic_level": "Beginner",
+    "time_availability": 6,
+    "support_needed": "High",
+    "stem_interests": "coding programming games apps scratch python beginner",
+    "stem_fields": [
+      "Computer Science",
+      "Software Engineering",
+      "Game Design"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Learning Platform",
+      "Workshop/Training"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.109672"
+}

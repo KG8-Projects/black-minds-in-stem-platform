@@ -1,0 +1,245 @@
+================================================================================
+DATASET STATISTICAL ANALYSIS
+================================================================================
+
+RESOURCES PER DIRECTORY
+--------------------------------------------------------------------------------
+Scrapers/scrapers/data: 1059
+Scrapers/data: 754
+Data: 620
+
+CATEGORY DISTRIBUTION
+--------------------------------------------------------------------------------
+Learning Platform: 445
+Scholarship: 430
+Online Course: 124
+Camp: 121
+Competition: 105
+Summer Program: 83
+Curriculum: 69
+Program: 57
+Online Class: 53
+Internship: 52
+Research Opportunity: 45
+Research: 44
+Math Competition: 43
+Science Competition: 33
+Afterschool Program: 29
+Robotics Competition: 25
+Mentorship: 25
+Technical Competition: 20
+Computer Science Program: 19
+Coding Camp: 16
+Engineering Competition: 15
+Professional Development: 15
+Research Program: 14
+School Program: 13
+Educational Outreach: 12
+Programming Certification: 12
+Tech Program: 12
+Engineering Program: 12
+STEAM Competition: 12
+Outreach Program: 11
+STEM Competition: 10
+Ocean Science Competition: 10
+Science Project: 10
+STEM Program: 10
+Coding Program: 9
+Tutoring: 9
+Cybersecurity Competition: 9
+Middle School Program: 9
+Expedition Program: 9
+Online Tutorial: 8
+Aerospace Competition: 8
+Biomedical Program: 8
+Leadership Program: 8
+Computing Award: 8
+Coding Competition: 8
+Space Programming Competition: 8
+Elementary Program: 8
+Study Resources: 7
+Federal Program: 7
+Workshop: 7
+Academic Program: 7
+Engineering Challenge: 6
+Industry Program: 6
+Diversity Program: 6
+Synthetic Biology Competition: 6
+Event: 6
+Entrepreneurship Competition: 6
+Meteorology Program: 6
+Chemistry Program: 6
+Alumni Network: 6
+Mentorship Program: 6
+Educational Program: 6
+Open Source Program: 6
+Academic Scholarship: 5
+Training Program: 5
+Programming Course: 5
+Computer Science Competition: 5
+Physics Competition: 5
+Tech Skills Program: 5
+Math Program: 5
+Educational Resources: 5
+Essay Contest: 4
+Career Readiness: 4
+Biology Competition: 4
+Scholarship Program: 4
+Career Exploration Program: 4
+Math/Science Program: 4
+Student Organization: 4
+Online Learning: 4
+Educational Travel: 4
+Competitive Programming: 3
+Game-Based Learning: 3
+Educator Resources: 3
+Conference: 3
+Educational Resource: 3
+Citizen Science: 3
+Need-Based Scholarship: 3
+Science Program: 3
+STEM Pipeline Program: 3
+Research Award: 3
+STEM Activity: 3
+STEM Scholarship: 3
+Competition Program: 2
+Internship Program: 2
+Online Resources: 2
+Summer Camp: 2
+Design Competition: 2
+Championship Event: 2
+Merit Scholarship: 2
+Hour of Code: 2
+Research Competition: 2
+Teacher Program: 2
+STEM Research Competition: 2
+STEM Research: 2
+Environmental Competition: 2
+Teacher Training: 2
+University Pre-College: 2
+Regional Competition: 2
+Educational Webinar: 2
+Grant Program: 2
+National Finals Event: 2
+Industry Competition: 2
+Study Program: 2
+International Competition: 2
+National Showcase Event: 1
+Team Competition: 1
+Technical Resources: 1
+Diversity Scholarship: 1
+International Championship: 1
+High School Program: 1
+Student Chapter: 1
+Invitational Math Competition: 1
+School Partnership: 1
+Professional Membership: 1
+Programming Challenges: 1
+Community Event: 1
+Tutorial Library: 1
+Early Learning Platform: 1
+Programming Platform: 1
+Physics Contest: 1
+Training Event: 1
+Advanced STEM Competition: 1
+Special Prize Category: 1
+Math Modeling Competition: 1
+Application Resources: 1
+Support Program: 1
+Research Project: 1
+National Environmental Competition: 1
+Educator Network: 1
+Team Resources: 1
+Activity Cards: 1
+Curriculum Guide: 1
+Online Community: 1
+Video Tutorials: 1
+Career Development: 1
+Recognition Program: 1
+Academic Year Program: 1
+Classroom Management: 1
+Advanced Features: 1
+Robotics Program: 1
+Advanced Competition: 1
+Funding Program: 1
+Chemistry Competition: 1
+High School Programs: 1
+Educational Tool: 1
+Bootcamp: 1
+Software Access: 1
+Classroom Learning: 1
+Self-Paced Learning: 1
+Practice Platform: 1
+Summer Learning: 1
+Robotics Camp: 1
+After-School Program: 1
+Specialty STEM Camp: 1
+Science Communication: 1
+STEM Camp: 1
+Curriculum Program: 1
+STEM Recognition: 1
+Innovation Competition: 1
+Community Program: 1
+Career Program: 1
+Monitoring Program: 1
+Online Program: 1
+Virtual Program: 1
+Academic Recognition: 1
+Membership: 1
+
+TOP 20 SOURCES
+--------------------------------------------------------------------------------
+Peterson's: 50
+Chegg: 50
+Scholarships.com: 44
+College Board BigFuture: 43
+Cappex: 43
+Project Lead The Way: 40
+Niche: 39
+Outschool: 36
+Society of Women Engineers: 36
+iD Tech: 36
+Art of Problem Solving: 36
+Digital Media Academy: 35
+STEMfinity: 35
+Amplify Science: 33
+Pathways to Science: 31
+Mystery Science: 31
+IXL Learning: 31
+Zinch/Chegg: 30
+Fastweb: 30
+Raising Student Voice: 30
+
+DESCRIPTION LENGTH STATISTICS
+--------------------------------------------------------------------------------
+Average: 221 characters
+Minimum: 20 characters
+Maximum: 680 characters
+
+MISSING DATA BY COLUMN
+--------------------------------------------------------------------------------
+stem_fields: 34 (1.4%)
+prerequisite_level: 763 (31.4%)
+deadline: 133 (5.5%)
+financial_barrier_level: 1321 (54.3%)
+financial_aid_available: 104 (4.3%)
+family_income_consideration: 135 (5.5%)
+hidden_costs_level: 1349 (55.4%)
+cost_category: 34 (1.4%)
+cultural_competency: 34 (1.4%)
+internet_dependency: 163 (6.7%)
+regional_availability: 34 (1.4%)
+family_involvement_required: 597 (24.5%)
+peer_network_building: 34 (1.4%)
+mentor_access_level: 794 (32.6%)
+program_type: 2399 (98.6%)
+stem_focus: 2399 (98.6%)
+location: 2399 (98.6%)
+duration: 2399 (98.6%)
+application_deadline: 2399 (98.6%)
+eligibility: 2399 (98.6%)
+gear_support_building: 2399 (98.6%)
+contributor_community: 2399 (98.6%)
+stem_accessibility: 2399 (98.6%)
+inclusive_environment: 2399 (98.6%)
+family_involvement: 2399 (98.6%)

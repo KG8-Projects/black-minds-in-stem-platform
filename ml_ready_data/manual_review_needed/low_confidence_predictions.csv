@@ -1,0 +1,1676 @@
+index,name,predicted_value,confidence,predicted_feature
+0,ACS ChemClub,Low,0.42,financial_barrier_level
+3,ChemMatters Magazine,Medium,0.66,financial_barrier_level
+4,Celebrating Chemistry,Low,0.45,financial_barrier_level
+5,National Chemistry Week,Medium,0.48,financial_barrier_level
+6,Chemists Celebrate Earth Week,Medium,0.48,financial_barrier_level
+8,Chemistry Festivals,Low,0.55,financial_barrier_level
+9,ACS Kids Chemistry Workshops,Low,0.42,financial_barrier_level
+10,Discover Chemistry,Low,0.49,financial_barrier_level
+11,Student Programs & Resources,Low,0.49,financial_barrier_level
+12,High School Chemistry Student Programs and Resources,Medium,0.67,financial_barrier_level
+13,National Chemistry Week 2025The Hidden Life of Spices,Low,0.61,financial_barrier_level
+14,Celebrating Chemistryin Print,Low,0.61,financial_barrier_level
+15,Past Issues ofCelebrating Chemistry,Low,0.61,financial_barrier_level
+16,National Chemistry Week Editions,Low,0.61,financial_barrier_level
+26,AI4ALL Online Programs,Low,0.56,financial_barrier_level
+27,AI4ALL Open Learning,Low,0.58,financial_barrier_level
+35,AMS Freshman Undergraduate Scholarship,Low,0.69,financial_barrier_level
+39,AMS Summer Policy Colloquium,Low,0.67,financial_barrier_level
+40,AMS Broadcast Meteorology Scholarship,Low,0.62,financial_barrier_level
+45,ASHG Genetics Expert Q&A Sessions,Low,0.68,financial_barrier_level
+50,ASHRAE Research and Technical Resources,Low,0.65,financial_barrier_level
+55,Blue Ocean Competition - Business Plan Framework,Low,0.49,financial_barrier_level
+56,Blue Ocean Competition - Semi-Finalist Round,Low,0.55,financial_barrier_level
+57,Blue Ocean Competition - Finalist Awards and Recognition,Low,0.49,financial_barrier_level
+60,Botball Global Conference on Educational Robotics (GCER),Low,0.51,financial_barrier_level
+63,Botball Online Resources and Curriculum,Low,0.65,financial_barrier_level
+64,KIPR Grant Programs for Botball,Low,0.57,financial_barrier_level
+80,Brilliant.org Daily Challenges,Low,0.66,financial_barrier_level
+102,Qubit by Qubit Introduction to Quantum Computing,Low,0.61,financial_barrier_level
+103,Qubit by Qubit Advanced Quantum Computing,Low,0.47,financial_barrier_level
+104,The Coding School AI Scholars Program,Low,0.32,financial_barrier_level
+105,Coding School Summer Programs,Low,0.59,financial_barrier_level
+106,Quantum Computing Bootcamp,Low,0.44,financial_barrier_level
+107,Quantum Computing Research Projects,Low,0.63,financial_barrier_level
+108,AI for Social Good Program,Low,0.51,financial_barrier_level
+109,Quantum Computing Competitions,Low,0.51,financial_barrier_level
+110,The Coding School Mentorship Network,Low,0.53,financial_barrier_level
+113,Congressional App Challenge #HouseOfCode Event,Low,0.6,financial_barrier_level
+116,Congressional App Challenge Team Competition,Low,0.61,financial_barrier_level
+139,CyberPatriot National Finals Competition,Low,0.41,financial_barrier_level
+140,CyberPatriot Training Materials and Resources,Low,0.57,financial_barrier_level
+149,Davidson Young Scholars Program,Low,0.51,financial_barrier_level
+150,Davidson Fellows Award Application Resources,Low,0.44,financial_barrier_level
+167,eCYBERMISSION National Judging & Educational Event,Low,0.51,financial_barrier_level
+168,eCYBERMISSION STEM Mentorship Program,Low,0.6,financial_barrier_level
+191,Envirothon Current Issue Program,Low,0.59,financial_barrier_level
+192,Envirothon Alumni Network,Low,0.46,financial_barrier_level
+194,ExploraVision Primary Division (K-3),Low,0.55,financial_barrier_level
+195,ExploraVision Upper Elementary Division (4-6),Low,0.61,financial_barrier_level
+196,ExploraVision Middle School Division (7-9),Low,0.59,financial_barrier_level
+197,ExploraVision High School Division (10-12),High,0.44,financial_barrier_level
+199,ExploraVision National Winners Awards,Low,0.52,financial_barrier_level
+200,Responsive Web Design Certification,Low,0.69,financial_barrier_level
+201,JavaScript Algorithms and Data Structures Certification,Low,0.69,financial_barrier_level
+202,Front End Development Libraries Certification,Low,0.69,financial_barrier_level
+203,Data Visualization Certification,Low,0.64,financial_barrier_level
+204,Back End Development and APIs Certification,Low,0.67,financial_barrier_level
+205,Quality Assurance Certification,Low,0.68,financial_barrier_level
+207,Data Analysis with Python Certification,Low,0.64,financial_barrier_level
+208,Information Security Certification,Low,0.66,financial_barrier_level
+209,Machine Learning with Python Certification,Low,0.65,financial_barrier_level
+210,College Algebra with Python,Low,0.59,financial_barrier_level
+211,Relational Database Certification,Low,0.66,financial_barrier_level
+220,Future City - Special Recognition Awards,Low,0.61,financial_barrier_level
+226,CS First,Medium,0.64,financial_barrier_level
+227,Google Code Next,Low,0.56,financial_barrier_level
+228,Applied Digital Skills,Low,0.46,financial_barrier_level
+229,Explore Machine Learning,Low,0.6,financial_barrier_level
+230,Google Computer Science Summer Institute (CSSI),Low,0.45,financial_barrier_level
+231,Google Computational Thinking Course,Medium,0.59,financial_barrier_level
+232,Google AI Explorers,Medium,0.5,financial_barrier_level
+233,Google Code with Google,Medium,0.63,financial_barrier_level
+234,Google Applied Computing Series,Medium,0.54,financial_barrier_level
+235,Artificial Intelligence Learning Path,Low,0.41,financial_barrier_level
+236,Blockchain Learning Path,Low,0.51,financial_barrier_level
+237,Cloud Computing Learning Path,Low,0.55,financial_barrier_level
+239,Data Science Foundations,Low,0.56,financial_barrier_level
+240,Design Thinking Learning Path,Low,0.68,financial_barrier_level
+264,JASON Family STEM Engagement Activities,Low,0.4,financial_barrier_level
+285,Kode With Klossy Virtual Web Development Camp,Low,0.66,financial_barrier_level
+286,Kode With Klossy Virtual Mobile App Development Camp,Low,0.62,financial_barrier_level
+287,Kode With Klossy New York City In-Person Coding Camp,Low,0.52,financial_barrier_level
+288,Kode With Klossy Los Angeles In-Person Coding Camp,Low,0.52,financial_barrier_level
+289,Kode With Klossy Chicago In-Person Coding Camp,Low,0.52,financial_barrier_level
+290,Kode With Klossy San Francisco In-Person Coding Camp,Low,0.52,financial_barrier_level
+291,Kode With Klossy Austin In-Person Coding Camp,Low,0.52,financial_barrier_level
+292,Kode With Klossy Miami In-Person Coding Camp,Low,0.52,financial_barrier_level
+293,Kode With Klossy Seattle In-Person Coding Camp,Low,0.52,financial_barrier_level
+294,Kode With Klossy Boston In-Person Coding Camp,Low,0.52,financial_barrier_level
+295,Kode With Klossy Atlanta In-Person Coding Camp,Low,0.52,financial_barrier_level
+296,Kode With Klossy Denver In-Person Coding Camp,Low,0.52,financial_barrier_level
+297,Kode With Klossy Scholar Network,Medium,0.58,financial_barrier_level
+313,M3 Challenge Finalist Event,Low,0.58,financial_barrier_level
+315,M3 Challenge Team Formation Resources,Low,0.67,financial_barrier_level
+349,TEALS Introduction to Computer Science,Low,0.46,financial_barrier_level
+350,TEALS AP Computer Science A,Low,0.39,financial_barrier_level
+351,TEALS AP Computer Science Principles,Low,0.46,financial_barrier_level
+352,TEALS Introduction to Python,Low,0.44,financial_barrier_level
+353,TEALS Web Development,Low,0.44,financial_barrier_level
+354,TEALS Cybersecurity,Low,0.4,financial_barrier_level
+355,TEALS Data Science,Low,0.4,financial_barrier_level
+356,TEALS Remote Program,Low,0.61,financial_barrier_level
+357,MITES Summer,Low,0.42,financial_barrier_level
+358,MITES Semester,Low,0.47,financial_barrier_level
+359,MITES Saturdays,Low,0.54,financial_barrier_level
+360,MIT THINK Scholars Program,Low,0.56,financial_barrier_level
+361,MITES Summer Plus,Low,0.62,financial_barrier_level
+362,MITES Shadow Program,Low,0.55,financial_barrier_level
+363,MITES Alumni Network,Low,0.55,financial_barrier_level
+364,MITES Application Workshops,Low,0.39,financial_barrier_level
+365,"Advancing access and equity in STEM through transformative, pre-college experiences",Low,0.54,financial_barrier_level
+368,NCWIT Aspirations in Computing Affiliate Award,Medium,0.47,financial_barrier_level
+370,NCWIT Aspirations Award Recipient Community,Medium,0.69,financial_barrier_level
+394,US Physics Team Training Camp,Low,0.6,financial_barrier_level
+395,International Physics Olympiad (IPhO),Low,0.68,financial_barrier_level
+402,picoCTF Educational Resources and Primers,Medium,0.54,financial_barrier_level
+405,Scratch Programming Platform,Low,0.54,financial_barrier_level
+406,Scratch Ideas Page,Low,0.36,financial_barrier_level
+407,ScratchJr for Young Learners,Medium,0.68,financial_barrier_level
+408,Scratch Coding Cards,Medium,0.52,financial_barrier_level
+409,Scratch Online Community,Low,0.54,financial_barrier_level
+410,Scratch Video Tutorials,Low,0.36,financial_barrier_level
+411,Scratch Design Studio Challenges,Low,0.67,financial_barrier_level
+412,Scratch Day Events,Low,0.66,financial_barrier_level
+413,Scratch Extensions and Add-ons,Medium,0.59,financial_barrier_level
+418,SeaPerch Grant Funding Program,Low,0.52,financial_barrier_level
+419,SeaPerch Online Resources and Community,Low,0.64,financial_barrier_level
+420,SeaPerch Navy Mentorship Program,Medium,0.45,financial_barrier_level
+421,Simons Summer Research Program at Stony Brook University,Low,0.55,financial_barrier_level
+423,Flatiron Institute Student Research Opportunities,Low,0.5,financial_barrier_level
+460,SWENext,Medium,0.67,financial_barrier_level
+462,SWENext Influencers,Medium,0.49,financial_barrier_level
+464,SWENext High School Leadership Academy (SHLA),Low,0.45,financial_barrier_level
+465,SWENext Connect,Medium,0.49,financial_barrier_level
+466,STEM Pathways,Low,0.48,financial_barrier_level
+467,Constance and Nano Comics,Low,0.52,financial_barrier_level
+468,SWE Emerging First Year Scholars Scholarship,Low,0.48,financial_barrier_level
+469,SWENext Summer Engineering Programs,Medium,0.53,financial_barrier_level
+470,SWE WE Local Outreach Events,Low,0.59,financial_barrier_level
+471,SWENext Engineering Design Challenges,Medium,0.5,financial_barrier_level
+472,SWE Career Guidance for Young Women,Medium,0.55,financial_barrier_level
+478,TARC Safety Certification and Training,Medium,0.52,financial_barrier_level
+479,TARC Educational Resources and Curriculum,Low,0.66,financial_barrier_level
+480,TARC Industry Mentorship Program,Medium,0.58,financial_barrier_level
+481,TARC Scholarships and Prize Awards,Medium,0.58,financial_barrier_level
+513,Princeton Splash,Low,0.67,financial_barrier_level
+518,International Biology Olympiad (IBO),Low,0.66,financial_barrier_level
+520,Biology Olympiad Training Camp,Low,0.62,financial_barrier_level
+522,USABO Study Groups and Preparation Courses,Low,0.67,financial_barrier_level
+527,USACO Training Pages,Low,0.62,financial_barrier_level
+529,USACO Training Camp,Low,0.44,financial_barrier_level
+530,International Olympiad in Informatics (IOI) - USA Team,Low,0.59,financial_barrier_level
+533,Wolfram Language for Students,Low,0.67,financial_barrier_level
+535,Wolfram Computational Thinking Education,Medium,0.64,financial_barrier_level
+536,Wolfram Summer School Scholarships,High,0.41,financial_barrier_level
+537,Wolfram U Free Courses,Low,0.58,financial_barrier_level
+538,Wolfram Demonstrations Project,Low,0.65,financial_barrier_level
+540,Zero Robotics High School Competition,Low,0.59,financial_barrier_level
+541,Zero Robotics 2D Simulation Rounds,Low,0.63,financial_barrier_level
+543,Zero Robotics ISS Finals on International Space Station,Low,0.52,financial_barrier_level
+544,Zero Robotics Programming Environment and Tutorials,Low,0.66,financial_barrier_level
+545,Zero Robotics International Alliance Competition,Low,0.61,financial_barrier_level
+547,Zero Robotics Middle School Program,Low,0.42,financial_barrier_level
+581,AoPS For the Win! Problem Series,Low,0.68,financial_barrier_level
+592,Beast Academy Free Trial,Low,0.62,financial_barrier_level
+595,Broadcom MASTERS - Finals Competition,Medium,0.59,financial_barrier_level
+603,Codeforces Educational Rounds,Low,0.44,financial_barrier_level
+623,Code Ninjas Impact Programs - Community Outreach,Low,0.32,financial_barrier_level
+625,Code Ninjas FREE Trial Session,Medium,0.41,financial_barrier_level
+641,UNCF-Merck Science Initiative,Low,0.68,financial_barrier_level
+646,Boeing Company Scholarship,Low,0.52,financial_barrier_level
+653,National Space Club Keynote Scholarship,Low,0.53,financial_barrier_level
+666,Stokes Educational Scholarship Program (NSA),Low,0.68,financial_barrier_level
+672,CyberStart America - Girls Competition Track,Low,0.48,financial_barrier_level
+714,Girl Day,Low,0.5,financial_barrier_level
+715,Engineers Week,Medium,0.45,financial_barrier_level
+718,Introduce a Girl to Engineering Day,Low,0.54,financial_barrier_level
+721,Engineer Mentor Program,Medium,0.67,financial_barrier_level
+722,Family Engineering Night,Low,0.48,financial_barrier_level
+812,Mathnasium Method Assessment,Low,0.44,financial_barrier_level
+819,"Women in STEM Scholarship - $5,000",Low,0.5,financial_barrier_level
+829,"Aerospace Engineering Scholarship - $8,500",Low,0.54,financial_barrier_level
+832,"Artificial Intelligence Scholarship - $9,000",Low,0.63,financial_barrier_level
+849,"Agricultural Science Scholarship - $5,000",Low,0.5,financial_barrier_level
+852,"Minority STEM Scholarship - $10,000",Low,0.5,financial_barrier_level
+853,"First Generation STEM Scholar - $8,000",Low,0.5,financial_barrier_level
+854,"Rural STEM Student Scholarship - $6,500",Low,0.5,financial_barrier_level
+914,WTP - Women's Technology Program at MIT,Low,0.65,financial_barrier_level
+915,"NASA SEES - Summer of Engineering, Exploration and Science",Low,0.68,financial_barrier_level
+938,Aerospace Engineering High School Scholarship,Low,0.59,financial_barrier_level
+939,Artificial Intelligence High School Award,Low,0.63,financial_barrier_level
+955,Agricultural Science High School Scholarship,Medium,0.58,financial_barrier_level
+1016,Aerospace Engineering High School Scholarship,Medium,0.53,financial_barrier_level
+1017,Artificial Intelligence High School Scholarship,Low,0.64,financial_barrier_level
+1032,Agricultural Science High School Scholarship,Medium,0.58,financial_barrier_level
+1049,Sphero Edu App - Beginner Activities,Low,0.5,financial_barrier_level
+1061,Sphero Classroom Setup and Implementation Guide,Low,0.64,financial_barrier_level
+1069,STEMfinity Free Elementary Science Activities,Low,0.42,financial_barrier_level
+1071,STEMfinity Free High School STEM Labs,Low,0.64,financial_barrier_level
+1084,STEMfinity Physics Labs and Experiments,Low,0.58,financial_barrier_level
+1088,STEMfinity Elementary Math Games and Activities,Low,0.61,financial_barrier_level
+1090,STEMfinity Geometry Projects,Low,0.67,financial_barrier_level
+1095,STEMfinity STEM Classroom Setup Guide,Low,0.65,financial_barrier_level
+1152,Aerospace Engineering High School Scholarship,Low,0.59,financial_barrier_level
+1153,Artificial Intelligence High School Award,Low,0.63,financial_barrier_level
+1176,Girls Who Code Robotics Track,Medium,0.56,financial_barrier_level
+1187,Zearn Math - Family Resources,Medium,0.52,financial_barrier_level
+1188,Zearn Math - Independent Learning,Low,0.67,financial_barrier_level
+1205,Aerospace Engineering High School Scholarship,Low,0.59,financial_barrier_level
+1206,Artificial Intelligence High School Award,Low,0.63,financial_barrier_level
+1219,Amplify Science K - Needs of Plants and Animals,Low,0.48,financial_barrier_level
+1220,Amplify Science K - Pushes and Pulls,Low,0.45,financial_barrier_level
+1221,Amplify Science K - Sunlight and Weather,Low,0.45,financial_barrier_level
+1222,Amplify Science 1 - Light and Sound,Medium,0.41,financial_barrier_level
+1223,Amplify Science 1 - Animal and Plant Defenses,Medium,0.43,financial_barrier_level
+1224,Amplify Science 1 - Spinning Earth,Medium,0.42,financial_barrier_level
+1225,Amplify Science 2 - Properties of Materials,Medium,0.47,financial_barrier_level
+1226,Amplify Science 2 - Plant and Animal Relationships,Low,0.42,financial_barrier_level
+1227,Amplify Science 2 - Changing Landforms,Medium,0.5,financial_barrier_level
+1228,Amplify Science 3 - Balancing Forces,Medium,0.43,financial_barrier_level
+1229,Amplify Science 3 - Inheritance and Traits,Low,0.42,financial_barrier_level
+1230,Amplify Science 3 - Weather and Climate,Medium,0.52,financial_barrier_level
+1231,Amplify Science 3 - Environments and Survival,Low,0.42,financial_barrier_level
+1232,Amplify Science 4 - Energy Conversions,Low,0.43,financial_barrier_level
+1233,Amplify Science 4 - Vision and Light,Low,0.43,financial_barrier_level
+1234,Amplify Science 4 - Earth's Features,Medium,0.48,financial_barrier_level
+1235,"Amplify Science 4 - Waves, Energy, and Information",Low,0.43,financial_barrier_level
+1236,Amplify Science 5 - Patterns of Earth and Sky,Medium,0.42,financial_barrier_level
+1237,Amplify Science 5 - Modeling Matter,Medium,0.43,financial_barrier_level
+1238,Amplify Science 5 - Ecosystem Restoration,Low,0.46,financial_barrier_level
+1239,Amplify Science 5 - Earth's Water,Medium,0.46,financial_barrier_level
+1240,Amplify Science 6 - Cells and Systems,Low,0.5,financial_barrier_level
+1241,Amplify Science 6 - Plate Tectonics and Rock Cycling,Low,0.45,financial_barrier_level
+1242,Amplify Science 6 - Thermal Energy,Low,0.46,financial_barrier_level
+1243,Amplify Science 6 - Weather Patterns,Low,0.45,financial_barrier_level
+1244,Amplify Science 7 - Chemical Reactions,Low,0.44,financial_barrier_level
+1245,Amplify Science 7 - Populations and Resources,Low,0.52,financial_barrier_level
+1246,Amplify Science 7 - Rock Transformations,Low,0.47,financial_barrier_level
+1247,Amplify Science 7 - Metabolism,Low,0.52,financial_barrier_level
+1248,Amplify Science 8 - Forces and Motion,Low,0.48,financial_barrier_level
+1249,Amplify Science 8 - Genetics,Low,0.52,financial_barrier_level
+1250,Amplify Science 8 - Earth History,Low,0.47,financial_barrier_level
+1251,Amplify Science 8 - Natural Selection and Adaptation,Low,0.52,financial_barrier_level
+1252,Astronaut Scholarship Foundation - High School STEM Recognition Award,Low,0.63,financial_barrier_level
+1253,Astronaut Scholarship Foundation - STEM Excellence Award,Low,0.57,financial_barrier_level
+1255,Astronaut Scholarship Foundation - Innovators Program,Low,0.38,financial_barrier_level
+1257,Astronaut Scholarship Foundation - Women in Aerospace Scholarship,Low,0.6,financial_barrier_level
+1258,Astronaut Scholarship Foundation - Future Space Leaders Program,Low,0.36,financial_barrier_level
+1259,Astronaut Scholarship Foundation - STEM Research Grant for High School,Low,0.42,financial_barrier_level
+1261,Astronaut Scholarship Foundation - Alumni Mentorship Network,Medium,0.53,financial_barrier_level
+1263,Astronaut Scholarship Foundation - First Generation Space Scholar Award,Low,0.61,financial_barrier_level
+1264,Astronaut Scholarship Foundation - Virtual Space Science Series,Low,0.69,financial_barrier_level
+1291,Boeing STEM Learning Lab,Medium,0.5,financial_barrier_level
+1292,Boeing Aerospace Academy,Medium,0.44,financial_barrier_level
+1293,Boeing Student Design Challenge,Low,0.57,financial_barrier_level
+1294,Boeing Diversity Scholarship Program,Low,0.54,financial_barrier_level
+1295,Boeing Manufacturing Excellence Program,Low,0.42,financial_barrier_level
+1296,Boeing Future Engineers Program,Medium,0.46,financial_barrier_level
+1297,Boeing Aviation STEM Curriculum,Medium,0.67,financial_barrier_level
+1298,Bold.org - Women in Technology Scholarship,Low,0.65,financial_barrier_level
+1299,Bold.org - Future Black Tech Leaders Scholarship,Low,0.59,financial_barrier_level
+1300,Bold.org - Coding for Change Scholarship,Low,0.59,financial_barrier_level
+1301,Bold.org - Cybersecurity Scholars Award,Low,0.65,financial_barrier_level
+1302,Bold.org - Future Engineers Scholarship,Low,0.61,financial_barrier_level
+1303,Bold.org - Black Women in Engineering Scholarship,Low,0.64,financial_barrier_level
+1304,Bold.org - Renewable Energy Engineering Scholarship,Low,0.65,financial_barrier_level
+1305,Bold.org - Robotics and Automation Scholarship,Low,0.54,financial_barrier_level
+1306,Bold.org - Math Excellence Scholarship,Low,0.58,financial_barrier_level
+1307,Bold.org - Women in Mathematics Award,Low,0.67,financial_barrier_level
+1308,Bold.org - Data Science and Analytics Scholarship,Low,0.59,financial_barrier_level
+1309,Bold.org - Future Scientists Scholarship,Low,0.54,financial_barrier_level
+1310,Bold.org - Environmental Science Leaders Scholarship,Low,0.66,financial_barrier_level
+1311,Bold.org - Black Excellence in STEM Scholarship,Low,0.5,financial_barrier_level
+1312,Bold.org - Biomedical Science Scholarship,Low,0.58,financial_barrier_level
+1313,Bold.org - Neuroscience Research Scholarship,Low,0.59,financial_barrier_level
+1314,Bold.org - Physics and Astronomy Scholarship,Low,0.69,financial_barrier_level
+1315,Bold.org - Chemistry Innovation Scholarship,Low,0.59,financial_barrier_level
+1316,Bold.org - First-Generation STEM Scholars,Low,0.5,financial_barrier_level
+1317,Bold.org - Rural STEM Students Scholarship,Low,0.55,financial_barrier_level
+1318,Bold.org - STEM for Social Good Scholarship,Low,0.55,financial_barrier_level
+1319,Bold.org - Young Innovators STEM Award,Low,0.5,financial_barrier_level
+1320,Bold.org - Hispanic/Latinx STEM Excellence Scholarship,Low,0.5,financial_barrier_level
+1321,Bold.org - Students with Disabilities in STEM,Low,0.55,financial_barrier_level
+1322,Bold.org - Low-Income STEM Achievers Scholarship,Low,0.5,financial_barrier_level
+1323,Bold.org - High School STEM Research Scholarship,Low,0.5,financial_barrier_level
+1337,BYJU'S Future School - Free Trial Classes,Low,0.44,financial_barrier_level
+1339,"Cappex - $2,500 STEM Excellence Scholarship",Low,0.62,financial_barrier_level
+1341,Cappex - Computer Science Future Leader Scholarship,Low,0.68,financial_barrier_level
+1342,Cappex - Minority Students in STEM Scholarship,Low,0.62,financial_barrier_level
+1343,Cappex - Biology and Life Sciences Scholarship,Low,0.63,financial_barrier_level
+1346,Cappex - First Generation STEM Student Scholarship,Low,0.58,financial_barrier_level
+1347,Cappex - Mechanical Engineering Scholarship,Low,0.65,financial_barrier_level
+1348,Cappex - Chemistry Achievement Scholarship,Low,0.64,financial_barrier_level
+1350,Cappex - Physics and Astronomy Scholarship,Low,0.64,financial_barrier_level
+1351,Cappex - Electrical Engineering Scholarship,Low,0.69,financial_barrier_level
+1352,Cappex - Data Science and Analytics Scholarship,Low,0.68,financial_barrier_level
+1353,Cappex - Biomedical Engineering Scholarship,Low,0.64,financial_barrier_level
+1354,Cappex - Cybersecurity Scholar Award,Low,0.68,financial_barrier_level
+1355,Cappex - Neuroscience and Brain Research Scholarship,Low,0.65,financial_barrier_level
+1356,Cappex - Artificial Intelligence and Machine Learning Scholarship,Low,0.68,financial_barrier_level
+1357,Cappex - Civil Engineering and Infrastructure Scholarship,Low,0.64,financial_barrier_level
+1358,Cappex - Robotics and Automation Scholarship,Low,0.66,financial_barrier_level
+1359,Cappex - Genetics and Genomics Scholarship,Low,0.68,financial_barrier_level
+1360,Cappex - Aerospace Engineering Scholarship,Low,0.51,financial_barrier_level
+1362,Cappex - Black Students in STEM Scholarship,Low,0.62,financial_barrier_level
+1363,Cappex - Materials Science and Engineering Scholarship,Low,0.66,financial_barrier_level
+1364,Cappex - Web Development and Design Scholarship,Low,0.66,financial_barrier_level
+1365,Cappex - Biotechnology and Genetic Engineering Scholarship,Low,0.64,financial_barrier_level
+1366,Cappex - Chemical Engineering Scholarship,Low,0.64,financial_barrier_level
+1368,Cappex - Geology and Earth Sciences Scholarship,Low,0.68,financial_barrier_level
+1369,Cappex - Women in Science Leadership Scholarship,Low,0.58,financial_barrier_level
+1371,Cappex - Hispanic Students in STEM Scholarship,Low,0.62,financial_barrier_level
+1372,Cappex - Software Quality Assurance Scholarship,Low,0.57,financial_barrier_level
+1375,Cappex - Atmospheric Science and Climate Scholarship,Low,0.59,financial_barrier_level
+1376,Cappex - Pharmaceutical Sciences Scholarship,Low,0.64,financial_barrier_level
+1377,Cappex - Agricultural Engineering and Technology Scholarship,Low,0.49,financial_barrier_level
+1378,Cappex - Low-Income STEM Excellence Scholarship,Low,0.58,financial_barrier_level
+1379,Cappex - Forensic Science Scholarship,Low,0.68,financial_barrier_level
+1380,Cappex - Industrial Engineering and Operations Scholarship,Low,0.67,financial_barrier_level
+1381,Cappex - Rural STEM Student Opportunity Scholarship,Low,0.62,financial_barrier_level
+1382,"Chegg - $10,000 STEM Excellence Scholarship",Low,0.62,financial_barrier_level
+1385,Chegg - Minority in STEM Scholarship,Low,0.62,financial_barrier_level
+1386,Chegg - Environmental Science Scholar Award,Low,0.68,financial_barrier_level
+1388,Chegg - Robotics and Automation Scholarship,Low,0.66,financial_barrier_level
+1389,Chegg - First Generation STEM Scholarship,Low,0.62,financial_barrier_level
+1390,Chegg - Chemistry Innovation Scholarship,Low,0.64,financial_barrier_level
+1391,Chegg - Cybersecurity Future Professionals Scholarship,Low,0.68,financial_barrier_level
+1392,Chegg - Biomedical Sciences Scholarship,Low,0.64,financial_barrier_level
+1393,Chegg - Data Science and Analytics Scholarship,Low,0.69,financial_barrier_level
+1395,Chegg - Aerospace Engineering Scholarship,Low,0.51,financial_barrier_level
+1397,Chegg - Physics and Astronomy Scholarship,Low,0.64,financial_barrier_level
+1398,Chegg - Rural STEM Student Scholarship,Low,0.62,financial_barrier_level
+1399,Chegg - Artificial Intelligence Scholarship,Low,0.58,financial_barrier_level
+1400,Chegg - Biotechnology Innovation Scholarship,Low,0.64,financial_barrier_level
+1401,Chegg - Civil Engineering Future Scholarship,Low,0.64,financial_barrier_level
+1403,Chegg - Marine Biology Scholarship,Low,0.67,financial_barrier_level
+1404,Chegg - Electrical Engineering Scholarship,Low,0.69,financial_barrier_level
+1405,Chegg - Women in Mathematics Scholarship,Low,0.65,financial_barrier_level
+1406,Chegg - Neuroscience Research Scholarship,Low,0.65,financial_barrier_level
+1408,Chegg - Geology and Earth Sciences Scholarship,Low,0.68,financial_barrier_level
+1409,Chegg - Mechanical Engineering Scholarship,Low,0.65,financial_barrier_level
+1410,Chegg - Black Students in Engineering Scholarship,Low,0.69,financial_barrier_level
+1411,Chegg - Cloud Computing and Infrastructure Scholarship,Low,0.64,financial_barrier_level
+1412,Chegg - Pharmaceutical Sciences Scholarship,Low,0.64,financial_barrier_level
+1413,Chegg - Industrial Engineering Scholarship,Low,0.67,financial_barrier_level
+1414,Chegg - Microbiology and Immunology Scholarship,Low,0.66,financial_barrier_level
+1415,Chegg - Web Development and Design Scholarship,Low,0.66,financial_barrier_level
+1416,Chegg - Materials Science Scholarship,Low,0.66,financial_barrier_level
+1417,Chegg - Hispanic Students in STEM Scholarship,Low,0.62,financial_barrier_level
+1418,Chegg - Software Quality Assurance Scholarship,Low,0.57,financial_barrier_level
+1419,Chegg - Nuclear Engineering Scholarship,Low,0.65,financial_barrier_level
+1420,Chegg - Veterinary Science and Animal Health Scholarship,Low,0.58,financial_barrier_level
+1421,Chegg - Blockchain and Cryptocurrency Scholarship,Low,0.64,financial_barrier_level
+1422,Chegg - Atmospheric Science and Meteorology Scholarship,Low,0.59,financial_barrier_level
+1423,Chegg - Chemical Engineering Scholarship,Low,0.64,financial_barrier_level
+1424,Chegg - Women in Science Leadership Scholarship,Low,0.58,financial_barrier_level
+1425,Chegg - Network Engineering and Administration Scholarship,Low,0.66,financial_barrier_level
+1426,Chegg - Food Science and Technology Scholarship,Low,0.68,financial_barrier_level
+1427,Chegg - Agricultural Engineering Scholarship,Low,0.49,financial_barrier_level
+1428,Chegg - Forensic Science Scholarship,Low,0.68,financial_barrier_level
+1429,Chegg - User Experience and Design Scholarship,Low,0.66,financial_barrier_level
+1430,Chegg - Quantum Computing Scholarship,Low,0.62,financial_barrier_level
+1431,Chegg - Low-Income STEM Scholar Award,Low,0.58,financial_barrier_level
+1451,CMU Robotics Academy - STEM Equity and Inclusion Initiative,Low,0.65,financial_barrier_level
+1473,codeSpark Academy - Free Trial,Medium,0.64,financial_barrier_level
+1481,CS Discoveries,Low,0.63,financial_barrier_level
+1482,CS Principles,Low,0.6,financial_barrier_level
+1490,CS in Algebra,Low,0.63,financial_barrier_level
+1491,CS in Science,Low,0.66,financial_barrier_level
+1537,Coolmath.com - Pre-Algebra Lessons,Low,0.64,financial_barrier_level
+1538,Coolmath.com - Algebra Lessons,Low,0.56,financial_barrier_level
+1540,Coolmath4Kids - Elementary Math Games,Low,0.54,financial_barrier_level
+1541,Coolmath4Kids - Fun Facts and Brain Teasers,Low,0.54,financial_barrier_level
+1584,Cooper Union Summer STEM Program,Low,0.4,financial_barrier_level
+1586,Worcester Polytechnic Institute (WPI) - Frontiers Program,High,0.43,financial_barrier_level
+1593,President's Environmental Youth Awards,Low,0.56,financial_barrier_level
+1596,EPA Water Quality Education Resources,Low,0.44,financial_barrier_level
+1597,EPA Student Environmental Internships,Low,0.64,financial_barrier_level
+1599,EPA Environmental Education Grants,Low,0.47,financial_barrier_level
+1601,EPA Air Quality Monitoring for Students,Low,0.57,financial_barrier_level
+1603,EPA Environmental Justice Community Engagement,Low,0.4,financial_barrier_level
+1636,FIRST LEGO League Coach Training and Resources,Low,0.67,financial_barrier_level
+1637,FIRST LEGO League Team Grants and Financial Aid,Low,0.55,financial_barrier_level
+1639,FIRST LEGO League Volunteer Program,Low,0.46,financial_barrier_level
+1643,FIRST Robotics Competition - Championship,Low,0.38,financial_barrier_level
+1646,FIRST Tech Challenge - Super Regional Championships,Medium,0.54,financial_barrier_level
+1647,FIRST Tech Challenge - World Championship,Medium,0.47,financial_barrier_level
+1660,Garcia Research Scholars - Research Symposium and Competitions,Low,0.65,financial_barrier_level
+1662,Girls Who Code Clubs,Medium,0.45,financial_barrier_level
+1663,Summer Immersion Program,Low,0.62,financial_barrier_level
+1664,College Loops Program,Low,0.43,financial_barrier_level
+1666,Girls Who Code Campus Programs,Low,0.48,financial_barrier_level
+1667,Girls Who Code Middle School Clubs,Low,0.44,financial_barrier_level
+1668,Girls Who Code High School Clubs,Medium,0.51,financial_barrier_level
+1671,Virtual Summer Experience,Low,0.38,financial_barrier_level
+1672,Girls Who Code Community Impact Projects,High,0.34,financial_barrier_level
+1690,Hopscotch - Safe Community Moderation,Medium,0.43,financial_barrier_level
+1730,Jack Kent Cooke Young Scholars Program,Medium,0.51,financial_barrier_level
+1734,MATHCOUNTS National Competition,Low,0.51,financial_barrier_level
+1750,Hour of Code - Pet Selfie App,Low,0.41,financial_barrier_level
+1751,Hour of Code - Logo Turtle Graphics,Low,0.42,financial_barrier_level
+1774,Mystery Science - Mini-Lesson: Why Do Leaves Change Color?,Low,0.41,financial_barrier_level
+1775,Mystery Science - Mini-Lesson: How Do Airplanes Fly?,High,0.39,financial_barrier_level
+1776,Mystery Science - Mini-Lesson: Why Is the Ocean Salty?,Medium,0.44,financial_barrier_level
+1777,Mystery Science - Mini-Lesson: How Do Chameleons Change Color?,Low,0.48,financial_barrier_level
+1778,Mystery Science - Home Learning Edition,High,0.6,financial_barrier_level
+1782,Mystery Science - Free School Program,High,0.51,financial_barrier_level
+1783,Virtual Guest Program,Low,0.59,financial_barrier_level
+1784,NASA Internship Programs,Low,0.67,financial_barrier_level
+1785,NASA Student Launch Challenge,Low,0.41,financial_barrier_level
+1786,NASA TechRise Student Challenge,Low,0.56,financial_barrier_level
+1787,Human Exploration Rover Challenge (HERC),Medium,0.48,financial_barrier_level
+1788,NASA App Development Challenge,Low,0.61,financial_barrier_level
+1789,NASA USRP High School Internships,Medium,0.56,financial_barrier_level
+1790,Artemis Student Challenges,Low,0.54,financial_barrier_level
+1791,NASA GLOBE Student Research,Low,0.5,financial_barrier_level
+1792,NASA Aviation Design Challenge,Low,0.47,financial_barrier_level
+1793,Mars Student Challenge,Medium,0.47,financial_barrier_level
+1794,NASA Student Ambassador Program,Low,0.48,financial_barrier_level
+1795,Power to Explore STEM Writing Challenge,Low,0.58,financial_barrier_level
+1796,NASA Student Independent Research,Low,0.48,financial_barrier_level
+1810,National Merit Scholarship Program,Low,0.5,financial_barrier_level
+1811,National Merit Semifinalist Program,Low,0.5,financial_barrier_level
+1812,National Merit Finalist Recognition,Low,0.5,financial_barrier_level
+1813,College-Sponsored Merit Scholarships,Low,0.61,financial_barrier_level
+1814,National Achievement Scholarship Program,Low,0.5,financial_barrier_level
+1815,National Hispanic Recognition Program (PSAT/NMSQT),Low,0.5,financial_barrier_level
+1819,National Cancer Institute Student Training Program,Low,0.64,financial_barrier_level
+1839,NSBE Jr. - Local Chapter Meetings,Low,0.63,financial_barrier_level
+1842,NSBE Jr. - Mentorship Circles,Medium,0.42,financial_barrier_level
+1843,NSBE Jr. - Parent and Family Engagement,Low,0.59,financial_barrier_level
+1844,NSBE Jr. - Academic Excellence Workshops,Low,0.56,financial_barrier_level
+1846,NSBE Jr. - Online Learning Platform,Low,0.67,financial_barrier_level
+1847,NSBE Jr. - Scholarship and Financial Aid Workshops,Low,0.61,financial_barrier_level
+1868,Osmo - Multi-Language Support,High,0.43,financial_barrier_level
+1869,Osmo - Screen Time Alternative,High,0.61,financial_barrier_level
+1870,Osmo - Special Education Support,High,0.51,financial_barrier_level
+1874,PBS Kids - Wild Kratts: Creature Power,Medium,0.46,financial_barrier_level
+1878,PBS Kids - Odd Squad: Odd Squad Gadget Lab,Low,0.67,financial_barrier_level
+1880,PBS Kids - Molly of Denali: Sled Dog Dash,Low,0.66,financial_barrier_level
+1881,PBS Kids - Ready Jet Go!: Jet's Planet Pinball,Medium,0.5,financial_barrier_level
+1882,PBS Kids - Elinor Wonders Why: Backyard Exploration,Low,0.65,financial_barrier_level
+1883,PBS Kids - Arthur: Cast Your Vote,Low,0.63,financial_barrier_level
+1886,PBS Kids - Cat in the Hat: Sorting,Medium,0.51,financial_barrier_level
+1888,PBS Kids - Daniel Tiger: Neighborhood Helpers,Medium,0.55,financial_barrier_level
+1890,PBS Kids - Xavier Riddle: Historical STEM Figures,Low,0.66,financial_barrier_level
+1892,PBS Kids - Hero Elementary: Superpowers of Science,Low,0.65,financial_barrier_level
+1897,PBS Kids - Accessibility Features,Medium,0.43,financial_barrier_level
+1930,Raising Student Voice - Youth Innovation Challenge,Low,0.66,financial_barrier_level
+1931,Raising Student Voice - Elementary STEM Showcase,Low,0.48,financial_barrier_level
+1939,Raising Student Voice - Environmental Solutions Competition,Low,0.57,financial_barrier_level
+1951,Raising Student Voice - Middle School STEM Expo,Low,0.57,financial_barrier_level
+1955,Raising Student Voice - Social Impact Tech Challenge,Low,0.39,financial_barrier_level
+1958,Raising Student Voice - K-5 Young Innovators Challenge,Low,0.62,financial_barrier_level
+1994,Samsung Solve for Tomorrow - National STEM Competition,Low,0.47,financial_barrier_level
+1995,Samsung Solve for Tomorrow - Phase 2: State Finalists,Low,0.49,financial_barrier_level
+1996,Samsung Solve for Tomorrow - Phase 3: National Finalists,Low,0.47,financial_barrier_level
+1997,Samsung Solve for Tomorrow - National Winner Pitch Competition,Low,0.5,financial_barrier_level
+1999,Scholly - National STEM Achievement Scholarship,Low,0.55,financial_barrier_level
+2000,Scholly - Black Students in STEM Scholarship,Low,0.5,financial_barrier_level
+2001,Scholly - Future Coders Scholarship,Low,0.59,financial_barrier_level
+2002,Scholly - Women in Tech Scholarship,Low,0.65,financial_barrier_level
+2003,Scholly - Cybersecurity Future Leaders Award,Low,0.62,financial_barrier_level
+2004,Scholly - AI and Machine Learning Scholarship,Low,0.54,financial_barrier_level
+2005,Scholly - Aspiring Engineers Scholarship,Low,0.61,financial_barrier_level
+2006,Scholly - Women in Engineering Award,Low,0.64,financial_barrier_level
+2007,Scholly - Sustainable Engineering Scholarship,Low,0.65,financial_barrier_level
+2008,Scholly - Robotics and Automation Scholarship,Low,0.54,financial_barrier_level
+2009,Scholly - Future Scientists Award,Low,0.54,financial_barrier_level
+2010,Scholly - Environmental Science Leaders,Low,0.66,financial_barrier_level
+2011,Scholly - Biomedical Science Scholarship,Low,0.58,financial_barrier_level
+2012,Scholly - Chemistry Innovation Award,Low,0.59,financial_barrier_level
+2013,Scholly - Physics and Astronomy Scholarship,Low,0.69,financial_barrier_level
+2014,Scholly - Math Excellence Scholarship,Low,0.58,financial_barrier_level
+2015,Scholly - Data Science Scholars,Low,0.59,financial_barrier_level
+2016,Scholly - Minority STEM Leaders Scholarship,Low,0.5,financial_barrier_level
+2017,Scholly - First-Generation STEM Scholars,Low,0.5,financial_barrier_level
+2018,Scholly - Low-Income STEM Achievers,Low,0.5,financial_barrier_level
+2019,Scholly - Rural STEM Students Award,Low,0.55,financial_barrier_level
+2020,Scholly - STEM for Social Good Scholarship,Low,0.55,financial_barrier_level
+2021,Scholly - Young Innovators STEM Award,Low,0.5,financial_barrier_level
+2022,Scholly - High School STEM Research Award,Low,0.5,financial_barrier_level
+2023,Scholly - Students with Disabilities in STEM,Low,0.55,financial_barrier_level
+2030,Rainbow Milk Experiment,Low,0.63,financial_barrier_level
+2057,Research Science Institute (RSI) at MIT,Low,0.66,financial_barrier_level
+2065,NASA SEES (STEM Enhancement in Earth Science) Virtual Internship,Low,0.48,financial_barrier_level
+2072,"MIT MOSTEC - MIT Online Science, Technology, and Engineering Community",High,0.37,financial_barrier_level
+2073,UC Davis Young Scholars Program (YSP),Low,0.69,financial_barrier_level
+2077,Caltech SURF - High School Component,Low,0.69,financial_barrier_level
+2110,SWE - Collegiate Section Mentorship Program for HS Students,Low,0.67,financial_barrier_level
+2116,SWE - College Preparation Workshops for Engineering,Low,0.48,financial_barrier_level
+2121,SWE - Code It! Programming Competition for Girls,Low,0.69,financial_barrier_level
+2125,SWE - Engineering Portfolio Development Workshop,Low,0.48,financial_barrier_level
+2127,TASP - Telluride Association Summer Program for Juniors,Low,0.69,financial_barrier_level
+2128,TASS - Telluride Association Sophomore Seminars,Low,0.47,financial_barrier_level
+2129,TASP - Science and Mathematics Seminar,Low,0.68,financial_barrier_level
+2130,TASP - Philosophy and Critical Theory Seminar,Low,0.69,financial_barrier_level
+2131,TASP - Literature and Creative Writing Seminar,Low,0.69,financial_barrier_level
+2132,TASP - Social Sciences and Policy Seminar,Low,0.52,financial_barrier_level
+2133,TASP - Environmental Studies and Sustainability Seminar,Low,0.68,financial_barrier_level
+2134,"TASS - Race, Identity, and Social Justice Seminar",Low,0.43,financial_barrier_level
+2135,TASP/TASS - Alumni Network and College Support,Low,0.6,financial_barrier_level
+2136,Google Computer Science Summer Institute (CSSI),Low,0.68,financial_barrier_level
+2139,Meta University for High School Students,Medium,0.37,financial_barrier_level
+2141,IBM Accelerate Program for High School,Low,0.39,financial_barrier_level
+2144,Adobe Digital Academy - High School Track,Medium,0.37,financial_barrier_level
+2154,Tinkercad - Introduction to 3D Design,Low,0.51,financial_barrier_level
+2155,Tinkercad - Name Tag Design,Low,0.57,financial_barrier_level
+2156,Tinkercad - House Design Project,Medium,0.51,financial_barrier_level
+2157,Tinkercad - Keychain Design,Low,0.51,financial_barrier_level
+2158,Tinkercad - Robot Character Design,Low,0.51,financial_barrier_level
+2159,Tinkercad - Castle Design,Medium,0.53,financial_barrier_level
+2160,Tinkercad - Jewelry Design,Low,0.5,financial_barrier_level
+2161,Tinkercad - Mechanical Gears Design,Low,0.53,financial_barrier_level
+2162,Tinkercad - Box Design for 3D Printing,Medium,0.51,financial_barrier_level
+2163,Tinkercad - Minecraft Character Design,Low,0.51,financial_barrier_level
+2177,Tinkercad Community Gallery,Low,0.65,financial_barrier_level
+2201,TypingClub - Accessibility Features,Medium,0.62,financial_barrier_level
+2208,UC Berkeley BITES (Bioengineering Institute of Technology and Engineering for Students),Low,0.67,financial_barrier_level
+2209,Carnegie Mellon AI Scholars Program,Low,0.52,financial_barrier_level
+2210,Columbia Science Honors Program,Low,0.63,financial_barrier_level
+2211,University of Chicago Research in the Biological Sciences (RIBS),Low,0.67,financial_barrier_level
+0,ACS ChemClub,Low,0.676682769726248,hidden_costs_level
+1,Chemistry Olympiad,Low,0.6458281505516293,hidden_costs_level
+2,Project SEED,Variable,0.33,hidden_costs_level
+3,ChemMatters Magazine,Low,0.62,hidden_costs_level
+4,Celebrating Chemistry,Low,0.46,hidden_costs_level
+5,National Chemistry Week,Low,0.23,hidden_costs_level
+6,Chemists Celebrate Earth Week,Low,0.23,hidden_costs_level
+7,ACS High School Student Affiliates,Low,0.520549875893996,hidden_costs_level
+8,Chemistry Festivals,Low,0.6,hidden_costs_level
+10,Discover Chemistry,Moderate,0.47,hidden_costs_level
+11,Student Programs & Resources,Moderate,0.47,hidden_costs_level
+12,High School Chemistry Student Programs and Resources,Low,0.43,hidden_costs_level
+13,National Chemistry Week 2025The Hidden Life of Spices,Low,0.46,hidden_costs_level
+14,Celebrating Chemistryin Print,Low,0.46,hidden_costs_level
+15,Past Issues ofCelebrating Chemistry,Low,0.46,hidden_costs_level
+16,National Chemistry Week Editions,Low,0.46,hidden_costs_level
+17,AI4ALL at Stanford University,Low,0.37235408440417345,hidden_costs_level
+18,AI4ALL at Carnegie Mellon University,Low,0.37235408440417345,hidden_costs_level
+19,AI4ALL at Princeton University,Low,0.37235408440417345,hidden_costs_level
+20,AI4ALL at UC Berkeley,Low,0.37235408440417345,hidden_costs_level
+21,AI4ALL at Boston University,Low,0.37235408440417345,hidden_costs_level
+22,AI4ALL at University of Michigan,Low,0.37235408440417345,hidden_costs_level
+23,AI4ALL at Simon Fraser University,Low,0.37235408440417345,hidden_costs_level
+24,AI4ALL at Columbia University,Low,0.37235408440417345,hidden_costs_level
+25,AI4ALL at University of Illinois Urbana-Champaign,Low,0.37235408440417345,hidden_costs_level
+26,AI4ALL Online Programs,Low,0.42,hidden_costs_level
+27,AI4ALL Open Learning,Low,0.57,hidden_costs_level
+35,AMS Freshman Undergraduate Scholarship,Equipment,0.51,hidden_costs_level
+36,AMS Minority Scholarship,Equipment,0.49,hidden_costs_level
+37,AMS Women in Science Scholarship,Equipment,0.49,hidden_costs_level
+38,AMS K-12 Weather and Climate Education Resources,Low,0.29,hidden_costs_level
+39,AMS Summer Policy Colloquium,Low,0.43,hidden_costs_level
+40,AMS Broadcast Meteorology Scholarship,Equipment,0.49,hidden_costs_level
+41,DNA Day Essay Contest,Low,0.48,hidden_costs_level
+42,DNA Day Essay Contest - Grand Prize,Low,0.48,hidden_costs_level
+43,DNA Day Essay Contest - Runner-Up Awards,Low,0.48,hidden_costs_level
+44,DNA Day Essay Contest - Honorable Mentions,Low,0.48,hidden_costs_level
+46,ASHRAE High School Senior Scholarship,Equipment,0.65,hidden_costs_level
+48,ASHRAE Women in ASHRAE Scholarship,Low,0.59,hidden_costs_level
+49,ASHRAE Student Conference Experience,Low,0.33,hidden_costs_level
+51,ASHRAE High School Outreach Program,Low,0.34,hidden_costs_level
+52,Blue Ocean Competition - High School Division,Low,0.66,hidden_costs_level
+53,Blue Ocean Competition - Team Track,Low,0.67,hidden_costs_level
+54,Blue Ocean Competition - Individual Track,Low,0.66,hidden_costs_level
+55,Blue Ocean Competition - Business Plan Framework,Device Access,0.2533170844578492,hidden_costs_level
+56,Blue Ocean Competition - Semi-Finalist Round,Low,0.53,hidden_costs_level
+57,Blue Ocean Competition - Finalist Awards and Recognition,Low,0.53,hidden_costs_level
+66,Brilliant.org Algebra Fundamentals,Low,0.42,hidden_costs_level
+67,Brilliant.org Geometry,Low,0.42,hidden_costs_level
+68,Brilliant.org Pre-Calculus,Low,0.42,hidden_costs_level
+69,Brilliant.org Calculus,Low,0.42,hidden_costs_level
+70,Brilliant.org Computer Science Fundamentals,Low,0.42,hidden_costs_level
+71,Brilliant.org Python Programming,Low,0.42,hidden_costs_level
+72,Brilliant.org Data Structures and Algorithms,Low,0.42,hidden_costs_level
+73,Brilliant.org Physics Fundamentals,Low,0.42,hidden_costs_level
+74,Brilliant.org Electricity and Magnetism,Low,0.42,hidden_costs_level
+75,Brilliant.org Probability and Statistics,Low,0.42,hidden_costs_level
+76,Brilliant.org Machine Learning,Low,0.42,hidden_costs_level
+77,Brilliant.org Chemistry,Low,0.42,hidden_costs_level
+78,Brilliant.org Number Theory,Low,0.42,hidden_costs_level
+79,Brilliant.org Logic and Deduction,Low,0.42,hidden_costs_level
+80,Brilliant.org Daily Challenges,Low,0.58,hidden_costs_level
+81,Brilliant.org Premium Subscription,Low,0.569506431384511,hidden_costs_level
+82,Brilliant.org Quantum Computing,Low,0.42,hidden_costs_level
+83,Brilliant.org Scientific Thinking,Low,0.42,hidden_costs_level
+84,Brilliant.org Math Competition Preparation,Low,0.42,hidden_costs_level
+85,Brilliant.org Astronomy and Astrophysics,Low,0.42,hidden_costs_level
+102,Qubit by Qubit Introduction to Quantum Computing,Low,0.5,hidden_costs_level
+103,Qubit by Qubit Advanced Quantum Computing,Low,0.5,hidden_costs_level
+104,The Coding School AI Scholars Program,Low,0.5,hidden_costs_level
+105,Coding School Summer Programs,Low,0.38,hidden_costs_level
+106,Quantum Computing Bootcamp,Low,0.43092511013215856,hidden_costs_level
+107,Quantum Computing Research Projects,Equipment,0.68,hidden_costs_level
+108,AI for Social Good Program,Low,0.53,hidden_costs_level
+111,Congressional App Challenge,Low,0.69,hidden_costs_level
+112,Congressional App Challenge District Competition,Low,0.69,hidden_costs_level
+113,Congressional App Challenge #HouseOfCode Event,Low,0.4940462427745665,hidden_costs_level
+115,Congressional App Challenge Resources Hub,Low,0.38,hidden_costs_level
+116,Congressional App Challenge Team Competition,Low,0.43,hidden_costs_level
+122,Introduction to Data Science,Low,0.61,hidden_costs_level
+125,Machine Learning,Low,0.47,hidden_costs_level
+128,Mathematics for Machine Learning,Low,0.58,hidden_costs_level
+129,Cybersecurity Fundamentals,Low,0.61,hidden_costs_level
+134,Introduction to Engineering,Low,0.61,hidden_costs_level
+135,Algorithms Specialization,Low,0.6,hidden_costs_level
+150,Davidson Fellows Award Application Resources,Low,0.56,hidden_costs_level
+160,Destination Imagination Instant Challenge Workshops,Low,0.33,hidden_costs_level
+167,eCYBERMISSION National Judging & Educational Event,Low,0.4340462427745665,hidden_costs_level
+169,CS50: Introduction to Computer Science,Low,0.46,hidden_costs_level
+171,Introduction to Python Programming,Low,0.69,hidden_costs_level
+172,Introduction to Biology: The Secret of Life,Low,0.47,hidden_costs_level
+177,Introduction to Environmental Science,Low,0.68,hidden_costs_level
+179,Data Science: R Basics,Low,0.32,hidden_costs_level
+180,Introduction to Cybersecurity,Low,0.68,hidden_costs_level
+181,Web Development for Beginners,Low,0.58,hidden_costs_level
+185,Electronics for Beginners,Low,0.68,hidden_costs_level
+197,ExploraVision High School Division (10-12),Low,0.53,hidden_costs_level
+199,ExploraVision National Winners Awards,Low,0.36644521138912856,hidden_costs_level
+200,Responsive Web Design Certification,Low,0.52,hidden_costs_level
+201,JavaScript Algorithms and Data Structures Certification,Low,0.52,hidden_costs_level
+202,Front End Development Libraries Certification,Low,0.52,hidden_costs_level
+203,Data Visualization Certification,Low,0.52,hidden_costs_level
+204,Back End Development and APIs Certification,Low,0.52,hidden_costs_level
+205,Quality Assurance Certification,Low,0.52,hidden_costs_level
+206,Scientific Computing with Python Certification,Low,0.52,hidden_costs_level
+207,Data Analysis with Python Certification,Low,0.52,hidden_costs_level
+208,Information Security Certification,Low,0.52,hidden_costs_level
+209,Machine Learning with Python Certification,Low,0.52,hidden_costs_level
+210,College Algebra with Python,Low,0.47,hidden_costs_level
+211,Relational Database Certification,Low,0.52,hidden_costs_level
+213,Future City - SimCity Virtual City Component,Model materials ($20-75 estimated),0.64,hidden_costs_level
+215,Future City - Engineering Essay Component,Model materials ($20-75 estimated),0.64,hidden_costs_level
+216,Future City - Oral Presentation and Q&A,Model materials ($20-75 estimated),0.31,hidden_costs_level
+218,Future City - National Finals Competition,"Travel, Equipment",0.4,hidden_costs_level
+219,Future City - Engineer Mentor Partnerships,Low,0.5140462427745665,hidden_costs_level
+223,Google Hash Code (Practice),Low,0.58,hidden_costs_level
+225,Google Coding Competitions Practice Archive,Low,0.39,hidden_costs_level
+226,CS First,Hardware,0.43228244729534215,hidden_costs_level
+227,Google Code Next,Low,0.61,hidden_costs_level
+228,Applied Digital Skills,Low,0.38504868774283063,hidden_costs_level
+229,Explore Machine Learning,Moderate,0.54,hidden_costs_level
+231,Google Computational Thinking Course,Low,0.36,hidden_costs_level
+232,Google AI Explorers,Hardware,0.40886680943525994,hidden_costs_level
+233,Google Code with Google,Low,0.58,hidden_costs_level
+234,Google Applied Computing Series,Low,0.5,hidden_costs_level
+235,Artificial Intelligence Learning Path,Low,0.61,hidden_costs_level
+236,Blockchain Learning Path,Low,0.53,hidden_costs_level
+237,Cloud Computing Learning Path,Low,0.61,hidden_costs_level
+238,Cybersecurity Fundamentals,Low,0.49,hidden_costs_level
+239,Data Science Foundations,Low,0.55,hidden_costs_level
+240,Design Thinking Learning Path,Low,0.5,hidden_costs_level
+242,Web Development Basics,Low,0.59,hidden_costs_level
+244,UX Design Fundamentals,Low,0.47,hidden_costs_level
+245,IT Support Fundamentals,Low,0.49,hidden_costs_level
+246,Agile Methodology,Low,0.53,hidden_costs_level
+248,Enterprise Computing Basics,Low,0.46,hidden_costs_level
+253,iGEM Team Wiki and Project Documentation,"Travel, Transportation",0.2,hidden_costs_level
+255,iGEM Mentorship and Training Resources,Medium,0.43,hidden_costs_level
+256,JASON Digital Lab Platform,Low,0.44509659214803404,hidden_costs_level
+257,JASON Career Exploration Videos,Low,0.45618553622707125,hidden_costs_level
+258,JASON Virtual Research Expeditions,Low,0.5013867650493841,hidden_costs_level
+261,JASON Elementary STEM Program,Low,0.5872121650991867,hidden_costs_level
+262,JASON Middle School STEM Curriculum,Low,0.5872121650991867,hidden_costs_level
+263,JASON High School STEM Resources,Low,0.4772121650991867,hidden_costs_level
+265,Khan Academy Early Math,Low,0.57,hidden_costs_level
+266,Khan Academy Arithmetic,Low,0.57,hidden_costs_level
+267,Khan Academy Pre-Algebra,Low,0.57,hidden_costs_level
+268,Khan Academy Algebra 1,Low,0.57,hidden_costs_level
+269,Khan Academy Geometry,Low,0.57,hidden_costs_level
+270,Khan Academy Algebra 2,Low,0.57,hidden_costs_level
+271,Khan Academy Trigonometry,Low,0.57,hidden_costs_level
+272,Khan Academy Precalculus,Low,0.57,hidden_costs_level
+273,Khan Academy AP Calculus AB,Low,0.57,hidden_costs_level
+274,Khan Academy AP Calculus BC,Low,0.57,hidden_costs_level
+275,Khan Academy Statistics and Probability,Low,0.57,hidden_costs_level
+276,Khan Academy Biology,Low,0.57,hidden_costs_level
+277,Khan Academy Chemistry,Low,0.57,hidden_costs_level
+278,Khan Academy Physics,Low,0.57,hidden_costs_level
+279,Khan Academy Computer Programming,Low,0.57,hidden_costs_level
+280,Khan Academy HTML/CSS,Low,0.57,hidden_costs_level
+281,Khan Academy SQL,Low,0.57,hidden_costs_level
+282,Khan Academy Computer Science Principles,Low,0.57,hidden_costs_level
+283,Khan Academy Algorithms,Low,0.57,hidden_costs_level
+284,Khan Academy Cryptography,Low,0.57,hidden_costs_level
+285,Kode With Klossy Virtual Web Development Camp,Low,0.5,hidden_costs_level
+286,Kode With Klossy Virtual Mobile App Development Camp,Low,0.5,hidden_costs_level
+297,Kode With Klossy Scholar Network,Equipment,0.38,hidden_costs_level
+299,Kode With Klossy Capstone Project,Low,0.59,hidden_costs_level
+300,Code Quest,Low,0.49,hidden_costs_level
+301,CyberQuest,"Travel, Equipment",0.5,hidden_costs_level
+302,Code Quest Academy,"Travel, Equipment",0.3,hidden_costs_level
+303,CyberQuest Academy,"Travel, Equipment",0.3,hidden_costs_level
+304,Lockheed Martin STEM Scholarship,Low,0.5120690841664683,hidden_costs_level
+305,Lockheed Martin Vocational Scholarship,Low,0.5120690841664683,hidden_costs_level
+306,Lockheed Martin Engineering Design Challenge,Low,0.3265648883009994,hidden_costs_level
+307,Lockheed Martin Space Mission Challenge,"Travel, Equipment",0.48,hidden_costs_level
+308,Lockheed Martin Advanced Manufacturing Program,Low,0.68,hidden_costs_level
+309,Lockheed Martin AI and Robotics Challenge,"Travel, Equipment",0.48,hidden_costs_level
+310,Lockheed Martin Engineering Career Exploration,Low,0.48,hidden_costs_level
+311,MathWorks Math Modeling Challenge (M3 Challenge),Low,0.62,hidden_costs_level
+312,M3 Challenge Technical Computing Prize,Low,0.55,hidden_costs_level
+313,M3 Challenge Finalist Event,Low,0.4840462427745665,hidden_costs_level
+349,TEALS Introduction to Computer Science,Low,0.59,hidden_costs_level
+350,TEALS AP Computer Science A,Low,0.59,hidden_costs_level
+351,TEALS AP Computer Science Principles,Low,0.59,hidden_costs_level
+356,TEALS Remote Program,Low,0.6364452113891286,hidden_costs_level
+357,MITES Summer,Low,0.6140462427745664,hidden_costs_level
+358,MITES Semester,"Travel, Equipment",0.39,hidden_costs_level
+359,MITES Saturdays,Low,0.67,hidden_costs_level
+360,MIT THINK Scholars Program,Travel,0.37,hidden_costs_level
+361,MITES Summer Plus,Household Materials,0.39,hidden_costs_level
+362,MITES Shadow Program,Low,0.63,hidden_costs_level
+363,MITES Alumni Network,Low,0.63,hidden_costs_level
+364,MITES Application Workshops,Low,0.33696449792511,hidden_costs_level
+370,NCWIT Aspirations Award Recipient Community,Low,0.6,hidden_costs_level
+374,NOSB National Finals Competition,Low,0.3412942419440042,hidden_costs_level
+375,NOSB Study Materials and Resource Library,Low,0.47,hidden_costs_level
+376,NOSB Buzzer Round Format,Low,0.54,hidden_costs_level
+377,NOSB Team Challenge,Low,0.5,hidden_costs_level
+378,NOSB Current Events in Ocean Science,Low,0.59,hidden_costs_level
+379,NOSB Laboratory Practical (National Finals),Low,0.39,hidden_costs_level
+380,NOSB Field Trips and Professional Networking,Low,0.45,hidden_costs_level
+401,picoCTF Practice Gym (picoCTF.com),Low,0.3,hidden_costs_level
+402,picoCTF Educational Resources and Primers,Low,0.49,hidden_costs_level
+404,picoCTF Top Performer Recognition,Low,0.65,hidden_costs_level
+405,Scratch Programming Platform,Equipment,0.63,hidden_costs_level
+407,ScratchJr for Young Learners,Low,0.63,hidden_costs_level
+408,Scratch Coding Cards,Equipment-Travel,0.52,hidden_costs_level
+422,SFARI Educational Resources and Student Programs,Low,0.6,hidden_costs_level
+460,SWENext,Medium,0.32,hidden_costs_level
+461,SWENext Clubs,Low,0.4933655394524959,hidden_costs_level
+462,SWENext Influencers,Hardware,0.54,hidden_costs_level
+463,SWENext Awards,Low,0.51,hidden_costs_level
+464,SWENext High School Leadership Academy (SHLA),Device Access,0.21225997741355423,hidden_costs_level
+465,SWENext Connect,Equipment,0.66,hidden_costs_level
+466,STEM Pathways,Low,0.38,hidden_costs_level
+467,Constance and Nano Comics,Low,0.38,hidden_costs_level
+468,SWE Emerging First Year Scholars Scholarship,Low,0.37734804175526193,hidden_costs_level
+469,SWENext Summer Engineering Programs,Low,0.38,hidden_costs_level
+470,SWE WE Local Outreach Events,Low,0.6,hidden_costs_level
+471,SWENext Engineering Design Challenges,Medium,0.27,hidden_costs_level
+472,SWE Career Guidance for Young Women,Low,0.46,hidden_costs_level
+473,SWENext — Inspiring STEM Stars,Low,0.4933655394524959,hidden_costs_level
+478,TARC Safety Certification and Training,Equipment,0.51,hidden_costs_level
+479,TARC Educational Resources and Curriculum,Equipment,0.28,hidden_costs_level
+480,TARC Industry Mentorship Program,Equipment,0.49,hidden_costs_level
+481,TARC Scholarships and Prize Awards,Equipment,0.313317230273752,hidden_costs_level
+488,Intro to Programming,Low,0.56,hidden_costs_level
+490,Introduction to HTML and CSS,Low,0.56,hidden_costs_level
+492,Version Control with Git,Low,0.61,hidden_costs_level
+493,Introduction to Machine Learning,Low,0.46,hidden_costs_level
+495,SQL for Data Analysis,Low,0.61,hidden_costs_level
+496,Introduction to Algorithms,Low,0.47,hidden_costs_level
+497,Introduction to Artificial Intelligence,Low,0.59,hidden_costs_level
+498,Introduction to Computer Science,Low,0.47,hidden_costs_level
+523,USACO Bronze Division,Low,0.56,hidden_costs_level
+524,USACO Silver Division,Low,0.56,hidden_costs_level
+525,USACO Gold Division,Low,0.56,hidden_costs_level
+526,USACO Platinum Division,Low,0.56,hidden_costs_level
+528,USACO US Open Contest,Low,0.57,hidden_costs_level
+529,USACO Training Camp,Low,0.58,hidden_costs_level
+540,Zero Robotics High School Competition,Low,0.45,hidden_costs_level
+541,Zero Robotics 2D Simulation Rounds,Low,0.44,hidden_costs_level
+542,Zero Robotics 3D Simulation Finals,Low,0.46440579384679753,hidden_costs_level
+543,Zero Robotics ISS Finals on International Space Station,Low,0.43,hidden_costs_level
+545,Zero Robotics International Alliance Competition,Low,0.45,hidden_costs_level
+547,Zero Robotics Middle School Program,Low,0.47,hidden_costs_level
+571,AoPS Summer Math Camp - Elementary,Materials,0.47,hidden_costs_level
+572,AoPS Summer Math Camp - Middle School,Materials,0.47,hidden_costs_level
+573,AoPS Summer Math Camp - High School,Materials,0.47,hidden_costs_level
+574,AoPS Summer Coding Camp - Python,Materials,0.47,hidden_costs_level
+575,AoPS Summer Game Design Camp,Materials,0.47,hidden_costs_level
+578,AoPS Math Jams,Low,0.34,hidden_costs_level
+579,AoPS Community Forums,Device Access,0.6368252593330056,hidden_costs_level
+580,AoPS Alcumus - Adaptive Learning,Device Access,0.6453358976308778,hidden_costs_level
+581,AoPS For the Win! Problem Series,Low,0.27,hidden_costs_level
+582,AoPS Contest Preparation Resources,Device Access,0.6368252593330056,hidden_costs_level
+592,Beast Academy Free Trial,Low,0.44,hidden_costs_level
+595,Broadcom MASTERS - Finals Competition,Low,0.53,hidden_costs_level
+597,Broadcom MASTERS - Rising Stars Awards,Equipment,0.64,hidden_costs_level
+603,Codeforces Educational Rounds,Low,0.36,hidden_costs_level
+604,Codeforces Problem Archive,Device Access,0.6453358976308778,hidden_costs_level
+605,Codeforces Gym,Competition Fees,0.38,hidden_costs_level
+606,Codeforces Rating System,Device Access,0.2715400781960709,hidden_costs_level
+607,Codeforces Virtual Contests,Optional Hardware,0.37,hidden_costs_level
+608,Codeforces Blogs and Tutorials,Hardware,0.62,hidden_costs_level
+619,Code Ninjas Parents Night Out,Materials,0.41,hidden_costs_level
+620,Code Ninjas Birthday Parties,Travel,0.65,hidden_costs_level
+623,Code Ninjas Impact Programs - Community Outreach,Travel,0.38,hidden_costs_level
+625,Code Ninjas FREE Trial Session,Travel,0.35,hidden_costs_level
+626,National Merit Scholarship Program - STEM Award,Low,0.54,hidden_costs_level
+627,NSBE Jr. High School STEM Scholarship,Low,0.54,hidden_costs_level
+628,SWE High School Scholarship,Low,0.54,hidden_costs_level
+629,Dell Scholars Program - STEM Track,Low,0.54,hidden_costs_level
+630,Coca-Cola Scholars Program - STEM Award,Low,0.54,hidden_costs_level
+631,Gates Scholarship - STEM Emphasis,Low,0.54,hidden_costs_level
+632,Ron Brown Scholar Program - STEM,Low,0.54,hidden_costs_level
+633,Intel Science Talent Search Scholarship,Low,0.54,hidden_costs_level
+634,STEM Education Coalition Scholarship,Low,0.54,hidden_costs_level
+635,Best Buy @ 15 Scholarship - Technology Track,Low,0.54,hidden_costs_level
+636,Lockheed Martin STEM Scholarship,Low,0.54,hidden_costs_level
+637,Google Generation Scholarship,Low,0.54,hidden_costs_level
+638,Microsoft Tuition Scholarship,Low,0.54,hidden_costs_level
+639,Buick Achievers Scholarship - STEM,Low,0.54,hidden_costs_level
+640,AXA Achievement Scholarship - STEM,Low,0.54,hidden_costs_level
+641,UNCF-Merck Science Initiative,Low,0.54,hidden_costs_level
+642,Davidson Fellows Scholarship - STEM,Low,0.54,hidden_costs_level
+643,SMART Scholarship for STEM,Low,0.54,hidden_costs_level
+644,Elks National Foundation Most Valuable Student - STEM,Low,0.54,hidden_costs_level
+645,NSHSS STEM Scholar Award,Low,0.54,hidden_costs_level
+646,Boeing Company Scholarship,Low,0.54,hidden_costs_level
+647,GE-Reagan Foundation Scholarship,Low,0.54,hidden_costs_level
+648,AFCEA STEM Major Scholarships,Low,0.54,hidden_costs_level
+649,Regeneron Science Talent Search,Low,0.54,hidden_costs_level
+650,NACA Regional Council Student Leader Scholarship - STEM,Low,0.54,hidden_costs_level
+651,Horatio Alger STEM Scholarship,Low,0.54,hidden_costs_level
+652,SMART Girls Scholarship,Low,0.54,hidden_costs_level
+653,National Space Club Keynote Scholarship,Low,0.54,hidden_costs_level
+654,NAMEPA Scholarship Foundation STEM Award,Low,0.54,hidden_costs_level
+655,AWS Girls Tech Program Scholarship,Low,0.54,hidden_costs_level
+656,Science Olympiad Scholarship,Low,0.54,hidden_costs_level
+657,First Robotics Scholarship,Low,0.54,hidden_costs_level
+658,Environmental Protection Agency STEM Scholarship,Low,0.54,hidden_costs_level
+659,Biomimicry Institute Youth Design Challenge Scholarship,Low,0.54,hidden_costs_level
+660,NAACP ACT-SO STEM Award,Low,0.54,hidden_costs_level
+661,Thurgood Marshall College Fund STEM Scholarship,Low,0.54,hidden_costs_level
+662,Siemens Foundation Scholarship,Low,0.54,hidden_costs_level
+663,NCWIT Aspirations in Computing Award,Low,0.54,hidden_costs_level
+664,ASM Materials Education Foundation Scholarship,Low,0.54,hidden_costs_level
+665,AMS Weather Band Scholarship,Low,0.54,hidden_costs_level
+666,Stokes Educational Scholarship Program (NSA),Low,0.54,hidden_costs_level
+667,Barry Goldwater Scholarship,Low,0.54,hidden_costs_level
+668,Generation Google Scholarship - North America,Low,0.54,hidden_costs_level
+669,CyberStart America - Assess Phase,Low,0.5,hidden_costs_level
+670,CyberStart America - Game Phase,Low,0.59,hidden_costs_level
+671,CyberStart America - Elite Competition,Low,0.53,hidden_costs_level
+672,CyberStart America - Girls Competition Track,Low,0.51,hidden_costs_level
+673,CyberStart America - Scholarship Program,Equipment,0.49,hidden_costs_level
+675,CyberStart America - Hands-On Challenges,Equipment,0.66,hidden_costs_level
+676,CyberStart America - State and Regional Programs,Hardware,0.38,hidden_costs_level
+714,Girl Day,Materials,0.52,hidden_costs_level
+715,Engineers Week,Low,0.62,hidden_costs_level
+718,Introduce a Girl to Engineering Day,Low,0.5636950301673198,hidden_costs_level
+719,DiscoverE Virtual Programs,Low,0.39,hidden_costs_level
+721,Engineer Mentor Program,Hardware,0.52,hidden_costs_level
+722,Family Engineering Night,Low,0.6025362318840579,hidden_costs_level
+743,High School Senior STEM Scholarship,Low,0.54,hidden_costs_level
+744,Women in STEM High School Scholarship,Low,0.54,hidden_costs_level
+745,Minority STEM High School Leaders Scholarship,Low,0.54,hidden_costs_level
+746,High School Mathematics Excellence Award,Low,0.54,hidden_costs_level
+747,High School Technology Innovation Scholarship,Low,0.54,hidden_costs_level
+748,High School Computer Science Scholarship,Low,0.54,hidden_costs_level
+749,High School Engineering Scholarship,Low,0.54,hidden_costs_level
+750,High School Science Research Scholarship,Low,0.54,hidden_costs_level
+751,First Generation STEM High School Scholarship,Low,0.54,hidden_costs_level
+752,Rural STEM High School Student Scholarship,Low,0.54,hidden_costs_level
+753,High School Robotics and Automation Scholarship,Low,0.54,hidden_costs_level
+754,High School Environmental Science Scholarship,Low,0.54,hidden_costs_level
+755,High School Physics and Astronomy Scholarship,Low,0.54,hidden_costs_level
+756,High School Biomedical Science Scholarship,Low,0.54,hidden_costs_level
+757,High School Chemistry Scholarship,Low,0.54,hidden_costs_level
+758,High School Cybersecurity Scholarship,Low,0.54,hidden_costs_level
+759,High School Data Science Scholarship,Low,0.54,hidden_costs_level
+760,High School Aerospace Engineering Scholarship,Low,0.54,hidden_costs_level
+761,High School Artificial Intelligence Scholarship,Low,0.54,hidden_costs_level
+762,High School Software Engineering Scholarship,Low,0.54,hidden_costs_level
+763,High School Renewable Energy Scholarship,Low,0.54,hidden_costs_level
+764,High School Biology Scholarship,Low,0.54,hidden_costs_level
+765,High School Game Development Scholarship,Low,0.54,hidden_costs_level
+766,High School Mechanical Engineering Scholarship,Low,0.54,hidden_costs_level
+767,High School Electrical Engineering Scholarship,Low,0.54,hidden_costs_level
+768,High School Civil Engineering Scholarship,Low,0.54,hidden_costs_level
+769,High School Materials Science Scholarship,Low,0.54,hidden_costs_level
+770,High School Biotechnology Scholarship,Low,0.54,hidden_costs_level
+771,High School Geology and Earth Science Scholarship,Low,0.54,hidden_costs_level
+772,High School Marine Biology Scholarship,Low,0.54,hidden_costs_level
+812,Mathnasium Method Assessment,Household Materials,0.52,hidden_costs_level
+818,"STEM Major Scholarship - $10,000",Low,0.54,hidden_costs_level
+819,"Women in STEM Scholarship - $5,000",Low,0.54,hidden_costs_level
+820,"Computer Science Excellence Award - $7,500",Low,0.53,hidden_costs_level
+821,"Engineering Future Leaders Scholarship - $8,000",Low,0.53,hidden_costs_level
+822,"Environmental Science Scholarship - $5,000",Low,0.54,hidden_costs_level
+823,"Mathematics Achievement Scholarship - $6,000",Low,0.54,hidden_costs_level
+824,"Biomedical Sciences Scholarship - $7,000",Low,0.53,hidden_costs_level
+825,"Robotics and Automation Scholarship - $5,500",Low,0.54,hidden_costs_level
+826,"Data Science and Analytics Scholarship - $6,500",Low,0.53,hidden_costs_level
+827,"Chemistry Innovation Award - $5,000",Low,0.54,hidden_costs_level
+828,"Physics Scholar Award - $6,000",Low,0.54,hidden_costs_level
+829,"Aerospace Engineering Scholarship - $8,500",Low,0.53,hidden_costs_level
+830,"Cybersecurity Future Professionals - $7,000",Low,0.53,hidden_costs_level
+831,"Marine Biology Scholarship - $5,500",Low,0.54,hidden_costs_level
+832,"Artificial Intelligence Scholarship - $9,000",Low,0.53,hidden_costs_level
+833,"Biotechnology Innovation Scholarship - $6,500",Low,0.53,hidden_costs_level
+834,"Renewable Energy Scholarship - $7,500",Low,0.53,hidden_costs_level
+835,"Mechanical Engineering Scholarship - $8,000",Low,0.53,hidden_costs_level
+836,"Neuroscience Research Scholarship - $7,500",Low,0.53,hidden_costs_level
+837,"Applied Mathematics Scholarship - $6,000",Low,0.53,hidden_costs_level
+838,"Electrical Engineering Award - $7,000",Low,0.53,hidden_costs_level
+839,"Climate Science Scholarship - $6,500",Low,0.54,hidden_costs_level
+840,"Astronomy and Astrophysics Scholarship - $8,000",Low,0.53,hidden_costs_level
+841,"Software Development Scholarship - $7,500",Low,0.53,hidden_costs_level
+842,"Geology and Earth Sciences Scholarship - $5,500",Low,0.54,hidden_costs_level
+843,"Chemical Engineering Excellence - $8,500",Low,0.53,hidden_costs_level
+844,"Mobile App Development Scholarship - $6,000",Low,0.53,hidden_costs_level
+845,"Genetics and Genomics Scholarship - $7,000",Low,0.53,hidden_costs_level
+846,"Civil Engineering Scholarship - $7,500",Low,0.53,hidden_costs_level
+847,"Quantum Computing Scholarship - $9,500",Low,0.54,hidden_costs_level
+848,"Game Development and Design Scholarship - $6,500",Low,0.53,hidden_costs_level
+849,"Agricultural Science Scholarship - $5,000",Low,0.54,hidden_costs_level
+850,"Materials Science Scholarship - $7,000",Low,0.53,hidden_costs_level
+851,"Web Development Scholarship - $6,000",Low,0.53,hidden_costs_level
+852,"Minority STEM Scholarship - $10,000",Low,0.53,hidden_costs_level
+853,"First Generation STEM Scholar - $8,000",Low,0.53,hidden_costs_level
+854,"Rural STEM Student Scholarship - $6,500",Low,0.54,hidden_costs_level
+910,Minority Student Pipeline Network Summer Research Early Identification Program,Travel,0.46,hidden_costs_level
+911,American Museum of Natural History Science Research Mentoring Program,Travel,0.66,hidden_costs_level
+915,"NASA SEES - Summer of Engineering, Exploration and Science",Equipment,0.39,hidden_costs_level
+921,National STEM Scholars High School Award,Low,0.54,hidden_costs_level
+922,Future Engineers High School Scholarship,Low,0.54,hidden_costs_level
+923,Women in STEM High School Leadership Award,Low,0.54,hidden_costs_level
+924,Computer Science Excellence High School Scholarship,Low,0.54,hidden_costs_level
+925,Mathematics Achievement High School Award,Low,0.54,hidden_costs_level
+926,Science Research Scholars High School Program,Low,0.54,hidden_costs_level
+927,Minority STEM Leaders High School Scholarship,Low,0.54,hidden_costs_level
+928,Technology Innovation High School Award,Low,0.54,hidden_costs_level
+929,Biology Excellence High School Scholarship,Low,0.54,hidden_costs_level
+930,Chemistry Achievement High School Award,Low,0.54,hidden_costs_level
+931,Physics and Astronomy High School Scholarship,Low,0.54,hidden_costs_level
+932,Environmental Science High School Scholarship,Low,0.54,hidden_costs_level
+933,Robotics Engineering High School Award,Low,0.54,hidden_costs_level
+934,First Generation STEM High School Scholarship,Low,0.54,hidden_costs_level
+935,Cybersecurity High School Scholarship,Low,0.54,hidden_costs_level
+936,Biomedical Science High School Award,Low,0.54,hidden_costs_level
+937,Data Science High School Scholarship,Low,0.54,hidden_costs_level
+938,Aerospace Engineering High School Scholarship,Low,0.54,hidden_costs_level
+939,Artificial Intelligence High School Award,Low,0.54,hidden_costs_level
+940,Software Development High School Scholarship,Low,0.54,hidden_costs_level
+941,Mechanical Engineering High School Scholarship,Low,0.54,hidden_costs_level
+942,Electrical Engineering High School Award,Low,0.54,hidden_costs_level
+943,Civil Engineering High School Scholarship,Low,0.54,hidden_costs_level
+944,Renewable Energy High School Scholarship,Low,0.54,hidden_costs_level
+945,Biotechnology High School Award,Low,0.54,hidden_costs_level
+946,Game Development High School Scholarship,Low,0.54,hidden_costs_level
+947,Materials Science High School Scholarship,Low,0.54,hidden_costs_level
+948,Marine Biology High School Scholarship,Low,0.54,hidden_costs_level
+949,Geology and Earth Science High School Award,Low,0.54,hidden_costs_level
+950,Rural STEM Students High School Scholarship,Low,0.54,hidden_costs_level
+951,Neuroscience High School Scholarship,Low,0.54,hidden_costs_level
+952,Web Development High School Scholarship,Low,0.54,hidden_costs_level
+953,Mobile App Development High School Award,Low,0.54,hidden_costs_level
+954,Quantum Computing High School Scholarship,Low,0.54,hidden_costs_level
+955,Agricultural Science High School Scholarship,Low,0.34,hidden_costs_level
+956,3D Printing and Manufacturing High School Award,Low,0.54,hidden_costs_level
+957,Veterinary Science High School Scholarship,Low,0.54,hidden_costs_level
+958,Climate Science High School Scholarship,Low,0.54,hidden_costs_level
+959,Statistics and Probability High School Award,Low,0.54,hidden_costs_level
+960,Forensic Science High School Scholarship,Low,0.54,hidden_costs_level
+961,Nanotechnology High School Scholarship,Low,0.54,hidden_costs_level
+962,Industrial Engineering High School Award,Low,0.54,hidden_costs_level
+963,Nuclear Engineering High School Scholarship,Low,0.54,hidden_costs_level
+964,Astronomy and Astrophysics High School Award,Low,0.54,hidden_costs_level
+965,Health Informatics High School Scholarship,Low,0.54,hidden_costs_level
+966,Chemical Engineering High School Scholarship,Low,0.54,hidden_costs_level
+967,Biochemistry High School Award,Low,0.54,hidden_costs_level
+968,Microbiology High School Scholarship,Low,0.54,hidden_costs_level
+969,Genetics and Genomics High School Scholarship,Low,0.54,hidden_costs_level
+970,Pharmacology High School Award,Low,0.54,hidden_costs_level
+971,PLTW Launch - Modeling and Analysis,Model materials ($20-75 estimated),0.29,hidden_costs_level
+972,PLTW Launch - Structure and Function,Model materials ($20-75 estimated),0.29,hidden_costs_level
+973,PLTW Launch - Automation and Robotics,Model materials ($20-75 estimated),0.29,hidden_costs_level
+974,PLTW Gateway - Design and Modeling,Low,0.18285255670830922,hidden_costs_level
+975,PLTW Gateway - Automation and Robotics,Low,0.18285255670830922,hidden_costs_level
+976,PLTW Gateway - Medical Detectives,Low,0.18285255670830922,hidden_costs_level
+977,PLTW Gateway - Computer Science for Innovators and Makers,Low,0.18285255670830922,hidden_costs_level
+978,PLTW Engineering - Introduction to Engineering Design,Model materials ($20-75 estimated),0.27,hidden_costs_level
+979,PLTW Engineering - Principles of Engineering,Model materials ($20-75 estimated),0.27,hidden_costs_level
+980,PLTW Engineering - Digital Electronics,Model materials ($20-75 estimated),0.27,hidden_costs_level
+981,PLTW Engineering - Aerospace Engineering,Model materials ($20-75 estimated),0.27,hidden_costs_level
+982,PLTW Engineering - Engineering Design and Development,Model materials ($20-75 estimated),0.27,hidden_costs_level
+983,PLTW Biomedical Science - Principles of Biomedical Sciences,Low,0.3047911924122694,hidden_costs_level
+984,PLTW Biomedical Science - Human Body Systems,Low,0.3047911924122694,hidden_costs_level
+985,PLTW Biomedical Science - Medical Interventions,Low,0.3047911924122694,hidden_costs_level
+986,PLTW Biomedical Science - Biomedical Innovation,Low,0.3047911924122694,hidden_costs_level
+987,PLTW Computer Science - Computer Science Essentials,Low,0.2347911924122694,hidden_costs_level
+988,PLTW Computer Science - Computer Science Principles,Low,0.2347911924122694,hidden_costs_level
+989,PLTW Computer Science - Computer Science A,Low,0.2347911924122694,hidden_costs_level
+990,PLTW Computer Science - Cybersecurity,Low,0.2347911924122694,hidden_costs_level
+993,Prodigy Math - Parent Dashboard,Device Access,0.2664085713670263,hidden_costs_level
+998,Prodigy Math - Assessment and Placement,Optional Hardware,0.69,hidden_costs_level
+1001,STEM Excellence High School Scholarship,Low,0.54,hidden_costs_level
+1002,Women in Technology High School Award,Low,0.54,hidden_costs_level
+1003,Engineering Future Leaders High School Scholarship,Low,0.54,hidden_costs_level
+1004,Minority STEM Champions High School Scholarship,Low,0.54,hidden_costs_level
+1005,Computer Science Innovators High School Award,Low,0.54,hidden_costs_level
+1006,Mathematics Excellence High School Scholarship,Low,0.54,hidden_costs_level
+1007,Science Research High School Scholarship,Low,0.54,hidden_costs_level
+1008,First Generation STEM High School Scholarship,Low,0.54,hidden_costs_level
+1009,Robotics and Automation High School Award,Low,0.54,hidden_costs_level
+1010,Environmental Science High School Scholarship,Low,0.54,hidden_costs_level
+1011,Physics and Astronomy High School Award,Low,0.54,hidden_costs_level
+1012,Chemistry Achievement High School Scholarship,Low,0.54,hidden_costs_level
+1013,Biomedical Science High School Scholarship,Low,0.54,hidden_costs_level
+1014,Cybersecurity High School Scholarship,Low,0.54,hidden_costs_level
+1015,Data Science and Analytics High School Award,Low,0.54,hidden_costs_level
+1016,Aerospace Engineering High School Scholarship,Low,0.34,hidden_costs_level
+1017,Artificial Intelligence High School Scholarship,Low,0.54,hidden_costs_level
+1018,Biology Excellence High School Scholarship,Low,0.54,hidden_costs_level
+1019,Software Development High School Award,Low,0.54,hidden_costs_level
+1020,Renewable Energy High School Scholarship,Low,0.54,hidden_costs_level
+1021,Rural STEM Students High School Scholarship,Low,0.54,hidden_costs_level
+1022,Game Development High School Scholarship,Low,0.54,hidden_costs_level
+1023,Mechanical Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1024,Electrical Engineering High School Award,Low,0.54,hidden_costs_level
+1025,Civil Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1026,Materials Science High School Scholarship,Low,0.54,hidden_costs_level
+1027,Biotechnology High School Award,Low,0.54,hidden_costs_level
+1028,Geology and Earth Science High School Scholarship,Low,0.54,hidden_costs_level
+1029,Marine Biology High School Scholarship,Low,0.54,hidden_costs_level
+1030,Neuroscience High School Scholarship,Low,0.54,hidden_costs_level
+1031,Quantum Computing High School Award,Low,0.54,hidden_costs_level
+1032,Agricultural Science High School Scholarship,Low,0.34,hidden_costs_level
+1033,Web Development High School Scholarship,Low,0.54,hidden_costs_level
+1034,Mobile App Development High School Award,Low,0.54,hidden_costs_level
+1035,3D Printing and Manufacturing High School Scholarship,Low,0.54,hidden_costs_level
+1036,Veterinary Science High School Scholarship,Low,0.54,hidden_costs_level
+1037,Climate Science High School Scholarship,Low,0.54,hidden_costs_level
+1038,Statistics and Probability High School Award,Low,0.54,hidden_costs_level
+1039,Forensic Science High School Scholarship,Low,0.54,hidden_costs_level
+1040,Nanotechnology High School Scholarship,Low,0.54,hidden_costs_level
+1041,Industrial Engineering High School Award,Low,0.54,hidden_costs_level
+1042,Nuclear Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1043,Astronomy and Astrophysics High School Scholarship,Low,0.54,hidden_costs_level
+1044,Health Informatics High School Scholarship,Low,0.54,hidden_costs_level
+1061,Sphero Classroom Setup and Implementation Guide,Equipment,0.32,hidden_costs_level
+1078,STEMfinity Python Programming for Beginners,Device Access,0.6453358976308778,hidden_costs_level
+1079,STEMfinity Scratch Coding Activities,Optional Hardware,0.63,hidden_costs_level
+1080,STEMfinity Web Development Basics,Device Access,0.6453358976308778,hidden_costs_level
+1089,STEMfinity Algebra Problem Sets,Device Access,0.6453358976308778,hidden_costs_level
+1091,STEMfinity Statistics and Data Analysis,Basic Materials,0.6515205352868922,hidden_costs_level
+1095,STEMfinity STEM Classroom Setup Guide,Equipment,0.32,hidden_costs_level
+1096,STEMfinity Grant Writing Resources,Equipment,0.32,hidden_costs_level
+1099,STEMfinity Climate Science Education,Optional Hardware,0.37,hidden_costs_level
+1100,STEMfinity STEM Career Exploration,Device Access,0.6453358976308778,hidden_costs_level
+1101,STEMfinity Women in STEM Profiles,Device Access,0.6368252593330056,hidden_costs_level
+1102,STEMfinity Diversity in STEM Resources,Device Access,0.2664085713670263,hidden_costs_level
+1106,STEM Challenge Game Design Resources,Device Access,0.6453358976308778,hidden_costs_level
+1107,STEM Challenge Scratch Game Programming,Device Access,0.6453358976308778,hidden_costs_level
+1108,STEM Challenge Unity Game Development,Device Access,0.6453358976308778,hidden_costs_level
+1109,STEM Challenge Past Winners Showcase,Device Access,0.6368252593330056,hidden_costs_level
+1130,Tynker Summer Coding Camp - Game Dev,Low,0.54,hidden_costs_level
+1131,Tynker Summer Coding Camp - Python,Low,0.54,hidden_costs_level
+1132,Tynker Summer Coding Camp - Minecraft,Low,0.54,hidden_costs_level
+1133,Tynker Summer Coding Camp - Mobile Apps,Low,0.54,hidden_costs_level
+1135,STEM Innovators High School Scholarship,Low,0.54,hidden_costs_level
+1136,Engineering Future High School Award,Low,0.54,hidden_costs_level
+1137,Computer Science High School Scholarship,Low,0.54,hidden_costs_level
+1138,Women in STEM High School Leadership Scholarship,Low,0.54,hidden_costs_level
+1139,Mathematics Excellence High School Scholarship,Low,0.54,hidden_costs_level
+1140,Science Research High School Scholarship,Low,0.54,hidden_costs_level
+1141,Minority STEM Leaders High School Scholarship,Low,0.54,hidden_costs_level
+1142,Technology Innovation High School Award,Low,0.54,hidden_costs_level
+1143,Robotics High School Scholarship,Low,0.54,hidden_costs_level
+1144,Environmental Science High School Scholarship,Low,0.54,hidden_costs_level
+1145,Biology Excellence High School Award,Low,0.54,hidden_costs_level
+1146,Chemistry Achievement High School Scholarship,Low,0.54,hidden_costs_level
+1147,Physics High School Scholarship,Low,0.54,hidden_costs_level
+1148,First Generation STEM High School Scholarship,Low,0.54,hidden_costs_level
+1149,Cybersecurity High School Award,Low,0.54,hidden_costs_level
+1150,Biomedical Science High School Scholarship,Low,0.54,hidden_costs_level
+1151,Data Science High School Scholarship,Low,0.54,hidden_costs_level
+1152,Aerospace Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1153,Artificial Intelligence High School Award,Low,0.54,hidden_costs_level
+1154,Software Development High School Scholarship,Low,0.54,hidden_costs_level
+1155,Mechanical Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1156,Electrical Engineering High School Award,Low,0.54,hidden_costs_level
+1157,Civil Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1158,Renewable Energy High School Scholarship,Low,0.54,hidden_costs_level
+1159,Biotechnology High School Award,Low,0.54,hidden_costs_level
+1160,Game Development High School Scholarship,Low,0.54,hidden_costs_level
+1161,Marine Biology High School Scholarship,Low,0.54,hidden_costs_level
+1162,Geology High School Award,Low,0.54,hidden_costs_level
+1163,Rural STEM High School Scholarship,Low,0.54,hidden_costs_level
+1173,VEX VR Virtual Robotics,Low,0.59,hidden_costs_level
+1174,National Robotics Week Events,Materials,0.64,hidden_costs_level
+1176,Girls Who Code Robotics Track,Low,0.3271808461269806,hidden_costs_level
+1178,Zearn Math - Kindergarten Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1179,Zearn Math - Grade 1 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1180,Zearn Math - Grade 2 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1181,Zearn Math - Grade 3 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1182,Zearn Math - Grade 4 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1183,Zearn Math - Grade 5 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1184,Zearn Math - Grade 6 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1185,Zearn Math - Grade 7 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1186,Zearn Math - Grade 8 Curriculum,Device Access,0.6453358976308778,hidden_costs_level
+1187,Zearn Math - Family Resources,Hardware,0.48,hidden_costs_level
+1188,Zearn Math - Independent Learning,Device Access,0.6453358976308778,hidden_costs_level
+1189,STEM Leaders High School Scholarship,Low,0.54,hidden_costs_level
+1190,Engineering Excellence High School Award,Low,0.54,hidden_costs_level
+1191,Computer Science High School Scholarship,Low,0.54,hidden_costs_level
+1192,Women in Technology High School Award,Low,0.54,hidden_costs_level
+1193,Mathematics Excellence High School Scholarship,Low,0.54,hidden_costs_level
+1194,Science Research High School Scholarship,Low,0.54,hidden_costs_level
+1195,Minority STEM High School Scholarship,Low,0.54,hidden_costs_level
+1196,Robotics High School Scholarship,Low,0.54,hidden_costs_level
+1197,Environmental Science High School Award,Low,0.54,hidden_costs_level
+1198,Biology High School Scholarship,Low,0.54,hidden_costs_level
+1199,Chemistry Achievement High School Scholarship,Low,0.54,hidden_costs_level
+1200,Physics High School Award,Low,0.54,hidden_costs_level
+1201,First Generation STEM High School Scholarship,Low,0.54,hidden_costs_level
+1202,Cybersecurity High School Scholarship,Low,0.54,hidden_costs_level
+1203,Biomedical Science High School Award,Low,0.54,hidden_costs_level
+1204,Data Science High School Scholarship,Low,0.54,hidden_costs_level
+1205,Aerospace Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1206,Artificial Intelligence High School Award,Low,0.54,hidden_costs_level
+1207,Software Development High School Scholarship,Low,0.54,hidden_costs_level
+1208,Mechanical Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1209,Electrical Engineering High School Award,Low,0.54,hidden_costs_level
+1210,Civil Engineering High School Scholarship,Low,0.54,hidden_costs_level
+1211,Renewable Energy High School Scholarship,Low,0.54,hidden_costs_level
+1212,Biotechnology High School Award,Low,0.54,hidden_costs_level
+1213,Game Development High School Scholarship,Low,0.54,hidden_costs_level
+1214,Marine Biology High School Scholarship,Low,0.54,hidden_costs_level
+1215,Geology High School Award,Low,0.54,hidden_costs_level
+1216,Rural STEM High School Scholarship,Low,0.54,hidden_costs_level
+1217,Web Development High School Scholarship,Low,0.54,hidden_costs_level
+1218,Mobile App Development High School Award,Low,0.54,hidden_costs_level
+1219,Amplify Science K - Needs of Plants and Animals,Materials,0.26,hidden_costs_level
+1220,Amplify Science K - Pushes and Pulls,Materials,0.26,hidden_costs_level
+1221,Amplify Science K - Sunlight and Weather,Materials,0.26,hidden_costs_level
+1222,Amplify Science 1 - Light and Sound,Equipment,0.26371438874864767,hidden_costs_level
+1223,Amplify Science 1 - Animal and Plant Defenses,Equipment,0.26371438874864767,hidden_costs_level
+1224,Amplify Science 1 - Spinning Earth,Equipment,0.26371438874864767,hidden_costs_level
+1225,Amplify Science 2 - Properties of Materials,Equipment,0.26371438874864767,hidden_costs_level
+1226,Amplify Science 2 - Plant and Animal Relationships,Materials,0.24,hidden_costs_level
+1227,Amplify Science 2 - Changing Landforms,Equipment,0.26371438874864767,hidden_costs_level
+1228,Amplify Science 3 - Balancing Forces,Equipment,0.2837143887486477,hidden_costs_level
+1229,Amplify Science 3 - Inheritance and Traits,Materials,0.24,hidden_costs_level
+1230,Amplify Science 3 - Weather and Climate,Equipment,0.2837143887486477,hidden_costs_level
+1231,Amplify Science 3 - Environments and Survival,Materials,0.24,hidden_costs_level
+1232,Amplify Science 4 - Energy Conversions,Materials,0.24,hidden_costs_level
+1233,Amplify Science 4 - Vision and Light,Materials,0.24,hidden_costs_level
+1234,Amplify Science 4 - Earth's Features,Equipment,0.2837143887486477,hidden_costs_level
+1235,"Amplify Science 4 - Waves, Energy, and Information",Materials,0.24,hidden_costs_level
+1236,Amplify Science 5 - Patterns of Earth and Sky,Equipment,0.2837143887486477,hidden_costs_level
+1237,Amplify Science 5 - Modeling Matter,Equipment,0.2837143887486477,hidden_costs_level
+1238,Amplify Science 5 - Ecosystem Restoration,Materials,0.24,hidden_costs_level
+1239,Amplify Science 5 - Earth's Water,Equipment,0.2837143887486477,hidden_costs_level
+1240,Amplify Science 6 - Cells and Systems,Materials,0.24,hidden_costs_level
+1241,Amplify Science 6 - Plate Tectonics and Rock Cycling,Materials,0.24,hidden_costs_level
+1242,Amplify Science 6 - Thermal Energy,Materials,0.24,hidden_costs_level
+1243,Amplify Science 6 - Weather Patterns,Materials,0.24,hidden_costs_level
+1244,Amplify Science 7 - Chemical Reactions,Materials,0.24,hidden_costs_level
+1245,Amplify Science 7 - Populations and Resources,Materials,0.24,hidden_costs_level
+1246,Amplify Science 7 - Rock Transformations,Materials,0.24,hidden_costs_level
+1247,Amplify Science 7 - Metabolism,Materials,0.24,hidden_costs_level
+1248,Amplify Science 8 - Forces and Motion,Materials,0.24,hidden_costs_level
+1249,Amplify Science 8 - Genetics,Materials,0.24,hidden_costs_level
+1250,Amplify Science 8 - Earth History,Materials,0.24,hidden_costs_level
+1251,Amplify Science 8 - Natural Selection and Adaptation,Materials,0.24,hidden_costs_level
+1252,Astronaut Scholarship Foundation - High School STEM Recognition Award,Low,0.34,hidden_costs_level
+1253,Astronaut Scholarship Foundation - STEM Excellence Award,Low,0.3,hidden_costs_level
+1255,Astronaut Scholarship Foundation - Innovators Program,Low,0.3240462427745665,hidden_costs_level
+1256,Astronaut Scholarship Foundation - Space Exploration Essay Contest,Low,0.63,hidden_costs_level
+1257,Astronaut Scholarship Foundation - Women in Aerospace Scholarship,Low,0.3,hidden_costs_level
+1258,Astronaut Scholarship Foundation - Future Space Leaders Program,Low,0.3240462427745665,hidden_costs_level
+1259,Astronaut Scholarship Foundation - STEM Research Grant for High School,Equipment,0.30292613636363636,hidden_costs_level
+1261,Astronaut Scholarship Foundation - Alumni Mentorship Network,Equipment,0.63,hidden_costs_level
+1263,Astronaut Scholarship Foundation - First Generation Space Scholar Award,Low,0.3,hidden_costs_level
+1264,Astronaut Scholarship Foundation - Virtual Space Science Series,Low,0.43,hidden_costs_level
+1298,Bold.org - Women in Technology Scholarship,Low,0.31,hidden_costs_level
+1299,Bold.org - Future Black Tech Leaders Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1300,Bold.org - Coding for Change Scholarship,Travel,0.42,hidden_costs_level
+1301,Bold.org - Cybersecurity Scholars Award,Low,0.31,hidden_costs_level
+1302,Bold.org - Future Engineers Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1303,Bold.org - Black Women in Engineering Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1304,Bold.org - Renewable Energy Engineering Scholarship,Low,0.31,hidden_costs_level
+1305,Bold.org - Robotics and Automation Scholarship,Travel,0.42,hidden_costs_level
+1306,Bold.org - Math Excellence Scholarship,Low,0.31,hidden_costs_level
+1307,Bold.org - Women in Mathematics Award,"Travel, Equipment",0.31,hidden_costs_level
+1308,Bold.org - Data Science and Analytics Scholarship,Travel,0.42,hidden_costs_level
+1309,Bold.org - Future Scientists Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1310,Bold.org - Environmental Science Leaders Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1311,Bold.org - Black Excellence in STEM Scholarship,Travel,0.42,hidden_costs_level
+1312,Bold.org - Biomedical Science Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1313,Bold.org - Neuroscience Research Scholarship,Low,0.31,hidden_costs_level
+1314,Bold.org - Physics and Astronomy Scholarship,Low,0.31,hidden_costs_level
+1315,Bold.org - Chemistry Innovation Scholarship,Low,0.31,hidden_costs_level
+1316,Bold.org - First-Generation STEM Scholars,"Travel, Equipment",0.31,hidden_costs_level
+1317,Bold.org - Rural STEM Students Scholarship,Low,0.31,hidden_costs_level
+1318,Bold.org - STEM for Social Good Scholarship,Low,0.31,hidden_costs_level
+1319,Bold.org - Young Innovators STEM Award,Travel,0.42,hidden_costs_level
+1320,Bold.org - Hispanic/Latinx STEM Excellence Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1321,Bold.org - Students with Disabilities in STEM,Low,0.31,hidden_costs_level
+1322,Bold.org - Low-Income STEM Achievers Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+1323,Bold.org - High School STEM Research Scholarship,Travel,0.42,hidden_costs_level
+1337,BYJU'S Future School - Free Trial Classes,Low,0.47,hidden_costs_level
+1339,"Cappex - $2,500 STEM Excellence Scholarship",Low,0.3,hidden_costs_level
+1340,Cappex - Women in Engineering Scholarship,Low,0.3,hidden_costs_level
+1341,Cappex - Computer Science Future Leader Scholarship,Low,0.3,hidden_costs_level
+1342,Cappex - Minority Students in STEM Scholarship,Low,0.3,hidden_costs_level
+1343,Cappex - Biology and Life Sciences Scholarship,Low,0.3,hidden_costs_level
+1344,Cappex - Mathematics Scholar Award,Low,0.3,hidden_costs_level
+1345,Cappex - Environmental Science Scholarship,Low,0.3,hidden_costs_level
+1346,Cappex - First Generation STEM Student Scholarship,Low,0.3,hidden_costs_level
+1347,Cappex - Mechanical Engineering Scholarship,Low,0.3,hidden_costs_level
+1348,Cappex - Chemistry Achievement Scholarship,Low,0.3,hidden_costs_level
+1349,Cappex - Women in Computer Science Scholarship,Low,0.3,hidden_costs_level
+1350,Cappex - Physics and Astronomy Scholarship,Low,0.3,hidden_costs_level
+1351,Cappex - Electrical Engineering Scholarship,Low,0.3,hidden_costs_level
+1352,Cappex - Data Science and Analytics Scholarship,Low,0.3,hidden_costs_level
+1353,Cappex - Biomedical Engineering Scholarship,Low,0.3,hidden_costs_level
+1354,Cappex - Cybersecurity Scholar Award,Low,0.3,hidden_costs_level
+1355,Cappex - Neuroscience and Brain Research Scholarship,Low,0.3,hidden_costs_level
+1356,Cappex - Artificial Intelligence and Machine Learning Scholarship,Low,0.3,hidden_costs_level
+1357,Cappex - Civil Engineering and Infrastructure Scholarship,Low,0.3,hidden_costs_level
+1358,Cappex - Robotics and Automation Scholarship,Low,0.3,hidden_costs_level
+1359,Cappex - Genetics and Genomics Scholarship,Low,0.3,hidden_costs_level
+1360,Cappex - Aerospace Engineering Scholarship,Low,0.3,hidden_costs_level
+1361,Cappex - Marine Biology and Oceanography Scholarship,Low,0.3,hidden_costs_level
+1362,Cappex - Black Students in STEM Scholarship,Low,0.3,hidden_costs_level
+1363,Cappex - Materials Science and Engineering Scholarship,Low,0.3,hidden_costs_level
+1364,Cappex - Web Development and Design Scholarship,Low,0.3,hidden_costs_level
+1365,Cappex - Biotechnology and Genetic Engineering Scholarship,Low,0.3,hidden_costs_level
+1366,Cappex - Chemical Engineering Scholarship,Low,0.3,hidden_costs_level
+1367,Cappex - Game Development Scholarship,Low,0.3,hidden_costs_level
+1368,Cappex - Geology and Earth Sciences Scholarship,Low,0.3,hidden_costs_level
+1369,Cappex - Women in Science Leadership Scholarship,Low,0.3,hidden_costs_level
+1370,Cappex - Renewable Energy and Sustainability Scholarship,Low,0.3,hidden_costs_level
+1371,Cappex - Hispanic Students in STEM Scholarship,Low,0.3,hidden_costs_level
+1372,Cappex - Software Quality Assurance Scholarship,Low,0.3,hidden_costs_level
+1373,Cappex - Nuclear Engineering Scholarship,Low,0.3,hidden_costs_level
+1374,Cappex - Mobile App Development Scholarship,Low,0.3,hidden_costs_level
+1375,Cappex - Atmospheric Science and Climate Scholarship,Low,0.3,hidden_costs_level
+1376,Cappex - Pharmaceutical Sciences Scholarship,Low,0.3,hidden_costs_level
+1377,Cappex - Agricultural Engineering and Technology Scholarship,Low,0.3,hidden_costs_level
+1378,Cappex - Low-Income STEM Excellence Scholarship,Low,0.3,hidden_costs_level
+1379,Cappex - Forensic Science Scholarship,Low,0.3,hidden_costs_level
+1380,Cappex - Industrial Engineering and Operations Scholarship,Low,0.3,hidden_costs_level
+1381,Cappex - Rural STEM Student Opportunity Scholarship,Low,0.3,hidden_costs_level
+1382,"Chegg - $10,000 STEM Excellence Scholarship",Low,0.3,hidden_costs_level
+1383,Chegg - Women in Engineering Scholarship,Low,0.3,hidden_costs_level
+1384,Chegg - Computer Science Future Leaders Scholarship,Low,0.3,hidden_costs_level
+1385,Chegg - Minority in STEM Scholarship,Low,0.3,hidden_costs_level
+1386,Chegg - Environmental Science Scholar Award,Low,0.3,hidden_costs_level
+1387,Chegg - Mathematics Achievement Scholarship,Low,0.3,hidden_costs_level
+1388,Chegg - Robotics and Automation Scholarship,Low,0.3,hidden_costs_level
+1389,Chegg - First Generation STEM Scholarship,Low,0.3,hidden_costs_level
+1390,Chegg - Chemistry Innovation Scholarship,Low,0.3,hidden_costs_level
+1391,Chegg - Cybersecurity Future Professionals Scholarship,Low,0.3,hidden_costs_level
+1392,Chegg - Biomedical Sciences Scholarship,Low,0.3,hidden_costs_level
+1393,Chegg - Data Science and Analytics Scholarship,Low,0.3,hidden_costs_level
+1394,Chegg - Renewable Energy Scholarship,Low,0.3,hidden_costs_level
+1395,Chegg - Aerospace Engineering Scholarship,Low,0.3,hidden_costs_level
+1396,Chegg - Women in Computer Science Scholarship,Low,0.3,hidden_costs_level
+1397,Chegg - Physics and Astronomy Scholarship,Low,0.3,hidden_costs_level
+1398,Chegg - Rural STEM Student Scholarship,Low,0.3,hidden_costs_level
+1399,Chegg - Artificial Intelligence Scholarship,Low,0.3,hidden_costs_level
+1400,Chegg - Biotechnology Innovation Scholarship,Low,0.3,hidden_costs_level
+1401,Chegg - Civil Engineering Future Scholarship,Low,0.3,hidden_costs_level
+1402,Chegg - Game Development and Design Scholarship,Low,0.3,hidden_costs_level
+1403,Chegg - Marine Biology Scholarship,Low,0.3,hidden_costs_level
+1404,Chegg - Electrical Engineering Scholarship,Low,0.3,hidden_costs_level
+1405,Chegg - Women in Mathematics Scholarship,Low,0.3,hidden_costs_level
+1406,Chegg - Neuroscience Research Scholarship,Low,0.3,hidden_costs_level
+1407,Chegg - Mobile App Development Scholarship,Low,0.3,hidden_costs_level
+1408,Chegg - Geology and Earth Sciences Scholarship,Low,0.3,hidden_costs_level
+1409,Chegg - Mechanical Engineering Scholarship,Low,0.3,hidden_costs_level
+1410,Chegg - Black Students in Engineering Scholarship,Low,0.3,hidden_costs_level
+1411,Chegg - Cloud Computing and Infrastructure Scholarship,Low,0.3,hidden_costs_level
+1412,Chegg - Pharmaceutical Sciences Scholarship,Low,0.3,hidden_costs_level
+1413,Chegg - Industrial Engineering Scholarship,Low,0.3,hidden_costs_level
+1414,Chegg - Microbiology and Immunology Scholarship,Low,0.3,hidden_costs_level
+1415,Chegg - Web Development and Design Scholarship,Low,0.3,hidden_costs_level
+1416,Chegg - Materials Science Scholarship,Low,0.3,hidden_costs_level
+1417,Chegg - Hispanic Students in STEM Scholarship,Low,0.3,hidden_costs_level
+1418,Chegg - Software Quality Assurance Scholarship,Low,0.3,hidden_costs_level
+1419,Chegg - Nuclear Engineering Scholarship,Low,0.3,hidden_costs_level
+1420,Chegg - Veterinary Science and Animal Health Scholarship,Low,0.3,hidden_costs_level
+1421,Chegg - Blockchain and Cryptocurrency Scholarship,Low,0.3,hidden_costs_level
+1422,Chegg - Atmospheric Science and Meteorology Scholarship,Low,0.3,hidden_costs_level
+1423,Chegg - Chemical Engineering Scholarship,Low,0.3,hidden_costs_level
+1424,Chegg - Women in Science Leadership Scholarship,Low,0.3,hidden_costs_level
+1425,Chegg - Network Engineering and Administration Scholarship,Low,0.3,hidden_costs_level
+1426,Chegg - Food Science and Technology Scholarship,Low,0.3,hidden_costs_level
+1427,Chegg - Agricultural Engineering Scholarship,Low,0.3,hidden_costs_level
+1428,Chegg - Forensic Science Scholarship,Low,0.3,hidden_costs_level
+1429,Chegg - User Experience and Design Scholarship,Low,0.3,hidden_costs_level
+1430,Chegg - Quantum Computing Scholarship,Low,0.3,hidden_costs_level
+1431,Chegg - Low-Income STEM Scholar Award,Low,0.3,hidden_costs_level
+1443,CMU Robotics Academy - CS2N (Computer Science Student Network),Equipment,0.66,hidden_costs_level
+1449,CMU Robotics Academy - Robotics Challenges and Badges,Equipment,0.66,hidden_costs_level
+1451,CMU Robotics Academy - STEM Equity and Inclusion Initiative,Equipment,0.32,hidden_costs_level
+1452,Learn Python 3,Low,0.52,hidden_costs_level
+1453,Learn Java,Low,0.52,hidden_costs_level
+1454,Learn JavaScript,Low,0.5,hidden_costs_level
+1455,Learn HTML & CSS,Low,0.55,hidden_costs_level
+1456,Learn SQL,Low,0.5,hidden_costs_level
+1457,Learn R,Low,0.5,hidden_costs_level
+1458,Data Scientist Career Path,Program-Fee,0.6,hidden_costs_level
+1459,Web Development Career Path,Program-Fee,0.63,hidden_costs_level
+1460,Computer Science Career Path,Program-Fee,0.59,hidden_costs_level
+1461,Learn React,Program-Fee,0.45,hidden_costs_level
+1462,Learn Git & GitHub,Low,0.4,hidden_costs_level
+1463,Learn Machine Learning,Program-Fee,0.46,hidden_costs_level
+1465,"Build a Website with HTML, CSS, and GitHub Pages",Low,0.58,hidden_costs_level
+1466,Create Interactive Websites with JavaScript,Program-Fee,0.46,hidden_costs_level
+1473,codeSpark Academy - Free Trial,Hardware,0.23,hidden_costs_level
+1477,Computer Science Fundamentals - Course A,Low,0.57,hidden_costs_level
+1478,Computer Science Fundamentals - Course B,Low,0.55,hidden_costs_level
+1479,Computer Science Fundamentals - Course C,Low,0.52,hidden_costs_level
+1480,Computer Science Fundamentals - Course D,Low,0.52,hidden_costs_level
+1481,CS Discoveries,Low,0.42,hidden_costs_level
+1486,CS Fundamentals Express,Low,0.55,hidden_costs_level
+1490,CS in Algebra,Low,0.41,hidden_costs_level
+1511,Art of Problem Solving (AOPS) - Alcumus,Equipment,0.27,hidden_costs_level
+1514,USACO - USA Computing Olympiad,Low,0.41,hidden_costs_level
+1516,Khan Academy Math Challenges,Equipment,0.27,hidden_costs_level
+1518,Codeforces - Competitive Programming Platform,Low,0.4906150341685649,hidden_costs_level
+1520,Brilliant.org - Problem Solving Courses and Challenges,Low,0.29,hidden_costs_level
+1523,Project Euler,Equipment,0.27,hidden_costs_level
+1525,LeetCode - Coding Competition Platform,Low,0.28,hidden_costs_level
+1528,HackerRank - Competitive Programming and Challenges,Equipment,0.27,hidden_costs_level
+1529,Purple Comet Math Meet,Low,0.46,hidden_costs_level
+1530,MIT Beaver Works Summer Institute - Online Challenges,Low,0.25,hidden_costs_level
+1531,Kaggle Competitions for Students,Competition Fees,0.23,hidden_costs_level
+1532,Coolmath Games - Strategy Games,Device Access,0.6453358976308778,hidden_costs_level
+1533,Coolmath Games - Logic and Puzzle Games,Device Access,0.6453358976308778,hidden_costs_level
+1534,Coolmath Games - Skill and Timing Games,Device Access,0.6453358976308778,hidden_costs_level
+1535,Coolmath Games - Number and Math Games,Device Access,0.6453358976308778,hidden_costs_level
+1536,Coolmath Games - Geometry and Spatial Games,Device Access,0.6453358976308778,hidden_costs_level
+1537,Coolmath.com - Pre-Algebra Lessons,Device Access,0.6453358976308778,hidden_costs_level
+1538,Coolmath.com - Algebra Lessons,Device Access,0.6453358976308778,hidden_costs_level
+1539,Coolmath.com - Calculus Lessons,Device Access,0.6453358976308778,hidden_costs_level
+1540,Coolmath4Kids - Elementary Math Games,Device Access,0.6453358976308778,hidden_costs_level
+1541,Coolmath4Kids - Fun Facts and Brain Teasers,Device Access,0.6453358976308778,hidden_costs_level
+1542,Coolmath Games - Physics and Engineering Games,Device Access,0.6453358976308778,hidden_costs_level
+1543,Coolmath Games - Resource Management Games,Device Access,0.6453358976308778,hidden_costs_level
+1544,Coolmath Games - Maze and Pathfinding Games,Device Access,0.6453358976308778,hidden_costs_level
+1545,Coolmath Games - Memory and Sequence Games,Device Access,0.6453358976308778,hidden_costs_level
+1546,Coolmath Games - Probability and Chance Games,Device Access,0.6453358976308778,hidden_costs_level
+1547,Coolmath Games - Mobile App Collection,Device Access,0.6453358976308778,hidden_costs_level
+1552,Advanced Mathematics: Calculus BC,Travel,0.28,hidden_costs_level
+1553,Computer Science: Data Structures and Algorithms,Travel,0.32,hidden_costs_level
+1554,Physics: Mechanics and Waves,Travel,0.28,hidden_costs_level
+1560,Young Scientists: Chemistry Lab,Equipment,0.26,hidden_costs_level
+1561,Mathematical Problem Solving,Equipment,0.26,hidden_costs_level
+1586,Worcester Polytechnic Institute (WPI) - Frontiers Program,Low,0.3511587982832618,hidden_costs_level
+1592,EPA Environmental Justice Video Challenge,Low,0.46,hidden_costs_level
+1593,President's Environmental Youth Awards,Low,0.52,hidden_costs_level
+1594,EPA Environmental Education Guidelines,Low,0.38,hidden_costs_level
+1595,EPA Climate Change Education Resources,Low,0.25,hidden_costs_level
+1596,EPA Water Quality Education Resources,Low,0.59,hidden_costs_level
+1597,EPA Student Environmental Internships,Low,0.35080357142857144,hidden_costs_level
+1599,EPA Environmental Education Grants,Low,0.45,hidden_costs_level
+1600,EPA Citizen Science Projects,Moderate,0.37,hidden_costs_level
+1601,EPA Air Quality Monitoring for Students,Low,0.39,hidden_costs_level
+1603,EPA Environmental Justice Community Engagement,Moderate,0.27,hidden_costs_level
+1636,FIRST LEGO League Coach Training and Resources,Equipment,0.32,hidden_costs_level
+1637,FIRST LEGO League Team Grants and Financial Aid,Equipment,0.34,hidden_costs_level
+1639,FIRST LEGO League Volunteer Program,Low,0.46,hidden_costs_level
+1642,FIRST Robotics Competition - Regional Events,Equipment,0.41,hidden_costs_level
+1646,FIRST Tech Challenge - Super Regional Championships,Travel,0.38,hidden_costs_level
+1648,FIRST LEGO League (FLL),Equipment,0.69,hidden_costs_level
+1649,FIRST LEGO League Discover (Ages 4-6),Low,0.3975109173170057,hidden_costs_level
+1650,FIRST LEGO League Explore (Ages 6-10),Low,0.51,hidden_costs_level
+1651,FIRST LEGO League Challenge (Ages 9-16),Equipment,0.4,hidden_costs_level
+1652,FIRST LEGO League - Regional Tournaments,Equipment,0.43,hidden_costs_level
+1660,Garcia Research Scholars - Research Symposium and Competitions,Travel,0.5,hidden_costs_level
+1661,Garcia Research Scholars - College Application Support,Travel,0.66,hidden_costs_level
+1662,Girls Who Code Clubs,Equipment,0.23,hidden_costs_level
+1664,College Loops Program,Travel,0.41,hidden_costs_level
+1665,Girls Who Code Self-Paced Program,Competition Fees,0.29,hidden_costs_level
+1667,Girls Who Code Middle School Clubs,Software,0.31,hidden_costs_level
+1668,Girls Who Code High School Clubs,Equipment,0.23,hidden_costs_level
+1669,HerStory Programming Curriculum,Low,0.5,hidden_costs_level
+1670,Girls Who Code at Home,Low,0.5,hidden_costs_level
+1672,Girls Who Code Community Impact Projects,Low,0.31,hidden_costs_level
+1683,Hopscotch - Community Explore Page,Device Access,0.6453358976308778,hidden_costs_level
+1684,Hopscotch - Publishing and Sharing,Device Access,0.6453358976308778,hidden_costs_level
+1685,Hopscotch - Code Remixing,Device Access,0.6453358976308778,hidden_costs_level
+1689,Hopscotch - Weekly Challenges,Device Access,0.23910698406543898,hidden_costs_level
+1690,Hopscotch - Safe Community Moderation,Hardware,0.32,hidden_costs_level
+1730,Jack Kent Cooke Young Scholars Program,Low,0.35,hidden_costs_level
+1732,MATHCOUNTS Chapter Competition,Low,0.69,hidden_costs_level
+1736,MATHCOUNTS Target Round,Low,0.67,hidden_costs_level
+1737,MATHCOUNTS Team Round,Low,0.67,hidden_costs_level
+1738,MATHCOUNTS Countdown Round,Low,0.68,hidden_costs_level
+1739,MATHCOUNTS Math Video Challenge,"Travel, Equipment",0.35,hidden_costs_level
+1740,MATHCOUNTS Club Program,Low,0.38,hidden_costs_level
+1741,MATHCOUNTS Problem of the Week,Low,0.28,hidden_costs_level
+1742,HelloPurr - First App Tutorial,Low,0.53,hidden_costs_level
+1743,TalkToMe - Text-to-Speech App,Low,0.67,hidden_costs_level
+1744,PaintPot - Drawing App,Low,0.35,hidden_costs_level
+1745,BallBounce - Animation and Games,Low,0.54,hidden_costs_level
+1746,MoleMash - Touch and Timer Game,Low,0.54,hidden_costs_level
+1747,Xylophone - Music and Sound App,Equipment,0.38,hidden_costs_level
+1748,AndroidMash - Accelerometer Game,Low,0.56,hidden_costs_level
+1749,MapIt - GPS and Mapping App,Low,0.56,hidden_costs_level
+1752,Creative Computing with MIT App Inventor,Low,0.63,hidden_costs_level
+1774,Mystery Science - Mini-Lesson: Why Do Leaves Change Color?,Equipment,0.3021534356150616,hidden_costs_level
+1775,Mystery Science - Mini-Lesson: How Do Airplanes Fly?,Equipment,0.36056818181818184,hidden_costs_level
+1776,Mystery Science - Mini-Lesson: Why Is the Ocean Salty?,3D Printer Access,0.26610315309502314,hidden_costs_level
+1777,Mystery Science - Mini-Lesson: How Do Chameleons Change Color?,Equipment,0.3021534356150616,hidden_costs_level
+1786,NASA TechRise Student Challenge,Low,0.42,hidden_costs_level
+1788,NASA App Development Challenge,Low,0.46,hidden_costs_level
+1790,Artemis Student Challenges,Low,0.45,hidden_costs_level
+1791,NASA GLOBE Student Research,"Travel, Equipment",0.45,hidden_costs_level
+1792,NASA Aviation Design Challenge,Low,0.42,hidden_costs_level
+1793,Mars Student Challenge,Equipment,0.3,hidden_costs_level
+1794,NASA Student Ambassador Program,Low,0.55,hidden_costs_level
+1795,Power to Explore STEM Writing Challenge,Low,0.5206150341685649,hidden_costs_level
+1796,NASA Student Independent Research,"Travel, Equipment",0.47,hidden_costs_level
+1813,College-Sponsored Merit Scholarships,Low,0.47,hidden_costs_level
+1822,NOAA Student Internship Program,Low,0.57,hidden_costs_level
+1823,NOAA Ocean Service Educational Resources,Device Access,0.3726155527097652,hidden_costs_level
+1824,National Weather Service Education Resources,Device Access,0.3726155527097652,hidden_costs_level
+1825,NOAA Student Research Partnership,Low,0.49351907502549225,hidden_costs_level
+1826,NOAA Ocean Exploration Student Video Challenge,Travel,0.44,hidden_costs_level
+1828,NOAA Virtual Ocean Exploration,Low,0.35,hidden_costs_level
+1829,NOAA Climate Explorer,Low,0.41,hidden_costs_level
+1830,NOAA Educational Partnership Program Scholarships,Low,0.45,hidden_costs_level
+1831,NOAA Marine Debris Monitoring Programs,Moderate,0.37,hidden_costs_level
+1832,NOAA Weather Observer Programs,Low,0.65,hidden_costs_level
+1833,NOAA Science Fair Project Support,Low,0.49,hidden_costs_level
+1839,NSBE Jr. - Local Chapter Meetings,Low,0.35,hidden_costs_level
+1842,NSBE Jr. - Mentorship Circles,Hardware,0.51,hidden_costs_level
+1843,NSBE Jr. - Parent and Family Engagement,Low,0.46,hidden_costs_level
+1844,NSBE Jr. - Academic Excellence Workshops,Low,0.48,hidden_costs_level
+1846,NSBE Jr. - Online Learning Platform,Equipment,0.41,hidden_costs_level
+1847,NSBE Jr. - Scholarship and Financial Aid Workshops,Low,0.46,hidden_costs_level
+1868,Osmo - Multi-Language Support,Equipment,0.27,hidden_costs_level
+1869,Osmo - Screen Time Alternative,Equipment,0.27,hidden_costs_level
+1870,Osmo - Special Education Support,Equipment,0.27,hidden_costs_level
+1871,PBS Kids - Curious George: Rocket Run,Device Access,0.6453358976308778,hidden_costs_level
+1872,PBS Kids - Sid the Science Kid: Bug Garden,Device Access,0.6453358976308778,hidden_costs_level
+1873,PBS Kids - Cyberchase: Thirteen Ways of Looking at a Half,Device Access,0.6453358976308778,hidden_costs_level
+1874,PBS Kids - Wild Kratts: Creature Power,Hardware,0.62,hidden_costs_level
+1875,PBS Kids - Peg + Cat: Chicken Problem,Device Access,0.6453358976308778,hidden_costs_level
+1876,PBS Kids - Design Squad: Build a Skyscraper,Device Access,0.6453358976308778,hidden_costs_level
+1877,PBS Kids - Dinosaur Train: Dinosaur Sorting,Device Access,0.6453358976308778,hidden_costs_level
+1878,PBS Kids - Odd Squad: Odd Squad Gadget Lab,Device Access,0.6453358976308778,hidden_costs_level
+1879,PBS Kids - Nature Cat: Nature Explore,Device Access,0.6453358976308778,hidden_costs_level
+1880,PBS Kids - Molly of Denali: Sled Dog Dash,Device Access,0.6453358976308778,hidden_costs_level
+1881,PBS Kids - Ready Jet Go!: Jet's Planet Pinball,Hardware,0.62,hidden_costs_level
+1882,PBS Kids - Elinor Wonders Why: Backyard Exploration,Device Access,0.6453358976308778,hidden_costs_level
+1883,PBS Kids - Arthur: Cast Your Vote,Device Access,0.6453358976308778,hidden_costs_level
+1884,PBS Kids - Plum Landing: Mission to Mars,Device Access,0.6453358976308778,hidden_costs_level
+1885,PBS Kids - Sesame Street: Cookie Monster's Challenge,Device Access,0.6453358976308778,hidden_costs_level
+1886,PBS Kids - Cat in the Hat: Sorting,Hardware,0.62,hidden_costs_level
+1887,PBS Kids - Splash and Bubbles: Coral Reef Exploration,Device Access,0.6453358976308778,hidden_costs_level
+1888,PBS Kids - Daniel Tiger: Neighborhood Helpers,Hardware,0.62,hidden_costs_level
+1889,PBS Kids - Clifford: Measurement Fun,Device Access,0.6453358976308778,hidden_costs_level
+1890,PBS Kids - Xavier Riddle: Historical STEM Figures,Device Access,0.6453358976308778,hidden_costs_level
+1891,PBS Kids - Super Why: Letter Power,Device Access,0.6453358976308778,hidden_costs_level
+1892,PBS Kids - Hero Elementary: Superpowers of Science,Device Access,0.6453358976308778,hidden_costs_level
+1893,PBS Kids - Pinkalicious: Pattern Play,Device Access,0.6453358976308778,hidden_costs_level
+1894,PBS Kids - Games App,Device Access,0.4973653561469903,hidden_costs_level
+1895,PBS Kids - Video Player: STEM Episodes,Device Access,0.6453358976308778,hidden_costs_level
+1896,PBS Kids - Spanish Language Resources,Device Access,0.6453358976308778,hidden_costs_level
+1897,PBS Kids - Accessibility Features,Hardware,0.32,hidden_costs_level
+1954,Raising Student Voice - Virtual Reality Innovation Challenge,Low,0.67,hidden_costs_level
+1960,MIT RISE - Research in Science and Engineering,Travel,0.54,hidden_costs_level
+1978,Roblox Education - Introduction to Roblox Studio,Optional Hardware,0.37,hidden_costs_level
+1979,Roblox Education - Coding with Lua Fundamentals,Optional Hardware,0.31,hidden_costs_level
+1980,Roblox Education - Game Design and Development Pathway,Optional Hardware,0.37,hidden_costs_level
+1981,Roblox Education - 3D Modeling and Environment Design,Optional Hardware,0.37,hidden_costs_level
+1982,Roblox Education - Creating an Obby (Obstacle Course),Optional Hardware,0.44,hidden_costs_level
+1983,Roblox Education - Scripting with Events and Functions,Optional Hardware,0.34,hidden_costs_level
+1984,Roblox Education - User Interface (UI) Design,Optional Hardware,0.39,hidden_costs_level
+1985,Roblox Education - Combat and Weapon Systems,Optional Hardware,0.31,hidden_costs_level
+1986,Roblox Education - Multiplayer Game Development,Low,0.23,hidden_costs_level
+1987,Roblox Education - Data Stores and Player Progression,Optional Hardware,0.34,hidden_costs_level
+1988,Roblox Education - Monetization and Game Economics,Optional Hardware,0.44,hidden_costs_level
+1989,Roblox Education - Animation and Character Rigging,Optional Hardware,0.37,hidden_costs_level
+1990,Roblox Education - Sound Design and Audio Programming,Optional Hardware,0.44,hidden_costs_level
+1991,Roblox Education - Game Testing and Optimization,Optional Hardware,0.39,hidden_costs_level
+1992,Roblox Education - Publishing and Marketing Your Game,Optional Hardware,0.37,hidden_costs_level
+1993,Roblox Education - Community and Developer Forum,Device Access,0.6453358976308778,hidden_costs_level
+1994,Samsung Solve for Tomorrow - National STEM Competition,Low,0.29,hidden_costs_level
+1995,Samsung Solve for Tomorrow - Phase 2: State Finalists,Low,0.33,hidden_costs_level
+1996,Samsung Solve for Tomorrow - Phase 3: National Finalists,Low,0.29,hidden_costs_level
+1997,Samsung Solve for Tomorrow - National Winner Pitch Competition,Low,0.64,hidden_costs_level
+1999,Scholly - National STEM Achievement Scholarship,Low,0.31,hidden_costs_level
+2000,Scholly - Black Students in STEM Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+2001,Scholly - Future Coders Scholarship,Travel,0.42,hidden_costs_level
+2002,Scholly - Women in Tech Scholarship,Low,0.31,hidden_costs_level
+2003,Scholly - Cybersecurity Future Leaders Award,Low,0.31,hidden_costs_level
+2004,Scholly - AI and Machine Learning Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+2005,Scholly - Aspiring Engineers Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+2006,Scholly - Women in Engineering Award,"Travel, Equipment",0.31,hidden_costs_level
+2007,Scholly - Sustainable Engineering Scholarship,Low,0.31,hidden_costs_level
+2008,Scholly - Robotics and Automation Scholarship,Travel,0.42,hidden_costs_level
+2009,Scholly - Future Scientists Award,"Travel, Equipment",0.31,hidden_costs_level
+2010,Scholly - Environmental Science Leaders,"Travel, Equipment",0.31,hidden_costs_level
+2011,Scholly - Biomedical Science Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+2012,Scholly - Chemistry Innovation Award,Low,0.31,hidden_costs_level
+2013,Scholly - Physics and Astronomy Scholarship,Low,0.31,hidden_costs_level
+2014,Scholly - Math Excellence Scholarship,Low,0.31,hidden_costs_level
+2015,Scholly - Data Science Scholars,Travel,0.42,hidden_costs_level
+2016,Scholly - Minority STEM Leaders Scholarship,"Travel, Equipment",0.31,hidden_costs_level
+2017,Scholly - First-Generation STEM Scholars,"Travel, Equipment",0.31,hidden_costs_level
+2018,Scholly - Low-Income STEM Achievers,"Travel, Equipment",0.31,hidden_costs_level
+2019,Scholly - Rural STEM Students Award,Low,0.31,hidden_costs_level
+2020,Scholly - STEM for Social Good Scholarship,Low,0.31,hidden_costs_level
+2021,Scholly - Young Innovators STEM Award,Travel,0.42,hidden_costs_level
+2022,Scholly - High School STEM Research Award,Travel,0.42,hidden_costs_level
+2023,Scholly - Students with Disabilities in STEM,Low,0.31,hidden_costs_level
+2030,Rainbow Milk Experiment,Equipment,0.44786343205176954,hidden_costs_level
+2031,Testing Water Quality with pH Strips,Equipment,0.5237143887486476,hidden_costs_level
+2032,Building a Simple Robot,Equipment,0.3679997531268785,hidden_costs_level
+2034,DNA Extraction from Fruit,Equipment,0.6637143887486476,hidden_costs_level
+2035,Solar Panel Efficiency Testing,Equipment,0.49371438874864765,hidden_costs_level
+2036,App Development for Data Collection,Equipment,0.545385993952992,hidden_costs_level
+2065,NASA SEES (STEM Enhancement in Earth Science) Virtual Internship,Travel,0.3,hidden_costs_level
+2072,"MIT MOSTEC - MIT Online Science, Technology, and Engineering Community",Travel,0.28,hidden_costs_level
+2106,SWE - High School Scholarship Program,Low,0.3,hidden_costs_level
+2110,SWE - Collegiate Section Mentorship Program for HS Students,Low,0.48,hidden_costs_level
+2112,SWE - Engineering Exploration Day,Low,0.6346749602077574,hidden_costs_level
+2114,SWE - Virtual Career Exploration Series for High School,Low,0.43,hidden_costs_level
+2116,SWE - College Preparation Workshops for Engineering,Household Materials,0.38,hidden_costs_level
+2118,SWE - Women of Color in Engineering Scholarship,Low,0.3,hidden_costs_level
+2119,SWE - First Generation Scholar in Engineering Program,Low,0.3,hidden_costs_level
+2120,SWE - Engineering Ambassador Program for High School,Low,0.47,hidden_costs_level
+2121,SWE - Code It! Programming Competition for Girls,Low,0.51,hidden_costs_level
+2123,SWE - STEM Outreach Volunteer Leadership Program,Low,0.68,hidden_costs_level
+2125,SWE - Engineering Portfolio Development Workshop,Travel,0.35,hidden_costs_level
+2139,Meta University for High School Students,Equipment,0.28,hidden_costs_level
+2141,IBM Accelerate Program for High School,"Travel, Equipment",0.42,hidden_costs_level
+2144,Adobe Digital Academy - High School Track,Equipment,0.28,hidden_costs_level
+2153,GitHub Education - Student Developer Program,"Travel, Equipment",0.41,hidden_costs_level
+2154,Tinkercad - Introduction to 3D Design,Low,0.35,hidden_costs_level
+2155,Tinkercad - Name Tag Design,Optional Hardware,0.63,hidden_costs_level
+2156,Tinkercad - House Design Project,Equipment,0.34,hidden_costs_level
+2157,Tinkercad - Keychain Design,Low,0.35,hidden_costs_level
+2158,Tinkercad - Robot Character Design,Low,0.35,hidden_costs_level
+2159,Tinkercad - Castle Design,Equipment,0.36,hidden_costs_level
+2160,Tinkercad - Jewelry Design,Low,0.34,hidden_costs_level
+2161,Tinkercad - Mechanical Gears Design,Optional Hardware,0.36,hidden_costs_level
+2162,Tinkercad - Box Design for 3D Printing,Equipment,0.34,hidden_costs_level
+2163,Tinkercad - Minecraft Character Design,Low,0.35,hidden_costs_level
+2164,Tinkercad Circuits - LED Blink Basics,Optional Hardware,0.63,hidden_costs_level
+2165,Tinkercad Circuits - Traffic Light System,Low,0.35,hidden_costs_level
+2166,Tinkercad Circuits - Distance Sensor Project,Low,0.35,hidden_costs_level
+2167,Tinkercad Circuits - Piano with Buzzer,Low,0.35,hidden_costs_level
+2168,Tinkercad Circuits - Temperature Monitor,Optional Hardware,0.36,hidden_costs_level
+2169,Tinkercad Circuits - Servo Motor Control,Low,0.35,hidden_costs_level
+2170,Tinkercad Circuits - RGB LED Color Mixer,Low,0.35,hidden_costs_level
+2171,Tinkercad Circuits - Motion Detector Alarm,Optional Hardware,0.36,hidden_costs_level
+2172,Tinkercad Circuits - LCD Display Project,Optional Hardware,0.36,hidden_costs_level
+2173,Tinkercad Circuits - Photoresistor Night Light,Low,0.35,hidden_costs_level
+2174,Tinkercad Codeblocks - Introduction to Coding,Low,0.35,hidden_costs_level
+2175,Tinkercad Codeblocks - Loops and Patterns,Low,0.35,hidden_costs_level
+2176,Tinkercad Codeblocks - Parametric Design,Optional Hardware,0.36,hidden_costs_level
+2177,Tinkercad Community Gallery,Device Access,0.6453358976308778,hidden_costs_level
+2187,TypingClub - Home Row Mastery,Device Access,0.6453358976308778,hidden_costs_level
+2188,TypingClub - Top Row Keys (QWERTY),Device Access,0.6453358976308778,hidden_costs_level
+2189,TypingClub - Bottom Row Keys (ZXCVBNM),Device Access,0.6453358976308778,hidden_costs_level
+2190,TypingClub - Capital Letters and Shift Keys,Device Access,0.6453358976308778,hidden_costs_level
+2191,TypingClub - Numbers and Number Row,Device Access,0.6453358976308778,hidden_costs_level
+2192,TypingClub - Punctuation and Symbols,Device Access,0.6453358976308778,hidden_costs_level
+2193,TypingClub - Speed Building Exercises,Device Access,0.6453358976308778,hidden_costs_level
+2194,TypingClub - Accuracy Improvement,Device Access,0.6453358976308778,hidden_costs_level
+2195,TypingClub - Typing Games,Device Access,0.6453358976308778,hidden_costs_level
+2196,TypingClub - Advanced Typing Course,Device Access,0.6453358976308778,hidden_costs_level
+2197,TypingClub - Typing Tests and Assessments,Optional Hardware,0.34,hidden_costs_level
+2198,TypingClub - Coding Typing Practice,Device Access,0.6453358976308778,hidden_costs_level
+2199,TypingClub - Student Progress Dashboard,Device Access,0.2715400781960709,hidden_costs_level
+2200,TypingClub - Multilingual Support,Device Access,0.6453358976308778,hidden_costs_level
+2201,TypingClub - Accessibility Features,Hardware,0.62,hidden_costs_level
+2203,TypingClub - Digital Citizenship Integration,Device Access,0.6453358976308778,hidden_costs_level
+2204,MIT THINK Scholars Program,Equipment,0.64,hidden_costs_level
+2208,UC Berkeley BITES (Bioengineering Institute of Technology and Engineering for Students),Low,0.44,hidden_costs_level
+2209,Carnegie Mellon AI Scholars Program,"Travel, Equipment",0.45,hidden_costs_level
+2210,Columbia Science Honors Program,Low,0.47,hidden_costs_level
+193,Envirothon Field Day Training Events,Basic,0.6731742447173126,internet_dependency
+374,NOSB National Finals Competition,Basic,0.603746700216712,internet_dependency
+379,NOSB Laboratory Practical (National Finals),High-speed-required,0.4,internet_dependency
+380,NOSB Field Trips and Professional Networking,Basic,0.63,internet_dependency
+412,Scratch Day Events,Basic,0.45914118618882155,internet_dependency
+595,Broadcom MASTERS - Finals Competition,Helpful,0.4,internet_dependency
+609,Code Ninjas Core Program - CREATE Track,Helpful,0.26,internet_dependency
+610,Code Ninjas JR - Ages 5-7,Helpful,0.36,internet_dependency
+611,Code Ninjas Core Program - White Belt Level,Required,0.5100742005289534,internet_dependency
+613,Code Ninjas Core Program - Black Belt Level,Helpful,0.6,internet_dependency
+618,Code Ninjas Camps - School Break Sessions,Basic,0.26,internet_dependency
+619,Code Ninjas Parents Night Out,Basic,0.44,internet_dependency
+620,Code Ninjas Birthday Parties,Basic,0.42,internet_dependency
+623,Code Ninjas Impact Programs - Community Outreach,Basic,0.46,internet_dependency
+624,Code Ninjas Weekly Drop-In Sessions,Helpful,0.41,internet_dependency
+625,Code Ninjas FREE Trial Session,Basic,0.39,internet_dependency
+678,DMA Coding & AI Camp,Low,0.61,internet_dependency
+679,DMA Game Design Camp,Low,0.61,internet_dependency
+680,DMA Robotics Engineering Camp,Low,0.61,internet_dependency
+681,DMA Roblox Game Development,Low,0.61,internet_dependency
+682,DMA Minecraft Modding Camp,Low,0.61,internet_dependency
+683,DMA Python Coding & AI,Low,0.61,internet_dependency
+684,DMA Java Coding Camp,Low,0.61,internet_dependency
+685,DMA C++ Programming Camp,Low,0.61,internet_dependency
+686,DMA Mobile App Development,Low,0.61,internet_dependency
+687,DMA VR/AR Development Camp,Low,0.61,internet_dependency
+688,DMA Cybersecurity & Encryption,Low,0.61,internet_dependency
+689,DMA 3D Modeling & Printing,Low,0.61,internet_dependency
+690,DMA Video Production & Editing,Low,0.61,internet_dependency
+691,DMA Esports & Game Strategy,Low,0.61,internet_dependency
+692,DMA Digital Art & Design,Low,0.61,internet_dependency
+693,DMA Web Development Camp,Low,0.61,internet_dependency
+694,DMA Drone Programming,Low,0.61,internet_dependency
+695,DMA Music Production & DJing,Low,0.61,internet_dependency
+696,DMA Fortnite Creative Camp,Low,0.61,internet_dependency
+697,DMA YouTube Content Creation,Low,0.61,internet_dependency
+698,DMA Machine Learning & Data Science,Low,0.61,internet_dependency
+699,DMA Scratch Programming,Low,0.61,internet_dependency
+700,DMA Intro to Engineering,Low,0.61,internet_dependency
+701,DMA Blockchain & Cryptocurrency,Low,0.61,internet_dependency
+702,DMA AI Ethics & Society,Low,0.61,internet_dependency
+703,DMA Advanced Unity Game Dev,Low,0.61,internet_dependency
+704,DMA Arduino Engineering,Low,0.61,internet_dependency
+705,DMA Photography & Photoshop,Low,0.61,internet_dependency
+706,DMA App Inventor for Beginners,Low,0.61,internet_dependency
+707,DMA Competitive Programming,Low,0.61,internet_dependency
+708,DMA Game Art & Animation,Low,0.61,internet_dependency
+709,DMA Discord Bot Development,Low,0.61,internet_dependency
+710,DMA Environmental Tech & Sustainability,Low,0.61,internet_dependency
+711,DMA Raspberry Pi Projects,Low,0.61,internet_dependency
+712,DMA Podcast Production,Low,0.61,internet_dependency
+714,Girl Day,Basic,0.61,internet_dependency
+716,Future City Regional Competitions,Basic,0.35159066055149313,internet_dependency
+717,Future City National Finals,Basic,0.43,internet_dependency
+718,Introduce a Girl to Engineering Day,Basic,0.66,internet_dependency
+722,Family Engineering Night,Basic,0.67,internet_dependency
+732,Engineering For Kids - School Break Camps,Basic,0.26,internet_dependency
+735,Engineering Design Challenge Program,Required,0.62,internet_dependency
+741,Engineering For Kids - Weekend Workshops,Basic,0.48,internet_dependency
+742,Engineering For Kids - Homeschool Programs,Helpful,0.41,internet_dependency
+773,iD Tech Coding & AI Camp,Low,0.61,internet_dependency
+774,iD Tech Game Design Camp,Low,0.61,internet_dependency
+775,iD Tech Robotics Engineering Camp,Low,0.61,internet_dependency
+776,iD Tech Roblox Game Development,Low,0.61,internet_dependency
+777,iD Tech Minecraft Modding Camp,Low,0.61,internet_dependency
+778,iD Tech Python Coding & AI,Low,0.61,internet_dependency
+779,iD Tech Java Coding Camp,Low,0.61,internet_dependency
+780,iD Tech C++ Programming Camp,Low,0.61,internet_dependency
+781,iD Tech Mobile App Development,Low,0.61,internet_dependency
+782,iD Tech VR/AR Development Camp,Low,0.61,internet_dependency
+783,iD Tech Cybersecurity & Encryption,Low,0.61,internet_dependency
+784,iD Tech 3D Modeling & Printing,Low,0.61,internet_dependency
+785,iD Tech Video Production & Editing,Low,0.61,internet_dependency
+786,iD Tech Esports & Game Strategy,Low,0.61,internet_dependency
+787,iD Tech Digital Art & Design,Low,0.61,internet_dependency
+788,iD Tech Web Development Camp,Low,0.61,internet_dependency
+789,iD Tech Drone Programming,Low,0.61,internet_dependency
+790,iD Tech Music Production & DJing,Low,0.61,internet_dependency
+791,iD Tech Fortnite Creative Camp,Low,0.61,internet_dependency
+792,iD Tech YouTube Content Creation,Low,0.61,internet_dependency
+793,iD Tech Machine Learning & Data Science,Low,0.61,internet_dependency
+794,iD Tech Scratch Programming,Low,0.61,internet_dependency
+795,iD Tech Intro to Engineering,Low,0.61,internet_dependency
+796,iD Tech Blockchain & Cryptocurrency,Low,0.61,internet_dependency
+797,iD Tech AI Ethics & Society,Low,0.61,internet_dependency
+798,iD Tech Advanced Unity Game Dev,Low,0.61,internet_dependency
+799,iD Tech Arduino Engineering,Low,0.61,internet_dependency
+800,iD Tech Photography & Photoshop,Low,0.61,internet_dependency
+801,iD Tech App Inventor for Beginners,Low,0.61,internet_dependency
+802,iD Tech Competitive Programming,Low,0.61,internet_dependency
+803,iD Tech Game Art & Animation,Low,0.61,internet_dependency
+804,iD Tech Discord Bot Development,Low,0.61,internet_dependency
+805,iD Tech Environmental Tech & Sustainability,Low,0.61,internet_dependency
+806,iD Tech Raspberry Pi Projects,Low,0.61,internet_dependency
+807,iD Tech Podcast Production,Low,0.61,internet_dependency
+812,Mathnasium Method Assessment,Basic,0.35,internet_dependency
+1172,VEX Robotics Summer Camps,Required,0.46,internet_dependency
+1174,National Robotics Week Events,Helpful,0.67,internet_dependency
+1639,FIRST LEGO League Volunteer Program,Basic,0.54,internet_dependency

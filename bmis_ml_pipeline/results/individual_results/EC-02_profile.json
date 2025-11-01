@@ -1,0 +1,26 @@
+{
+  "profile_id": "EC-02",
+  "name": "Conflicting constraints: Low budget + In-person only",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "In-person",
+    "transportation_available": false,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 8,
+    "support_needed": "High",
+    "stem_interests": "biology lab research hands-on experiments microscopy",
+    "stem_fields": [
+      "Biology",
+      "Life Sciences",
+      "Biomedical Sciences"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Lab Experience",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.835001"
+}

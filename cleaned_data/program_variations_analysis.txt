@@ -1,0 +1,2637 @@
+================================================================================
+PROGRAM FAMILIES ANALYSIS
+Legitimate Program Variations Preserved
+================================================================================
+
+
+AI4ALL (11 variations preserved)
+--------------------------------------------------------------------------------
+  - AI4ALL at Stanford University
+    Features: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at Carnegie Mellon University
+    Features: Subject: Computer Science; Subject: Robotics; Location: Carnegie Mellon University; Field: Artificial Intelligence, Robotics, Computer Science
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at Princeton University
+    Features: Subject: Machine Learning; Location: Princeton University; Field: Artificial Intelligence, Computer Science, Data Science
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at UC Berkeley
+    Features: Subject: Machine Learning; Location: Uc Berkeley; Field: Artificial Intelligence, Machine Learning, Computer Science
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at Boston University
+    Features: Subject: Artificial Intelligence; Subject: Machine Learning; Location: Boston University; Field: Artificial Intelligence, Computer Science, Data Analysis
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at University of Michigan
+    Features: Subject: Machine Learning; Location: University Of Michigan; Field: Artificial Intelligence, Machine Learning, Ethics
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at Simon Fraser University
+    Features: Subject: Computer Science; Subject: Machine Learning; Subject: Data Science; Location: Simon Fraser University; Field: Artificial Intelligence, Computer Science, Sustainability
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at Columbia University
+    Features: Subject: Machine Learning; Subject: Data Science; Location: Columbia University; Field: Artificial Intelligence, Data Science, Urban Technology
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL at University of Illinois Urbana-Champaign
+    Features: Subject: Computer Science; Subject: Machine Learning; Location: University Of Illinois Urbana-Champaign; Field: Artificial Intelligence, Computer Vision, NLP
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL Online Programs
+    Features: Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science
+    Grade: 11-Sep
+    URL: https://ai-4-all.org/programs/
+
+  - AI4ALL Open Learning
+    Features: Subject: Machine Learning; Grade: High School; Field: Artificial Intelligence, Machine Learning
+    Grade: 12-Sep
+    URL: https://ai-4-all.org/open-learning/
+
+
+CTY (Johns Hopkins) (7 variations preserved)
+--------------------------------------------------------------------------------
+  - Johns Hopkins School of Medicine - Summer Biomedical Research Program for HS
+    Features: Subject: Engineering; Subject: Biomedical; Subject: Neuroscience; Grade: High School; Session: Summer; Field: Biomedical Research, Neuroscience, Genetics, Public Health
+    Grade: 11-12
+    URL: https://www.hopkinsmedicine.org/som/education-programs/high-school-summer-research
+
+  - Online Programs
+    Features: Field: Mathematics, Engineering, Language Arts
+    Grade: 2-12
+    URL: https://cty.jhu.edu/programs/online
+
+  - On-Campus Summer Programs
+    Features: Subject: Engineering; Session: Summer; Field: Engineering, Philosophy
+    Grade: 2-12
+    URL: https://cty.jhu.edu/programs/on-campus
+
+  - Johns Hopkins Engineering Innovation
+    Features: Subject: Engineering; Field: Engineering, Design, Innovation
+    Grade: 11-12
+    URL: https://ei.jhu.edu/
+
+  - Johns Hopkins RISE Neuroscience Research
+    Features: Subject: Neuroscience; Grade: High School; Field: Neuroscience, Brain Science, Cognitive Science, Neurobiology, Medical Research
+    Grade: 11-12
+    URL: https://www.riseprograms.org/programs
+
+  - Johns Hopkins University Research Internship
+    Features: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Biomedical Research, Biology, Chemistry, Engineering, Medicine
+    Grade: 11-12
+    URL: https://www.jhu.edu/summer-programs/
+
+  - Johns Hopkins Center for Talented Youth (CTY) Online
+    Features: Subject: Mathematics; Subject: Computer Science; Field: Mathematics, Computer Science, Physics, Biology, Chemistry
+    Grade: 7-12
+    URL: https://cty.jhu.edu/
+
+
+Garcia Program (11 variations preserved)
+--------------------------------------------------------------------------------
+  - Garcia MRSEC Summer Scholars Program
+    Features: Grade: High School; Session: Summer; Field: Materials Science, Chemistry, Physics, Engineering
+    Grade: 10-12
+    URL: https://pathwaystoscience.org/programs.aspx
+
+  - Garcia Research Scholars Program - Summer Research
+    Features: Subject: Biology; Subject: Chemistry; Subject: Physics; Subject: Mathematics; Subject: Computer Science; Subject: Engineering; Grade: High School; Session: Summer; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Academic Year Extension
+    Features: Grade: High School; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Biology and Life Sciences Track
+    Features: Subject: Biology; Subject: Biomedical; Subject: Neuroscience; Field: Biology, Molecular Biology, Genetics, Neuroscience, Ecology
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Chemistry and Materials Science Track
+    Features: Subject: Chemistry; Subject: Environmental; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Physics and Astronomy Track
+    Features: Subject: Physics; Field: Physics, Astronomy, Astrophysics, Theoretical Physics
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Computer Science and Mathematics Track
+    Features: Subject: Biology; Subject: Mathematics; Subject: Computer Science; Subject: Artificial Intelligence; Subject: Machine Learning; Subject: Data Science; Field: Computer Science, Mathematics, Data Science, Artificial Intelligence
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Engineering Track
+    Features: Subject: Engineering; Subject: Environmental; Subject: Biomedical; Field: Engineering, Mechanical Engineering, Electrical Engineering, Biomedical Engineering
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - Research Symposium and Competitions
+    Features: Field: Scientific Communication, Research Presentation, Competition Preparation
+    Grade: 9-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Research Scholars - College Application Support
+    Features: Field: College Preparation, Career Guidance, Academic Advising
+    Grade: 11-12
+    URL: https://www.stonybrook.edu/commcms/garcia/
+
+  - Garcia Center for Polymers at Engineered Interfaces - Summer Research
+    Features: Location: Engineered Interfaces - Summer Research; Grade: High School; Session: Summer; Field: Materials Science, Chemistry, Physics, Engineering
+    Grade: 10-12
+    URL: https://www.stonybrook.edu/garcia-materials/
+
+
+MIT Programs (64 variations preserved)
+--------------------------------------------------------------------------------
+  - Congressional App Challenge
+    Features: Grade: High School; Field: Computer Science, App Development, Mobile Development, Web Development
+    Grade: 9-12
+    URL: https://www.congressionalappchallenge.us/
+
+  - Congressional App Challenge District Competition
+    Features: Field: Computer Science, Software Engineering
+    Grade: 9-12
+    URL: https://www.congressionalappchallenge.us/students/
+
+  - Introduction to Computer Science and Programming
+    Features: Subject: Computer Science; Grade: High School; Field: Computer Science
+    Grade: 10-12
+    URL: https://www.coursera.org/learn/cs-programming-java
+
+  - Introduction to Biology
+    Features: Subject: Biology; Subject: Chemistry; Grade: High School; Field: Biology
+    Grade: 10-12
+    URL: https://www.coursera.org/learn/biology
+
+  - Davidson Fellows Scholarship - $50,000
+    Features: Field: Science, Technology, Engineering, Mathematics
+    Grade: Under 18
+    URL: https://www.davidsongifted.org/gifted-programs/fellows-scholarship/
+
+  - Introduction to Biology: The Secret of Life
+    Features: Subject: Biology; Subject: Chemistry; Field: Biology
+    Grade: 10-12
+    URL: https://www.edx.org/learn/biology/massachusetts-institute-of-technology-introduction-to-biology-the-secret-of-life
+
+  - Calculus 1A: Differentiation
+    Features: Field: Mathematics
+    Grade: 11-12
+    URL: https://www.edx.org/learn/calculus/massachusetts-institute-of-technology-calculus-1a-differentiation
+
+  - Calculus 1B: Integration
+    Features: Field: Mathematics
+    Grade: 11-12
+    URL: https://www.edx.org/learn/calculus/massachusetts-institute-of-technology-calculus-1b-integration
+
+  - Introduction to Quantum Computing
+    Features: Grade: High School; Field: Computer Science, Physics
+    Grade: 11-12
+    URL: https://www.edx.org/learn/quantum-computing
+
+  - JASON Student STEM Competitions
+    Features: Subject: Engineering; Field: Science, Engineering, Technology, Innovation
+    Grade: 4-12
+    URL: https://www.jason.org/student-programs/
+
+  - MathWorks Math Modeling Challenge (M3 Challenge)
+    Features: Subject: Economics; Grade: High School; Field: Mathematics, Applied Mathematics, Mathematical Modeling, Data Analysis
+    Grade: 9-12
+    URL: https://m3challenge.siam.org/
+
+  - MITES Summer
+    Features: Grade: High School; Session: Summer; Field: Engineering, Science, Technology, Mathematics
+    Grade: 11-12
+    URL: https://mites.mit.edu/
+
+  - MIT THINK Scholars Program
+    Features: Grade: High School; Field: Engineering, Science, Technology, Mathematics
+    Grade: 9-12
+    URL: https://mites.mit.edu/
+
+  - MITES Shadow Program
+    Features: Field: Engineering, Science, Technology, Mathematics
+    Grade: 10-11
+    URL: https://mites.mit.edu/
+
+  - High School Physics Photo Contest
+    Features: Subject: Physics; Grade: High School; Field: Physics
+    Grade: 9-12
+    URL: https://www.aapt.org/programs/contests/
+
+  - Scratch Programming Platform
+    Features: Subject: Computer Science; Field: Computer Science, Programming, Creative Computing
+    Grade: K-12
+    URL: https://scratch.mit.edu/
+
+  - TARC Qualifying Flight Submissions
+    Features: Field: Aerospace Engineering, Physics, Data Collection, Documentation
+    Grade: 6-12
+    URL: http://www.rocketcontest.org/rules
+
+  - MIT Splash
+    Features: Subject: Physics; Grade: High School; Field: All STEM (Math, Science, Engineering, Computer Science, and more)
+    Grade: 7-12
+    URL: https://esp.mit.edu/learn/Splash/
+
+  - Zero Robotics 2D Simulation Rounds
+    Features: Subject: Robotics; Field: Computer Science, Programming, Algorithm Design
+    Grade: 9-12
+    URL: http://zerorobotics.mit.edu/compete/
+
+  - Broadcom MASTERS - Application Process
+    Features: Field: STEM, Communication, Research
+    Grade: 6-8
+    URL: https://www.societyforscience.org/broadcom-masters/how-to-enter/
+
+  - DMA App Inventor for Beginners
+    Features: Field: Mobile Development, Computer Science, Design
+    Grade: 3-5
+    URL: https://www.digitalmediaacademy.org/summer-camps
+
+  - iD Tech App Inventor for Beginners
+    Features: Field: Mobile Development, Computer Science, Design
+    Grade: 3-5
+    URL: https://www.idtech.com/summer-camps
+
+  - Research Science Institute (RSI)
+    Features: Grade: High School; Field: General STEM, Engineering, Computer Science, Biology
+    Grade: 11-12
+    URL: https://pathwaystoscience.org/programs.aspx
+
+  - MIT MITES - Minority Introduction to Engineering and Science
+    Features: Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Mathematics, Physics
+    Grade: 11-12
+    URL: https://pathwaystoscience.org/programs.aspx
+
+  - WTP - Women's Technology Program at MIT
+    Features: Subject: Computer Science; Subject: Engineering; Location: Mit; Field: Engineering, Computer Science, Electrical Engineering
+    Grade: 11
+    URL: https://pathwaystoscience.org/programs.aspx
+
+  - STEM Challenge Scratch Game Programming
+    Features: Field: Computer Science, Programming, Game Design
+    Grade: 2-8
+    URL: https://www.stemchallenge.org/resources/
+
+  - Astronaut Scholarship Foundation - Annual Scholar Summit
+    Features: Grade: High School; Field: Aerospace, Engineering, Space Science, Technology
+    Grade: 11-12
+    URL: https://www.astronautscholarship.org/scholar-summit.html
+
+  - Bold.org - Coding for Change Scholarship
+    Features: Grade: High School; Field: Computer Science, Programming, Software Development, App Development
+    Grade: 9-12
+    URL: https://bold.org/scholarships/computer-science/
+
+  - Bold.org - Math Excellence Scholarship
+    Features: Subject: Mathematics; Field: Mathematics, Statistics, Applied Mathematics, Actuarial Science
+    Grade: 10-12
+    URL: https://bold.org/scholarships/mathematics/
+
+  - Bold.org - Data Science and Analytics Scholarship
+    Features: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Analytics, Mathematics, Machine Learning
+    Grade: 10-12
+    URL: https://bold.org/scholarships/mathematics/
+
+  - Bold.org - Young Innovators STEM Award
+    Features: Field: All STEM Fields, Innovation, Entrepreneurship, Applied Science
+    Grade: 9-12
+    URL: https://bold.org/scholarships/stem/
+
+  - Bold.org - High School STEM Research Scholarship
+    Features: Grade: High School; Field: All STEM Fields, Research, Scientific Method, Independent Study
+    Grade: 9-12
+    URL: https://bold.org/scholarships/stem/
+
+  - Cappex - Environmental Science Scholarship
+    Features: Subject: Environmental; Field: Environmental Science, Ecology, Sustainability, Conservation
+    Grade: 9-12
+    URL: https://www.cappex.com/scholarships/science/environmental-science
+
+  - Cappex - Web Development and Design Scholarship
+    Features: Field: Web Development, Computer Science, Design, Programming
+    Grade: 9-12
+    URL: https://www.cappex.com/scholarships/computer-science/web-development
+
+  - Cappex - Biotechnology and Genetic Engineering Scholarship
+    Features: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, Biology, Molecular Biology
+    Grade: 10-12
+    URL: https://www.cappex.com/scholarships/science/biotechnology
+
+  - Cappex - Game Development Scholarship
+    Features: Field: Game Development, Computer Science, Design, Programming
+    Grade: 9-12
+    URL: https://www.cappex.com/scholarships/computer-science/game-development
+
+  - Cappex - Renewable Energy and Sustainability Scholarship
+    Features: Subject: Engineering; Field: Renewable Energy, Environmental Engineering, Sustainability, Physics
+    Grade: 9-12
+    URL: https://www.cappex.com/scholarships/engineering/renewable-energy
+
+  - Cappex - Mobile App Development Scholarship
+    Features: Field: Mobile Development, Computer Science, Software Engineering, Design
+    Grade: 9-12
+    URL: https://www.cappex.com/scholarships/computer-science/mobile-development
+
+  - Chegg - $10,000 STEM Excellence Scholarship
+    Features: Grade: High School; Field: All STEM Fields
+    Grade: 9-12
+    URL: https://www.chegg.com/scholarships/stem-scholarships/stem-excellence-scholarship
+
+  - Chegg - Environmental Science Scholar Award
+    Features: Subject: Environmental; Grade: High School; Field: Environmental Science, Ecology, Sustainability, Biology
+    Grade: 10-12
+    URL: https://www.chegg.com/scholarships/science-scholarships/environmental-science
+
+  - Chegg - Renewable Energy Scholarship
+    Features: Subject: Engineering; Field: Renewable Energy, Environmental Engineering, Sustainability, Physics
+    Grade: 9-12
+    URL: https://www.chegg.com/scholarships/engineering-scholarships/renewable-energy
+
+  - Chegg - Biotechnology Innovation Scholarship
+    Features: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, Biology, Molecular Biology
+    Grade: 10-12
+    URL: https://www.chegg.com/scholarships/science-scholarships/biotechnology
+
+  - Chegg - Game Development and Design Scholarship
+    Features: Field: Game Development, Computer Science, Design, Programming
+    Grade: 9-12
+    URL: https://www.chegg.com/scholarships/computer-science-scholarships/game-development
+
+  - Chegg - Mobile App Development Scholarship
+    Features: Field: Mobile Development, Computer Science, Software Engineering, Design
+    Grade: 9-12
+    URL: https://www.chegg.com/scholarships/computer-science-scholarships/mobile-development
+
+  - Chegg - Web Development and Design Scholarship
+    Features: Field: Web Development, Computer Science, Design, Programming
+    Grade: 9-12
+    URL: https://www.chegg.com/scholarships/computer-science-scholarships/web-development
+
+  - Chegg - User Experience and Design Scholarship
+    Features: Field: UX/UI Design, Computer Science, Design, Psychology
+    Grade: 9-12
+    URL: https://www.chegg.com/scholarships/computer-science-scholarships/ux-design
+
+  - MIT Beaver Works Summer Institute - Online Challenges
+    Features: Subject: Engineering; Grade: High School; Session: Summer; Field: Engineering, AI, Robotics, Cybersecurity
+    Grade: 9-12
+    URL: https://beaver-works-summer-institute.mit.edu/
+
+  - MIT Engineering Summer Camp for High School
+    Features: Subject: Engineering; Grade: High School; Session: Summer; Field: Engineering, Electrical Engineering, Mechanical Engineering, Computer Engineering
+    Grade: 10-12
+    URL: https://summer.mit.edu/high-school-engineering
+
+  - Gizmos - Calculus: Limits and Derivatives
+    Features: Field: Mathematics, Calculus, Derivatives, Limits
+    Grade: 11-12
+    URL: https://gizmos.explorelearning.com/
+
+  - HelloPurr - First App Tutorial
+    Features: Field: Computer Science, Mobile App Development
+    Grade: 4-12
+    URL: http://appinventor.mit.edu/explore/ai2/hellopurr
+
+  - Creative Computing with MIT App Inventor
+    Features: Subject: Computer Science; Field: Computer Science, Mobile App Development
+    Grade: 6-12
+    URL: http://appinventor.mit.edu/teach/curriculum/
+
+  - Mystery Science - 4th Grade: Waves and Information
+    Features: Field: Physics, Waves, Communication Technology, Engineering
+    Grade: 4
+    URL: https://mysteryscience.com/school/overview
+
+  - NSBE Jr. - Torch Awards Competition
+    Features: Grade: High School; Field: All STEM Fields, Leadership, Academic Excellence
+    Grade: K-12
+    URL: https://www.nsbe.org/nsbejr
+
+  - MIT RISE - Research in Science and Engineering
+    Features: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+    Grade: 11-12
+    URL: https://www.riseprograms.org/programs
+
+  - Scholly - Future Coders Scholarship
+    Features: Subject: Computer Science; Grade: High School; Field: Computer Science, Programming, Software Development, Web Development
+    Grade: 9-12
+    URL: https://myscholly.com/computer-science-scholarships/
+
+  - Scholly - AI and Machine Learning Scholarship
+    Features: Subject: Artificial Intelligence; Subject: Machine Learning; Subject: Data Science; Field: Artificial Intelligence, Machine Learning, Data Science, Computer Science
+    Grade: 10-12
+    URL: https://myscholly.com/computer-science-scholarships/
+
+  - Scholly - Math Excellence Scholarship
+    Features: Subject: Mathematics; Field: Mathematics, Statistics, Applied Mathematics, Actuarial Science
+    Grade: 10-12
+    URL: https://myscholly.com/stem-scholarships/
+
+  - Scholly - Data Science Scholars
+    Features: Subject: Data Science; Field: Data Science, Statistics, Analytics, Mathematics, Computer Science
+    Grade: 10-12
+    URL: https://myscholly.com/stem-scholarships/
+
+  - Scholly - Young Innovators STEM Award
+    Features: Field: All STEM Fields, Innovation, Entrepreneurship, Applied Science
+    Grade: 9-12
+    URL: https://myscholly.com/stem-scholarships/
+
+  - Scholly - High School STEM Research Award
+    Features: Grade: High School; Field: All STEM Fields, Research, Scientific Method, Independent Study
+    Grade: 9-12
+    URL: https://myscholly.com/stem-scholarships/
+
+  - Research Science Institute (RSI) at MIT
+    Features: Location: Mit; Grade: High School; Field: All Sciences, Mathematics, Engineering, Computer Science
+    Grade: 11
+    URL: https://www.cee.org/programs/research-science-institute
+
+  - Broad Summer Scholars Program (BSSP)
+    Features: Subject: Biomedical; Session: Summer; Field: Genomics, Computational Biology, Biomedical Research, Genetics
+    Grade: 11-12
+    URL: https://www.broadinstitute.org/bssp
+
+  - MIT MOSTEC - MIT Online Science, Technology, and Engineering Community
+    Features: Subject: Engineering; Field: All STEM Fields, Engineering, Science, Mathematics, Computer Science
+    Grade: 11
+    URL: https://oeop.mit.edu/programs/mostec
+
+  - MIT THINK Scholars Program
+    Features: Grade: High School; Field: All STEM Fields, Independent Research, Scientific Method
+    Grade: 9-12
+    URL: https://think.mit.edu/
+
+
+Pioneer Academics (18 variations preserved)
+--------------------------------------------------------------------------------
+  - Pioneer Academics - Summer Session Online Research Program
+    Features: Grade: High School; Session: Summer; Field: Research, Academic Writing, Critical Thinking, Interdisciplinary Studies
+    Grade: 9-12
+    URL: https://pioneeracademics.com/programs/
+
+  - Pioneer Academics - Artificial Intelligence and Machine Learning
+    Features: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Biotechnology and Genetic Engineering
+    Features: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Neuroscience and Cognitive Science
+    Features: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Astrophysics and Cosmology
+    Features: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Environmental Science and Climate Change
+    Features: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Computer Science and Algorithms
+    Features: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Mathematics and Number Theory
+    Features: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Biochemistry and Molecular Biology
+    Features: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Physics and Quantum Mechanics
+    Features: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Chemistry and Materials Science
+    Features: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Engineering and Robotics
+    Features: Subject: Engineering; Subject: Biomedical; Subject: Robotics; Field: Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Design
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Data Science and Statistics
+    Features: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Analytics, Machine Learning, Quantitative Analysis
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Biomedical Science and Medicine
+    Features: Subject: Biology; Subject: Biomedical; Field: Biomedical Science, Medicine, Immunology, Pathology, Clinical Research
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Economics and Game Theory
+    Features: Subject: Economics; Field: Economics, Game Theory, Mathematics, Behavioral Economics, Quantitative Analysis
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Public Health and Epidemiology
+    Features: Field: Public Health, Epidemiology, Biostatistics, Health Policy, Disease Prevention
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Applied Mathematics and Optimization
+    Features: Subject: Mathematics; Subject: Engineering; Field: Applied Mathematics, Optimization, Operations Research, Mathematical Modeling, Algorithms
+    Grade: 9-12
+    URL: https://pioneeracademics.com/subjects/
+
+  - Pioneer Academics - Scholarship and Financial Aid Program
+    Features: Field: Financial Aid, Scholarships, Access, Diversity
+    Grade: 9-12
+    URL: https://pioneeracademics.com/
+
+
+SSP (Summer Science Program) (11 variations preserved)
+--------------------------------------------------------------------------------
+  - Harvard HSSP (High School Studies Program)
+    Features: Grade: High School; Field: All STEM (Computer Science, Molecular Biology, Mathematics, Engineering)
+    Grade: 7-12
+    URL: https://esp.mit.edu/learn/HSSP/
+
+  - Baylor College of Medicine - High School Summer Science Program
+    Features: Subject: Biology; Subject: Biomedical; Subject: Neuroscience; Grade: High School; Session: Summer; Field: Biomedical Research, Molecular Biology, Genetics, Neuroscience
+    Grade: 11-12
+    URL: https://www.bcm.edu/education/academic-programs/high-school-summer
+
+  - Summer Science Program (SSP) - Astrophysics at New Mexico Tech
+    Features: Subject: Physics; Location: New Mexico Tech; Session: Summer; Field: Astrophysics, Astronomy, Physics, Computer Science, Orbital Mechanics
+    Grade: 10-11
+    URL: https://summerscience.org/programs/
+
+  - Summer Science Program (SSP) - Astrophysics at University of Colorado Boulder
+    Features: Subject: Physics; Location: University Of Colorado Boulder; Session: Summer; Field: Astrophysics, Astronomy, Physics, Computer Science, Data Analysis
+    Grade: 10-11
+    URL: https://summerscience.org/programs/
+
+  - Summer Science Program (SSP) - Astrophysics at Purdue University
+    Features: Subject: Physics; Location: Purdue University; Session: Summer; Field: Astrophysics, Astronomy, Physics, Mathematics, Computer Programming
+    Grade: 10-11
+    URL: https://summerscience.org/programs/
+
+  - Summer Science Program (SSP) - Biochemistry at Purdue University
+    Features: Subject: Biology; Subject: Chemistry; Subject: Engineering; Location: Purdue University; Session: Summer; Field: Biochemistry, Molecular Biology, Genetics, Laboratory Science, Protein Chemistry
+    Grade: 10-11
+    URL: https://summerscience.org/programs/
+
+  - Summer Science Program (SSP) - Biochemistry at Indiana University
+    Features: Subject: Chemistry; Location: Indiana University; Session: Summer; Field: Biochemistry, Molecular Biology, Bioinformatics, Laboratory Techniques, Enzymology
+    Grade: 10-11
+    URL: https://summerscience.org/programs/
+
+  - Summer Science Program (SSP) - Genomics at Purdue University
+    Features: Subject: Biology; Subject: Computer Science; Location: Purdue University; Session: Summer; Field: Genomics, Bioinformatics, Genetics, Computational Biology, Data Science
+    Grade: 10-11
+    URL: https://summerscience.org/programs/
+
+  - Summer Science Program (SSP) - Application Process and Admissions
+    Features: Session: Summer; Field: Admissions, Application Process, Selection Criteria
+    Grade: 10-11
+    URL: https://summerscience.org/admissions/
+
+  - Summer Science Program (SSP) - Financial Aid and Accessibility
+    Features: Session: Summer; Field: Financial Aid, Access, Equity, Diversity
+    Grade: 10-11
+    URL: https://summerscience.org/admissions/
+
+  - Summer Science Program (SSP) - Alumni Network and College Success
+    Features: Session: Summer; Field: Alumni Network, College Preparation, Career Development, Mentorship
+    Grade: 10-11
+    URL: https://summerscience.org/
+
+
+Stanford Pre-Collegiate (15 variations preserved)
+--------------------------------------------------------------------------------
+  - Stanford Pre-Collegiate Summer Institutes
+    Features: Subject: Computer Science; Subject: Engineering; Session: Summer; Field: Computer Science, Engineering, Science, Mathematics
+    Grade: 8-11
+    URL: https://spcs.stanford.edu/programs
+
+  - Stanford Pre-Collegiate Computer Science
+    Features: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+    Grade: 9-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Engineering
+    Features: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+    Grade: 9-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Artificial Intelligence
+    Features: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+    Grade: 10-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Biomedical Sciences
+    Features: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+    Grade: 10-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Physics
+    Features: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+    Grade: 10-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Data Science
+    Features: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+    Grade: 9-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Game Design
+    Features: Field: Computer Science, Game Development, Design
+    Grade: 9-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Robotics
+    Features: Subject: Robotics; Field: Robotics, Engineering, Computer Science
+    Grade: 9-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Environmental Science
+    Features: Subject: Environmental; Field: Environmental Science, Biology, Chemistry
+    Grade: 9-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Medical Sciences
+    Features: Field: Medicine, Health Sciences, Biology
+    Grade: 10-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Chemistry
+    Features: Subject: Chemistry; Field: Chemistry, Science
+    Grade: 10-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Business & Entrepreneurship
+    Features: Field: Business, Entrepreneurship, Technology
+    Grade: 10-12
+    URL: https://summerinstitutes.spcs.stanford.edu/
+
+  - Stanford Pre-Collegiate Summer Engineering Academy
+    Features: Subject: Engineering; Grade: High School; Session: Summer; Field: Engineering, Design, Technology, Innovation
+    Grade: 9-11
+    URL: https://spcs.stanford.edu/engineering-academy
+
+  - Stanford Pre-Collegiate Studies - Online High School
+    Features: Grade: High School; Field: Computer Science, Mathematics, Physics, Engineering
+    Grade: 9-12
+    URL: https://online.stanford.edu/
+
+================================================================================
+TOTAL PROGRAM VARIATIONS PRESERVED: 137
+================================================================================
+
+
+DETAILED VARIATIONS FROM KEEP RESOURCES ANALYSIS
+================================================================================
+
+AI4ALL - 21 variation pairs
+----------------------------------------
+  Variation 1: AI4ALL at Stanford University
+  Variation 2: AI4ALL at Princeton University
+  Distinguishing: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 77.97%
+
+  Variation 1: AI4ALL at Stanford University
+  Variation 2: AI4ALL at UC Berkeley
+  Distinguishing: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 56.00%
+
+  Variation 1: AI4ALL at Stanford University
+  Variation 2: AI4ALL at Boston University
+  Distinguishing: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 85.71%
+
+  Variation 1: AI4ALL at Stanford University
+  Variation 2: AI4ALL at University of Michigan
+  Distinguishing: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 65.57%
+
+  Variation 1: AI4ALL at Stanford University
+  Variation 2: AI4ALL at Columbia University
+  Distinguishing: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 75.86%
+
+  Variation 1: AI4ALL at Stanford University
+  Variation 2: AI4ALL Online Programs
+  Distinguishing: Subject: Machine Learning; Location: Stanford University; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 35.29%
+
+  Variation 1: AI4ALL at Princeton University
+  Variation 2: AI4ALL at UC Berkeley
+  Distinguishing: Subject: Machine Learning; Location: Princeton University; Field: Artificial Intelligence, Computer Science, Data Science
+  Similarity: 58.82%
+
+  Variation 1: AI4ALL at Princeton University
+  Variation 2: AI4ALL at Boston University
+  Distinguishing: Subject: Machine Learning; Location: Princeton University; Field: Artificial Intelligence, Computer Science, Data Science
+  Similarity: 84.21%
+
+  Variation 1: AI4ALL at Princeton University
+  Variation 2: AI4ALL at University of Michigan
+  Distinguishing: Subject: Machine Learning; Location: Princeton University; Field: Artificial Intelligence, Computer Science, Data Science
+  Similarity: 64.52%
+
+  Variation 1: AI4ALL at Princeton University
+  Variation 2: AI4ALL at Columbia University
+  Distinguishing: Subject: Machine Learning; Location: Princeton University; Field: Artificial Intelligence, Computer Science, Data Science
+  Similarity: 74.58%
+
+  Variation 1: AI4ALL at Princeton University
+  Variation 2: AI4ALL Online Programs
+  Distinguishing: Subject: Machine Learning; Location: Princeton University; Field: Artificial Intelligence, Computer Science, Data Science
+  Similarity: 50.00%
+
+  Variation 1: AI4ALL at UC Berkeley
+  Variation 2: AI4ALL at Boston University
+  Distinguishing: Subject: Machine Learning; Location: Uc Berkeley; Field: Artificial Intelligence, Machine Learning, Computer Science
+  Similarity: 58.33%
+
+  Variation 1: AI4ALL at UC Berkeley
+  Variation 2: AI4ALL at University of Michigan
+  Distinguishing: Subject: Machine Learning; Location: Uc Berkeley; Field: Artificial Intelligence, Machine Learning, Computer Science
+  Similarity: 52.83%
+
+  Variation 1: AI4ALL at UC Berkeley
+  Variation 2: AI4ALL at Columbia University
+  Distinguishing: Subject: Machine Learning; Location: Uc Berkeley; Field: Artificial Intelligence, Machine Learning, Computer Science
+  Similarity: 60.00%
+
+  Variation 1: AI4ALL at UC Berkeley
+  Variation 2: AI4ALL Online Programs
+  Distinguishing: Subject: Machine Learning; Location: Uc Berkeley; Field: Artificial Intelligence, Machine Learning, Computer Science
+  Similarity: 37.21%
+
+  Variation 1: AI4ALL at Boston University
+  Variation 2: AI4ALL at University of Michigan
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Location: Boston University; Field: Artificial Intelligence, Computer Science, Data Analysis
+  Similarity: 67.80%
+
+  Variation 1: AI4ALL at Boston University
+  Variation 2: AI4ALL at Columbia University
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Location: Boston University; Field: Artificial Intelligence, Computer Science, Data Analysis
+  Similarity: 78.57%
+
+  Variation 1: AI4ALL at Boston University
+  Variation 2: AI4ALL Online Programs
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Location: Boston University; Field: Artificial Intelligence, Computer Science, Data Analysis
+  Similarity: 48.98%
+
+  Variation 1: AI4ALL at University of Michigan
+  Variation 2: AI4ALL at Columbia University
+  Distinguishing: Subject: Machine Learning; Location: University Of Michigan; Field: Artificial Intelligence, Machine Learning, Ethics
+  Similarity: 65.57%
+
+  Variation 1: AI4ALL at University of Michigan
+  Variation 2: AI4ALL Online Programs
+  Distinguishing: Subject: Machine Learning; Location: University Of Michigan; Field: Artificial Intelligence, Machine Learning, Ethics
+  Similarity: 33.33%
+
+  Variation 1: AI4ALL at Columbia University
+  Variation 2: AI4ALL Online Programs
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Location: Columbia University; Field: Artificial Intelligence, Data Science, Urban Technology
+  Similarity: 39.22%
+
+
+Unknown - 139 variation pairs
+----------------------------------------
+  Variation 1: Bold.org - Black Excellence in STEM Scholarship
+  Variation 2: Bold.org - First-Generation STEM Scholars
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Field: All STEM Fields, Science, Technology, Engineering, Mathematics
+  Similarity: 68.18%
+
+  Variation 1: Explore Machine Learning
+  Variation 2: Google Applied Computing Series
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning
+  Similarity: 29.09%
+
+  Variation 1: Scholly - Minority STEM Leaders Scholarship
+  Variation 2: Scholly - First-Generation STEM Scholars
+  Distinguishing: Field: All STEM Fields, Science, Technology, Engineering, Mathematics
+  Similarity: 65.06%
+
+  Variation 1: UCONN Mentor Connection High School Research Program
+  Variation 2: Clark Scholars Program at Texas Tech
+  Distinguishing: Grade: High School; Field: General STEM, Biology, Chemistry, Engineering
+  Similarity: 40.91%
+
+  Variation 1: UCONN Mentor Connection High School Research Program
+  Variation 2: Fermilab TARGET - Teachers and Researchers Generating Excitement for Technology
+  Distinguishing: Grade: High School; Field: General STEM, Biology, Chemistry, Engineering
+  Similarity: 30.53%
+
+  Variation 1: Stanford University Mathematics Camp (SUMaC)
+  Variation 2: Stanford University-Level Online Math & Physics
+  Distinguishing: Subject: Mathematics; Field: Mathematics
+  Similarity: 59.34%
+
+  Variation 1: BYJU'S Future School - Coding for Beginners (Ages 6-8)
+  Variation 2: BYJU'S Future School - Calculus and Advanced Topics (Ages 14-18)
+  Distinguishing: Field: Computer Science, Coding, Programming, Scratch
+  Similarity: 62.71%
+
+  Variation 1: BYJU'S Future School - Coding for Beginners (Ages 6-8)
+  Variation 2: BYJU'S Future School - Free Trial Classes
+  Distinguishing: Field: Computer Science, Coding, Programming, Scratch
+  Similarity: 56.84%
+
+  Variation 1: BYJU'S Future School - Calculus and Advanced Topics (Ages 14-18)
+  Variation 2: BYJU'S Future School - Free Trial Classes
+  Distinguishing: Subject: Mathematics; Grade: High School; Field: Mathematics, Calculus, Statistics, Advanced Math
+  Similarity: 59.05%
+
+  Variation 1: AI Scholars
+  Variation 2: CS Scholars
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 81.82%
+
+  Variation 1: AI Scholars
+  Variation 2: National High School Game Academy
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 40.91%
+
+  Variation 1: AI Scholars
+  Variation 2: Summer Academy for Math and Science
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 17.39%
+
+  Variation 1: AI Scholars
+  Variation 2: Architecture Program
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 32.26%
+
+  Variation 1: AI Scholars
+  Variation 2: Design Program
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 8.00%
+
+  Variation 1: AI Scholars
+  Variation 2: Summer Session
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 24.00%
+
+  Variation 1: CS Scholars
+  Variation 2: National High School Game Academy
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science, Programming, Software Engineering
+  Similarity: 31.82%
+
+  Variation 1: CS Scholars
+  Variation 2: Summer Academy for Math and Science
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science, Programming, Software Engineering
+  Similarity: 17.39%
+
+  Variation 1: CS Scholars
+  Variation 2: Architecture Program
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science, Programming, Software Engineering
+  Similarity: 25.81%
+
+  Variation 1: CS Scholars
+  Variation 2: Design Program
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science, Programming, Software Engineering
+  Similarity: 32.00%
+
+  Variation 1: CS Scholars
+  Variation 2: Summer Session
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science, Programming, Software Engineering
+  Similarity: 32.00%
+
+  Variation 1: National High School Game Academy
+  Variation 2: Summer Academy for Math and Science
+  Distinguishing: Grade: High School; Field: Game Development, Computer Science, Design, Programming
+  Similarity: 32.35%
+
+  Variation 1: National High School Game Academy
+  Variation 2: Architecture Program
+  Distinguishing: Grade: High School; Field: Game Development, Computer Science, Design, Programming
+  Similarity: 22.64%
+
+  Variation 1: National High School Game Academy
+  Variation 2: Design Program
+  Distinguishing: Grade: High School; Field: Game Development, Computer Science, Design, Programming
+  Similarity: 29.79%
+
+  Variation 1: National High School Game Academy
+  Variation 2: Summer Session
+  Distinguishing: Grade: High School; Field: Game Development, Computer Science, Design, Programming
+  Similarity: 12.77%
+
+  Variation 1: Summer Academy for Math and Science
+  Variation 2: Architecture Program
+  Distinguishing: Subject: Mathematics; Session: Summer; Field: Mathematics, Science, Physics, Chemistry
+  Similarity: 7.27%
+
+  Variation 1: Summer Academy for Math and Science
+  Variation 2: Design Program
+  Distinguishing: Subject: Mathematics; Session: Summer; Field: Mathematics, Science, Physics, Chemistry
+  Similarity: 12.24%
+
+  Variation 1: Summer Academy for Math and Science
+  Variation 2: Summer Session
+  Distinguishing: Subject: Mathematics; Session: Summer; Field: Mathematics, Science, Physics, Chemistry
+  Similarity: 40.82%
+
+  Variation 1: Architecture Program
+  Variation 2: Design Program
+  Distinguishing: Field: Architecture, Design, Engineering
+  Similarity: 52.94%
+
+  Variation 1: Architecture Program
+  Variation 2: Summer Session
+  Distinguishing: Field: Architecture, Design, Engineering
+  Similarity: 17.65%
+
+  Variation 1: Design Program
+  Variation 2: Summer Session
+  Distinguishing: Subject: Environmental; Field: Design, UX Design, Product Design, Visual Communication
+  Similarity: 28.57%
+
+  Variation 1: Kode With Klossy Virtual Web Development Camp
+  Variation 2: Kode With Klossy Capstone Project
+  Distinguishing: Field: Computer Science, Web Development, HTML, CSS, JavaScript
+  Similarity: 51.28%
+
+  Variation 1: TEALS Introduction to Computer Science
+  Variation 2: TEALS AP Computer Science A
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science
+  Similarity: 70.77%
+
+  Variation 1: TEALS Introduction to Computer Science
+  Variation 2: TEALS AP Computer Science Principles
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science
+  Similarity: 62.16%
+
+  Variation 1: TEALS Introduction to Computer Science
+  Variation 2: TEALS Cybersecurity
+  Distinguishing: Subject: Computer Science; Grade: High School; Field: Computer Science
+  Similarity: 42.11%
+
+  Variation 1: TEALS AP Computer Science A
+  Variation 2: TEALS AP Computer Science Principles
+  Distinguishing: Subject: Computer Science; Field: Computer Science
+  Similarity: 82.54%
+
+  Variation 1: TEALS AP Computer Science A
+  Variation 2: TEALS Cybersecurity
+  Distinguishing: Subject: Computer Science; Field: Computer Science
+  Similarity: 52.17%
+
+  Variation 1: TEALS AP Computer Science Principles
+  Variation 2: TEALS Cybersecurity
+  Distinguishing: Subject: Computer Science; Field: Computer Science
+  Similarity: 47.27%
+
+  Variation 1: NSBE Jr. - College Tours Program
+  Variation 2: NSBE Jr. - Mentorship Circles
+  Distinguishing: Subject: Engineering; Grade: High School; Field: College Preparation, Career Exploration, Engineering Education
+  Similarity: 49.18%
+
+  Variation 1: NSBE Jr. - College Tours Program
+  Variation 2: NSBE Jr. - Scholarship and Financial Aid Workshops
+  Distinguishing: Subject: Engineering; Grade: High School; Field: College Preparation, Career Exploration, Engineering Education
+  Similarity: 43.90%
+
+  Variation 1: NSBE Jr. - Mentorship Circles
+  Variation 2: NSBE Jr. - Scholarship and Financial Aid Workshops
+  Distinguishing: Subject: Engineering; Field: Engineering, Career Development, Academic Support
+  Similarity: 55.70%
+
+  Variation 1: Polygence - Scholarship and Financial Aid
+  Variation 2: Polygence Research Academy - Virtual Mentorship
+  Distinguishing: Field: Financial Aid, Scholarships, Access, Diversity, Equity
+  Similarity: 40.91%
+
+  Variation 1: Polygence - Core Research Program
+  Variation 2: Polygence - Biotechnology and Life Sciences
+  Distinguishing: Grade: High School; Field: All STEM Fields, Science, Technology, Engineering, Mathematics
+  Similarity: 47.37%
+
+  Variation 1: Polygence - Core Research Program
+  Variation 2: Polygence - Engineering and Design
+  Distinguishing: Grade: High School; Field: All STEM Fields, Science, Technology, Engineering, Mathematics
+  Similarity: 50.75%
+
+  Variation 1: Polygence - Core Research Program
+  Variation 2: Polygence - Chemistry and Materials Science
+  Distinguishing: Grade: High School; Field: All STEM Fields, Science, Technology, Engineering, Mathematics
+  Similarity: 47.37%
+
+  Variation 1: Polygence - Core Research Program
+  Variation 2: Polygence - Psychology and Cognitive Science
+  Distinguishing: Grade: High School; Field: All STEM Fields, Science, Technology, Engineering, Mathematics
+  Similarity: 46.75%
+
+  Variation 1: Polygence - Biotechnology and Life Sciences
+  Variation 2: Polygence - Engineering and Design
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Biology, Biotechnology, Genetics, Neuroscience, Life Sciences, Bioinformatics
+  Similarity: 59.74%
+
+  Variation 1: Polygence - Biotechnology and Life Sciences
+  Variation 2: Polygence - Chemistry and Materials Science
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Biology, Biotechnology, Genetics, Neuroscience, Life Sciences, Bioinformatics
+  Similarity: 67.44%
+
+  Variation 1: Polygence - Biotechnology and Life Sciences
+  Variation 2: Polygence - Psychology and Cognitive Science
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Biology, Biotechnology, Genetics, Neuroscience, Life Sciences, Bioinformatics
+  Similarity: 78.16%
+
+  Variation 1: Polygence - Engineering and Design
+  Variation 2: Polygence - Chemistry and Materials Science
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Mechanical Engineering, Electrical Engineering, Design, Problem Solving
+  Similarity: 62.34%
+
+  Variation 1: Polygence - Engineering and Design
+  Variation 2: Polygence - Psychology and Cognitive Science
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Mechanical Engineering, Electrical Engineering, Design, Problem Solving
+  Similarity: 51.28%
+
+  Variation 1: Polygence - Chemistry and Materials Science
+  Variation 2: Polygence - Psychology and Cognitive Science
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Nanotechnology, Chemical Engineering, Organic Chemistry
+  Similarity: 68.97%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: UC Berkeley RISE Research Internship
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 46.58%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Carnegie Mellon RISE Computer Science Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 50.60%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Columbia RISE Biomedical Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 51.43%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: University of Washington RISE Engineering Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 50.57%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: University of Michigan RISE Research Fellows
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 49.38%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 37.50%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 51.85%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 46.75%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 37.21%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 49.35%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 31.33%
+
+  Variation 1: Stanford RISE Summer Research Program
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Session: Summer; Field: Biomedical Research, Engineering, Computational Science, Laboratory Science
+  Similarity: 49.35%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Carnegie Mellon RISE Computer Science Research
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 43.90%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Columbia RISE Biomedical Research
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 46.38%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: University of Washington RISE Engineering Research
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 41.86%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: University of Michigan RISE Research Fellows
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 52.50%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 35.44%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 40.00%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 44.74%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 28.24%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 42.11%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 41.46%
+
+  Variation 1: UC Berkeley RISE Research Internship
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Engineering; Grade: High School; Field: Life Sciences, Physical Sciences, Engineering, Environmental Science
+  Similarity: 57.89%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: Columbia RISE Biomedical Research
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 53.16%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: University of Washington RISE Engineering Research
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 50.00%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: University of Michigan RISE Research Fellows
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 42.22%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 40.45%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 68.89%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 62.79%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 31.58%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 60.47%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 30.43%
+
+  Variation 1: Carnegie Mellon RISE Computer Science Research
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Computer Science; Subject: Machine Learning; Subject: Robotics; Grade: High School; Field: Computer Science, Artificial Intelligence, Machine Learning, Robotics, Human-Computer Interaction
+  Similarity: 41.86%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: University of Washington RISE Engineering Research
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 48.19%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: University of Michigan RISE Research Fellows
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 44.16%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 34.21%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 49.35%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 60.27%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 29.27%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 54.79%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 40.51%
+
+  Variation 1: Columbia RISE Biomedical Research
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Biomedical; Grade: High School; Field: Biomedical Research, Medicine, Drug Development, Public Health, Clinical Research
+  Similarity: 46.58%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: University of Michigan RISE Research Fellows
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 68.09%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 49.46%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 48.94%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 53.33%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 50.51%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 53.33%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 68.75%
+
+  Variation 1: University of Washington RISE Engineering Research
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Grade: High School; Field: Mechanical Engineering, Electrical Engineering, Civil Engineering, Biomedical Engineering
+  Similarity: 53.33%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 32.18%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 40.91%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 38.10%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 53.76%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 40.48%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 51.11%
+
+  Variation 1: University of Michigan RISE Research Fellows
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Mathematics; Subject: Engineering; Grade: High School; Field: Natural Sciences, Engineering, Mathematics, Research Methods
+  Similarity: 61.90%
+
+  Variation 1: Georgia Tech RISE Engineering and Computing
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Subject: Robotics; Grade: High School; Field: Engineering, Computer Science, Robotics, Cybersecurity, Materials Science
+  Similarity: 39.08%
+
+  Variation 1: Georgia Tech RISE Engineering and Computing
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Subject: Robotics; Grade: High School; Field: Engineering, Computer Science, Robotics, Cybersecurity, Materials Science
+  Similarity: 38.55%
+
+  Variation 1: Georgia Tech RISE Engineering and Computing
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Subject: Robotics; Grade: High School; Field: Engineering, Computer Science, Robotics, Cybersecurity, Materials Science
+  Similarity: 36.96%
+
+  Variation 1: Georgia Tech RISE Engineering and Computing
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Subject: Robotics; Grade: High School; Field: Engineering, Computer Science, Robotics, Cybersecurity, Materials Science
+  Similarity: 33.73%
+
+  Variation 1: Georgia Tech RISE Engineering and Computing
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Subject: Robotics; Grade: High School; Field: Engineering, Computer Science, Robotics, Cybersecurity, Materials Science
+  Similarity: 47.19%
+
+  Variation 1: Georgia Tech RISE Engineering and Computing
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Subject: Robotics; Grade: High School; Field: Engineering, Computer Science, Robotics, Cybersecurity, Materials Science
+  Similarity: 40.96%
+
+  Variation 1: Northwestern RISE Materials Science Research
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Grade: High School; Field: Materials Science, Nanotechnology, Polymers, Energy Materials, Chemistry
+  Similarity: 66.67%
+
+  Variation 1: Northwestern RISE Materials Science Research
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Grade: High School; Field: Materials Science, Nanotechnology, Polymers, Energy Materials, Chemistry
+  Similarity: 30.11%
+
+  Variation 1: Northwestern RISE Materials Science Research
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Grade: High School; Field: Materials Science, Nanotechnology, Polymers, Energy Materials, Chemistry
+  Similarity: 64.29%
+
+  Variation 1: Northwestern RISE Materials Science Research
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Grade: High School; Field: Materials Science, Nanotechnology, Polymers, Energy Materials, Chemistry
+  Similarity: 31.11%
+
+  Variation 1: Northwestern RISE Materials Science Research
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Grade: High School; Field: Materials Science, Nanotechnology, Polymers, Energy Materials, Chemistry
+  Similarity: 40.48%
+
+  Variation 1: Duke RISE Environmental Science Research
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Environmental; Grade: High School; Field: Environmental Science, Climate Change, Ecology, Environmental Policy, Sustainability
+  Similarity: 29.21%
+
+  Variation 1: Duke RISE Environmental Science Research
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Environmental; Grade: High School; Field: Environmental Science, Climate Change, Ecology, Environmental Policy, Sustainability
+  Similarity: 65.00%
+
+  Variation 1: Duke RISE Environmental Science Research
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Environmental; Grade: High School; Field: Environmental Science, Climate Change, Ecology, Environmental Policy, Sustainability
+  Similarity: 30.23%
+
+  Variation 1: Duke RISE Environmental Science Research
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Environmental; Grade: High School; Field: Environmental Science, Climate Change, Ecology, Environmental Policy, Sustainability
+  Similarity: 40.00%
+
+  Variation 1: University of Illinois RISE Physics and Astronomy
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Astronomy, Astrophysics, Particle Physics, Observatory Research
+  Similarity: 38.20%
+
+  Variation 1: University of Illinois RISE Physics and Astronomy
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Astronomy, Astrophysics, Particle Physics, Observatory Research
+  Similarity: 52.63%
+
+  Variation 1: University of Illinois RISE Physics and Astronomy
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Astronomy, Astrophysics, Particle Physics, Observatory Research
+  Similarity: 42.70%
+
+  Variation 1: University of Pennsylvania RISE Bioengineering
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Biology; Subject: Engineering; Grade: High School; Field: Bioengineering, Medical Devices, Tissue Engineering, Computational Biology
+  Similarity: 51.16%
+
+  Variation 1: CMU Robotics Academy - VEX V5 Curriculum
+  Variation 2: CMU Robotics Academy - Robotics Engineering 2
+  Distinguishing: Subject: Robotics; Grade: High School; Field: Robotics, Computer Science, C++, Engineering Design
+  Similarity: 61.18%
+
+  Variation 1: Broadcom MASTERS Competition
+  Variation 2: Broadcom MASTERS - Finals Competition
+  Distinguishing: Grade: Middle School; Grade: Grades 6-8; Field: Science, Technology, Engineering, Mathematics, All STEM
+  Similarity: 86.15%
+
+  Variation 1: Broadcom MASTERS Competition
+  Variation 2: Broadcom MASTERS - Samueli Foundation Prize
+  Distinguishing: Grade: Middle School; Grade: Grades 6-8; Field: Science, Technology, Engineering, Mathematics, All STEM
+  Similarity: 61.97%
+
+  Variation 1: Broadcom MASTERS Competition
+  Variation 2: Broadcom MASTERS (Math, Applied Science, Technology and Engineering for Rising Stars)
+  Distinguishing: Grade: Middle School; Grade: Grades 6-8; Field: Science, Technology, Engineering, Mathematics, All STEM
+  Similarity: 37.17%
+
+  Variation 1: Broadcom MASTERS - Finals Competition
+  Variation 2: Broadcom MASTERS - Samueli Foundation Prize
+  Distinguishing: Field: STEM, Problem Solving, Critical Thinking
+  Similarity: 65.00%
+
+  Variation 1: Broadcom MASTERS - Finals Competition
+  Variation 2: Broadcom MASTERS (Math, Applied Science, Technology and Engineering for Rising Stars)
+  Distinguishing: Field: STEM, Problem Solving, Critical Thinking
+  Similarity: 37.70%
+
+  Variation 1: Broadcom MASTERS - Samueli Foundation Prize
+  Variation 2: Broadcom MASTERS (Math, Applied Science, Technology and Engineering for Rising Stars)
+  Distinguishing: Subject: Engineering; Grade: Middle School; Field: Engineering, Design, Technology
+  Similarity: 43.75%
+
+  Variation 1: Broadcom MASTERS - Science Fair Qualification
+  Variation 2: Broadcom MASTERS - Application Process
+  Distinguishing: Field: Science, Research, All STEM
+  Similarity: 67.47%
+
+  Variation 1: Tynker Summer Coding Camp - Python
+  Variation 2: Tynker Summer Coding Camp - Mobile Apps
+  Distinguishing: Session: Summer; Field: Computer Science, Python, Programming
+  Similarity: 79.45%
+
+  Variation 1: Biology Olympiad Training Camp
+  Variation 2: USABO School Registration
+  Distinguishing: Subject: Biology; Field: Biology, Life Sciences
+  Similarity: 36.36%
+
+  Variation 1: Biology Olympiad Training Camp
+  Variation 2: USABO Study Groups and Preparation Courses
+  Distinguishing: Subject: Biology; Field: Biology, Life Sciences
+  Similarity: 16.67%
+
+  Variation 1: USABO School Registration
+  Variation 2: USABO Study Groups and Preparation Courses
+  Distinguishing: Grade: High School; Field: Biology, Life Sciences
+  Similarity: 50.75%
+
+
+SSTP - 3 variation pairs
+----------------------------------------
+  Variation 1: SSTP - Secondary Student Training Program at University of Iowa
+  Variation 2: UCONN Mentor Connection High School Research Program
+  Distinguishing: Location: University Of Iowa; Grade: High School; Field: Biology, Chemistry, Engineering, Physics
+  Similarity: 33.04%
+
+  Variation 1: SSTP - Secondary Student Training Program at University of Iowa
+  Variation 2: Clark Scholars Program at Texas Tech
+  Distinguishing: Location: University Of Iowa; Grade: High School; Field: Biology, Chemistry, Engineering, Physics
+  Similarity: 44.44%
+
+  Variation 1: SSTP - Secondary Student Training Program at University of Iowa
+  Variation 2: Fermilab TARGET - Teachers and Researchers Generating Excitement for Technology
+  Distinguishing: Location: University Of Iowa; Grade: High School; Field: Biology, Chemistry, Engineering, Physics
+  Similarity: 26.76%
+
+
+Clark Scholars - 1 variation pairs
+----------------------------------------
+  Variation 1: Clark Scholars Program at Texas Tech
+  Variation 2: Fermilab TARGET - Teachers and Researchers Generating Excitement for Technology
+  Distinguishing: Location: Texas Tech; Grade: High School; Field: General STEM, Biology, Chemistry, Engineering, Physics
+  Similarity: 36.52%
+
+
+Pioneer Academics - 120 variation pairs
+----------------------------------------
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Biotechnology and Genetic Engineering
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 64.46%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Neuroscience and Cognitive Science
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 64.41%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Astrophysics and Cosmology
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 58.18%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Environmental Science and Climate Change
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 67.74%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Computer Science and Algorithms
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 57.39%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Mathematics and Number Theory
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 58.41%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 55.93%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 58.41%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 55.65%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 57.41%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 63.06%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 71.30%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 58.72%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 59.65%
+
+  Variation 1: Pioneer Academics - Artificial Intelligence and Machine Learning
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Machine Learning, Computer Science, Neural Networks, Data Science
+  Similarity: 55.00%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Neuroscience and Cognitive Science
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 57.66%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Astrophysics and Cosmology
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 52.43%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Environmental Science and Climate Change
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 54.70%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Computer Science and Algorithms
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 61.11%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Mathematics and Number Theory
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 56.60%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 57.66%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 58.49%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 61.11%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 61.39%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 59.62%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 68.52%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 64.71%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 54.21%
+
+  Variation 1: Pioneer Academics - Biotechnology and Genetic Engineering
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Biology; Subject: Engineering; Field: Biotechnology, Genetics, CRISPR, Molecular Biology, Bioengineering
+  Similarity: 56.64%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Astrophysics and Cosmology
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 64.00%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Environmental Science and Climate Change
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 73.68%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Computer Science and Algorithms
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 72.38%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Mathematics and Number Theory
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 54.37%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 55.56%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 60.19%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 68.57%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 69.39%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 71.29%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 70.48%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 64.65%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 53.85%
+
+  Variation 1: Pioneer Academics - Neuroscience and Cognitive Science
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Biology; Subject: Neuroscience; Field: Neuroscience, Cognitive Science, Psychology, Biology, Brain Research
+  Similarity: 60.00%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Environmental Science and Climate Change
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 62.26%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Computer Science and Algorithms
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 61.86%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Mathematics and Number Theory
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 69.47%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 70.00%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 71.58%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 61.86%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 64.44%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 66.67%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 61.86%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 68.13%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 70.83%
+
+  Variation 1: Pioneer Academics - Astrophysics and Cosmology
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Physics; Field: Astrophysics, Astronomy, Cosmology, Physics, Space Science
+  Similarity: 66.67%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Computer Science and Algorithms
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 68.47%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Mathematics and Number Theory
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 56.88%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 56.14%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 60.55%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 59.46%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 59.62%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 71.03%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 75.68%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 66.67%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 54.55%
+
+  Variation 1: Pioneer Academics - Environmental Science and Climate Change
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Climate Science, Ecology, Sustainability, Conservation
+  Similarity: 60.34%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Mathematics and Number Theory
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 58.00%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 60.95%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 60.00%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 64.71%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 67.37%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 77.55%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 72.55%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 66.67%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 59.41%
+
+  Variation 1: Pioneer Academics - Computer Science and Algorithms
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Biology; Subject: Computer Science; Subject: Engineering; Field: Computer Science, Algorithms, Programming, Software Engineering, Theoretical CS
+  Similarity: 57.94%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Biochemistry and Molecular Biology
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 66.02%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 69.39%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 68.00%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 62.37%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 62.50%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 64.00%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 80.85%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 62.63%
+
+  Variation 1: Pioneer Academics - Mathematics and Number Theory
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Mathematics; Field: Mathematics, Number Theory, Pure Math, Applied Math, Mathematical Modeling
+  Similarity: 70.48%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Physics and Quantum Mechanics
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 64.08%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 72.38%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 61.22%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 57.43%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 64.76%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 66.67%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 73.08%
+
+  Variation 1: Pioneer Academics - Biochemistry and Molecular Biology
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Biology; Subject: Chemistry; Field: Biochemistry, Molecular Biology, Protein Science, Cell Biology, Enzymology
+  Similarity: 63.64%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Chemistry and Materials Science
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 60.00%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 64.52%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 68.75%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 64.00%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 68.09%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 60.61%
+
+  Variation 1: Pioneer Academics - Physics and Quantum Mechanics
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Physics; Field: Physics, Quantum Mechanics, Theoretical Physics, Particle Physics, Condensed Matter
+  Similarity: 60.95%
+
+  Variation 1: Pioneer Academics - Chemistry and Materials Science
+  Variation 2: Pioneer Academics - Engineering and Robotics
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+  Similarity: 65.26%
+
+  Variation 1: Pioneer Academics - Chemistry and Materials Science
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+  Similarity: 65.31%
+
+  Variation 1: Pioneer Academics - Chemistry and Materials Science
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+  Similarity: 60.78%
+
+  Variation 1: Pioneer Academics - Chemistry and Materials Science
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+  Similarity: 68.75%
+
+  Variation 1: Pioneer Academics - Chemistry and Materials Science
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+  Similarity: 63.37%
+
+  Variation 1: Pioneer Academics - Chemistry and Materials Science
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Materials Science, Chemical Engineering, Nanotechnology, Organic Chemistry
+  Similarity: 65.42%
+
+  Variation 1: Pioneer Academics - Engineering and Robotics
+  Variation 2: Pioneer Academics - Data Science and Statistics
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Subject: Robotics; Field: Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Design
+  Similarity: 70.33%
+
+  Variation 1: Pioneer Academics - Engineering and Robotics
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Subject: Robotics; Field: Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Design
+  Similarity: 63.16%
+
+  Variation 1: Pioneer Academics - Engineering and Robotics
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Subject: Robotics; Field: Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Design
+  Similarity: 65.17%
+
+  Variation 1: Pioneer Academics - Engineering and Robotics
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Subject: Robotics; Field: Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Design
+  Similarity: 59.57%
+
+  Variation 1: Pioneer Academics - Engineering and Robotics
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Subject: Robotics; Field: Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Design
+  Similarity: 60.00%
+
+  Variation 1: Pioneer Academics - Data Science and Statistics
+  Variation 2: Pioneer Academics - Biomedical Science and Medicine
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Analytics, Machine Learning, Quantitative Analysis
+  Similarity: 75.51%
+
+  Variation 1: Pioneer Academics - Data Science and Statistics
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Analytics, Machine Learning, Quantitative Analysis
+  Similarity: 58.70%
+
+  Variation 1: Pioneer Academics - Data Science and Statistics
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Analytics, Machine Learning, Quantitative Analysis
+  Similarity: 59.79%
+
+  Variation 1: Pioneer Academics - Data Science and Statistics
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Analytics, Machine Learning, Quantitative Analysis
+  Similarity: 66.02%
+
+  Variation 1: Pioneer Academics - Biomedical Science and Medicine
+  Variation 2: Pioneer Academics - Economics and Game Theory
+  Distinguishing: Subject: Biology; Subject: Biomedical; Field: Biomedical Science, Medicine, Immunology, Pathology, Clinical Research
+  Similarity: 68.75%
+
+  Variation 1: Pioneer Academics - Biomedical Science and Medicine
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Biology; Subject: Biomedical; Field: Biomedical Science, Medicine, Immunology, Pathology, Clinical Research
+  Similarity: 63.37%
+
+  Variation 1: Pioneer Academics - Biomedical Science and Medicine
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Biology; Subject: Biomedical; Field: Biomedical Science, Medicine, Immunology, Pathology, Clinical Research
+  Similarity: 65.42%
+
+  Variation 1: Pioneer Academics - Economics and Game Theory
+  Variation 2: Pioneer Academics - Public Health and Epidemiology
+  Distinguishing: Subject: Economics; Field: Economics, Game Theory, Mathematics, Behavioral Economics, Quantitative Analysis
+  Similarity: 61.05%
+
+  Variation 1: Pioneer Academics - Economics and Game Theory
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Subject: Economics; Field: Economics, Game Theory, Mathematics, Behavioral Economics, Quantitative Analysis
+  Similarity: 65.35%
+
+  Variation 1: Pioneer Academics - Public Health and Epidemiology
+  Variation 2: Pioneer Academics - Applied Mathematics and Optimization
+  Distinguishing: Field: Public Health, Epidemiology, Biostatistics, Health Policy, Disease Prevention
+  Similarity: 71.70%
+
+
+Stanford Pre-Collegiate - 68 variation pairs
+----------------------------------------
+  Variation 1: Stanford Pre-Collegiate Summer Institutes
+  Variation 2: Stanford University Mathematics Camp (SUMaC)
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Session: Summer; Field: Computer Science, Engineering, Science, Mathematics
+  Similarity: 42.35%
+
+  Variation 1: Stanford Pre-Collegiate Summer Institutes
+  Variation 2: Stanford University-Level Online Math & Physics
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Session: Summer; Field: Computer Science, Engineering, Science, Mathematics
+  Similarity: 45.45%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Engineering
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 74.67%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Artificial Intelligence
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 73.56%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Biomedical Sciences
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 84.34%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Physics
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 73.24%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Data Science
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 86.84%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Game Design
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 80.00%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 72.22%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 82.35%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 82.50%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 76.71%
+
+  Variation 1: Stanford Pre-Collegiate Computer Science
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Computer Science; Field: Computer Science, Programming, Software Engineering
+  Similarity: 65.93%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Artificial Intelligence
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 65.85%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Biomedical Sciences
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 69.23%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Physics
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 75.76%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Data Science
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 76.06%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Game Design
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 74.29%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 74.63%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 77.50%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 72.00%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 79.41%
+
+  Variation 1: Stanford Pre-Collegiate Engineering
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Engineering; Subject: Biomedical; Field: Engineering, Design, Technology
+  Similarity: 69.77%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Biomedical Sciences
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 77.78%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Physics
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 66.67%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Data Science
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 77.11%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Game Design
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 73.17%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 70.89%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 73.91%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 78.16%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 62.50%
+
+  Variation 1: Stanford Pre-Collegiate Artificial Intelligence
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Artificial Intelligence; Subject: Machine Learning; Field: Artificial Intelligence, Computer Science, Machine Learning
+  Similarity: 61.22%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Physics
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 72.97%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Data Science
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 86.08%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Game Design
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 74.36%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 77.33%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 86.36%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 96.39%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 68.42%
+
+  Variation 1: Stanford Pre-Collegiate Biomedical Sciences
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Biology; Subject: Engineering; Subject: Biomedical; Field: Biomedical Science, Biology, Medicine
+  Similarity: 68.09%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Data Science
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 80.60%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Game Design
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 78.79%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 85.71%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 71.05%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 76.06%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 81.25%
+
+  Variation 1: Stanford Pre-Collegiate Physics
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Physics; Grade: High School; Field: Physics, Mathematics
+  Similarity: 65.85%
+
+  Variation 1: Stanford Pre-Collegiate Data Science
+  Variation 2: Stanford Pre-Collegiate Game Design
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+  Similarity: 78.87%
+
+  Variation 1: Stanford Pre-Collegiate Data Science
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+  Similarity: 76.47%
+
+  Variation 1: Stanford Pre-Collegiate Data Science
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+  Similarity: 83.95%
+
+  Variation 1: Stanford Pre-Collegiate Data Science
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+  Similarity: 89.47%
+
+  Variation 1: Stanford Pre-Collegiate Data Science
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+  Similarity: 72.46%
+
+  Variation 1: Stanford Pre-Collegiate Data Science
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Machine Learning; Subject: Data Science; Field: Data Science, Statistics, Computer Science
+  Similarity: 64.37%
+
+  Variation 1: Stanford Pre-Collegiate Game Design
+  Variation 2: Stanford Pre-Collegiate Robotics
+  Distinguishing: Field: Computer Science, Game Development, Design
+  Similarity: 74.63%
+
+  Variation 1: Stanford Pre-Collegiate Game Design
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Field: Computer Science, Game Development, Design
+  Similarity: 72.50%
+
+  Variation 1: Stanford Pre-Collegiate Game Design
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Field: Computer Science, Game Development, Design
+  Similarity: 77.33%
+
+  Variation 1: Stanford Pre-Collegiate Game Design
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Field: Computer Science, Game Development, Design
+  Similarity: 76.47%
+
+  Variation 1: Stanford Pre-Collegiate Game Design
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Field: Computer Science, Game Development, Design
+  Similarity: 62.79%
+
+  Variation 1: Stanford Pre-Collegiate Robotics
+  Variation 2: Stanford Pre-Collegiate Environmental Science
+  Distinguishing: Subject: Robotics; Field: Robotics, Engineering, Computer Science
+  Similarity: 75.32%
+
+  Variation 1: Stanford Pre-Collegiate Robotics
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Robotics; Field: Robotics, Engineering, Computer Science
+  Similarity: 75.00%
+
+  Variation 1: Stanford Pre-Collegiate Robotics
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Robotics; Field: Robotics, Engineering, Computer Science
+  Similarity: 76.92%
+
+  Variation 1: Stanford Pre-Collegiate Robotics
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Robotics; Field: Robotics, Engineering, Computer Science
+  Similarity: 62.65%
+
+  Variation 1: Stanford Pre-Collegiate Environmental Science
+  Variation 2: Stanford Pre-Collegiate Medical Sciences
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Biology, Chemistry
+  Similarity: 84.71%
+
+  Variation 1: Stanford Pre-Collegiate Environmental Science
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Biology, Chemistry
+  Similarity: 69.23%
+
+  Variation 1: Stanford Pre-Collegiate Environmental Science
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Environmental; Field: Environmental Science, Biology, Chemistry
+  Similarity: 64.58%
+
+  Variation 1: Stanford Pre-Collegiate Medical Sciences
+  Variation 2: Stanford Pre-Collegiate Chemistry
+  Distinguishing: Field: Medicine, Health Sciences, Biology
+  Similarity: 73.97%
+
+  Variation 1: Stanford Pre-Collegiate Medical Sciences
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Field: Medicine, Health Sciences, Biology
+  Similarity: 65.93%
+
+  Variation 1: Stanford Pre-Collegiate Chemistry
+  Variation 2: Stanford Pre-Collegiate Business & Entrepreneurship
+  Distinguishing: Subject: Chemistry; Field: Chemistry, Science
+  Similarity: 66.67%
+
+
+SSP (Summer Science Program) - 1 variation pairs
+----------------------------------------
+  Variation 1: Summer Science Program (SSP) - Astrophysics at New Mexico Tech
+  Variation 2: Summer Science Program (SSP) - Biochemistry at Indiana University
+  Distinguishing: Subject: Physics; Location: New Mexico Tech; Session: Summer; Field: Astrophysics, Astronomy, Physics, Computer Science, Orbital Mechanics
+  Similarity: 67.72%
+
+
+MIT Programs - 13 variation pairs
+----------------------------------------
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Stanford RISE Summer Research Program
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 43.37%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: UC Berkeley RISE Research Internship
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 48.78%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Carnegie Mellon RISE Computer Science Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 34.78%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Columbia RISE Biomedical Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 43.04%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: University of Washington RISE Engineering Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 39.58%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: University of Michigan RISE Research Fellows
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 40.00%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Georgia Tech RISE Engineering and Computing
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 42.70%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Northwestern RISE Materials Science Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 35.56%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Duke RISE Environmental Science Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 34.88%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: University of Illinois RISE Physics and Astronomy
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 35.79%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Johns Hopkins RISE Neuroscience Research
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 37.21%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 43.48%
+
+  Variation 1: MIT RISE - Research in Science and Engineering
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Computer Science; Subject: Engineering; Grade: High School; Field: Engineering, Computer Science, Life Sciences, Research Methods
+  Similarity: 51.16%
+
+
+CTY (Johns Hopkins) - 2 variation pairs
+----------------------------------------
+  Variation 1: Johns Hopkins RISE Neuroscience Research
+  Variation 2: University of Pennsylvania RISE Bioengineering
+  Distinguishing: Subject: Neuroscience; Grade: High School; Field: Neuroscience, Brain Science, Cognitive Science, Neurobiology, Medical Research
+  Similarity: 34.88%
+
+  Variation 1: Johns Hopkins RISE Neuroscience Research
+  Variation 2: Rice University RISE Research Experience
+  Distinguishing: Subject: Neuroscience; Grade: High School; Field: Neuroscience, Brain Science, Cognitive Science, Neurobiology, Medical Research
+  Similarity: 42.50%
+
+
+Garcia Program - 10 variation pairs
+----------------------------------------
+  Variation 1: Garcia Research Scholars Program - Summer Research
+  Variation 2: Garcia Research Scholars - Academic Year Extension
+  Distinguishing: Subject: Biology; Subject: Chemistry; Subject: Physics; Subject: Mathematics; Subject: Computer Science; Subject: Engineering; Grade: High School; Session: Summer; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 64.00%
+
+  Variation 1: Garcia Research Scholars Program - Summer Research
+  Variation 2: Garcia Research Scholars - Biology and Life Sciences Track
+  Distinguishing: Subject: Biology; Subject: Chemistry; Subject: Physics; Subject: Mathematics; Subject: Computer Science; Subject: Engineering; Grade: High School; Session: Summer; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 55.56%
+
+  Variation 1: Garcia Research Scholars Program - Summer Research
+  Variation 2: Garcia Research Scholars - Research Symposium and Competitions
+  Distinguishing: Subject: Biology; Subject: Chemistry; Subject: Physics; Subject: Mathematics; Subject: Computer Science; Subject: Engineering; Grade: High School; Session: Summer; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 62.50%
+
+  Variation 1: Garcia Research Scholars Program - Summer Research
+  Variation 2: Garcia Research Scholars - College Application Support
+  Distinguishing: Subject: Biology; Subject: Chemistry; Subject: Physics; Subject: Mathematics; Subject: Computer Science; Subject: Engineering; Grade: High School; Session: Summer; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 59.62%
+
+  Variation 1: Garcia Research Scholars - Academic Year Extension
+  Variation 2: Garcia Research Scholars - Biology and Life Sciences Track
+  Distinguishing: Grade: High School; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 53.70%
+
+  Variation 1: Garcia Research Scholars - Academic Year Extension
+  Variation 2: Garcia Research Scholars - Research Symposium and Competitions
+  Distinguishing: Grade: High School; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 66.07%
+
+  Variation 1: Garcia Research Scholars - Academic Year Extension
+  Variation 2: Garcia Research Scholars - College Application Support
+  Distinguishing: Grade: High School; Field: Biology, Chemistry, Physics, Mathematics, Computer Science, Engineering
+  Similarity: 65.38%
+
+  Variation 1: Garcia Research Scholars - Biology and Life Sciences Track
+  Variation 2: Garcia Research Scholars - Research Symposium and Competitions
+  Distinguishing: Subject: Biology; Subject: Biomedical; Subject: Neuroscience; Field: Biology, Molecular Biology, Genetics, Neuroscience, Ecology
+  Similarity: 58.33%
+
+  Variation 1: Garcia Research Scholars - Biology and Life Sciences Track
+  Variation 2: Garcia Research Scholars - College Application Support
+  Distinguishing: Subject: Biology; Subject: Biomedical; Subject: Neuroscience; Field: Biology, Molecular Biology, Genetics, Neuroscience, Ecology
+  Similarity: 58.93%
+
+  Variation 1: Garcia Research Scholars - Research Symposium and Competitions
+  Variation 2: Garcia Research Scholars - College Application Support
+  Distinguishing: Field: Scientific Communication, Research Presentation, Competition Preparation
+  Similarity: 63.79%

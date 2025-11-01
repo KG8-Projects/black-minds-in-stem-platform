@@ -1,0 +1,25 @@
+{
+  "profile_id": "ID-01",
+  "name": "Computer Science enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "computer science programming algorithms data structures coding software",
+    "stem_fields": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Competition",
+      "Learning Platform"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.239969"
+}

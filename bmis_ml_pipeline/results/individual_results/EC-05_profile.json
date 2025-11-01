@@ -1,0 +1,28 @@
+{
+  "profile_id": "EC-05",
+  "name": "Multiple STEM interests: Interdisciplinary student",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 20,
+    "support_needed": "Low",
+    "stem_interests": "bioengineering computational biology bioinformatics systems biology genomics data science",
+    "stem_fields": [
+      "Biomedical Sciences",
+      "Biology",
+      "Computer Science",
+      "Data Science",
+      "Engineering"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Internship",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.928003"
+}

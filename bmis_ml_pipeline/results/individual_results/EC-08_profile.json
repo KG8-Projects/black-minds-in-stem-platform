@@ -1,0 +1,27 @@
+{
+  "profile_id": "EC-08",
+  "name": "Non-traditional STEM interest: Music Technology",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": true,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "music technology audio engineering sound design signal processing acoustics",
+    "stem_fields": [
+      "Technology",
+      "Engineering",
+      "Computer Science",
+      "Physics"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Workshop/Training",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 19,
+  "timestamp": "2025-10-15T23:02:09.009026"
+}

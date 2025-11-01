@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-10",
+  "name": "High-income 11th grader - Biomedical Engineering, In-person",
+  "student_profile": {
+    "financial_situation": "High",
+    "location": "In-person",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 18,
+    "support_needed": "Low",
+    "stem_interests": "biomedical engineering medical devices prosthetics tissue engineering healthcare",
+    "stem_fields": [
+      "Biomedical Sciences",
+      "Engineering",
+      "Biology"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Internship",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.069331"
+}

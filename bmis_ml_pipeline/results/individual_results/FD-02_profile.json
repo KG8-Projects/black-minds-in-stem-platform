@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-02",
+  "name": "Low-income 11th grader - Biology interest, Virtual-only",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 11,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "biology genetics molecular biology cell biology research lab techniques",
+    "stem_fields": [
+      "Biology",
+      "Life Sciences",
+      "Biomedical Sciences"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Online Course",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:07.896329"
+}

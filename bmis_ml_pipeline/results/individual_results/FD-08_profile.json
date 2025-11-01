@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-08",
+  "name": "High-income 12th grader - Robotics interest, In-person preferred",
+  "student_profile": {
+    "financial_situation": "High",
+    "location": "In-person",
+    "transportation_available": true,
+    "grade_level": 12,
+    "academic_level": "Advanced",
+    "time_availability": 20,
+    "support_needed": "Low",
+    "stem_interests": "robotics autonomous systems mechatronics control engineering programming",
+    "stem_fields": [
+      "Robotics",
+      "Engineering",
+      "Computer Science"
+    ],
+    "format_preferences": [
+      "Competition",
+      "Research Opportunity",
+      "Internship"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.023325"
+}

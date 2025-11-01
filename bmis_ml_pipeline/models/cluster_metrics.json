@@ -1,0 +1,26 @@
+{
+  "accessibility": {
+    "silhouette": 0.6880593091171957,
+    "davies_bouldin": 0.7426334758095192,
+    "inertia": 631.584069638953,
+    "n_clusters": 15
+  },
+  "academic": {
+    "silhouette": 0.5492741092339921,
+    "davies_bouldin": 0.7817078069204938,
+    "inertia": 872.147461012164,
+    "n_clusters": 12
+  },
+  "stem_field": {
+    "silhouette": 0.4187648531442904,
+    "davies_bouldin": 1.2729883264521153,
+    "inertia": 1382.7474816538406,
+    "n_clusters": 19
+  },
+  "format": {
+    "silhouette": 0.7565308322124097,
+    "davies_bouldin": 0.7728346663922175,
+    "inertia": 477.90847795864124,
+    "n_clusters": 15
+  }
+}

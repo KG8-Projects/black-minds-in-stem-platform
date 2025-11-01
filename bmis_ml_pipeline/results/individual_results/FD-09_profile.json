@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-09",
+  "name": "High-income 9th grader - Aerospace interest, Flexible location",
+  "student_profile": {
+    "financial_situation": "High",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 9,
+    "academic_level": "Intermediate",
+    "time_availability": 15,
+    "support_needed": "Medium",
+    "stem_interests": "aerospace aviation flight rockets space engineering physics",
+    "stem_fields": [
+      "Aerospace Engineering",
+      "Engineering",
+      "Physics"
+    ],
+    "format_preferences": [
+      "Summer Program",
+      "Camp",
+      "Research Opportunity"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.045327"
+}

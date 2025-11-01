@@ -1,0 +1,196 @@
+{
+  "description": "Financial Diversity Test Profiles - Testing accessibility alignment across different income levels",
+  "total_profiles": 10,
+  "profiles": [
+    {
+      "profile_id": "FD-01",
+      "name": "Low-income 9th grader - AI/ML interest, Virtual-only",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 9,
+      "academic_level": "Beginner",
+      "time_availability": 8,
+      "support_needed": "High",
+      "stem_interests": "artificial intelligence machine learning programming python coding algorithms",
+      "stem_fields": ["Artificial Intelligence/Machine Learning", "Computer Science", "Software Engineering"],
+      "format_preferences": ["Online Course", "Learning Platform", "Workshop/Training"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "location_virtual": ">=80%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-02",
+      "name": "Low-income 11th grader - Biology interest, Virtual-only",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 11,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "biology genetics molecular biology cell biology research lab techniques",
+      "stem_fields": ["Biology", "Life Sciences", "Biomedical Sciences"],
+      "format_preferences": ["Research Opportunity", "Online Course", "Mentorship Program"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "location_virtual": ">=80%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-03",
+      "name": "Low-income 10th grader - Engineering interest, Flexible location",
+      "financial_situation": "Low",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "engineering mechanical systems design prototyping CAD robotics",
+      "stem_fields": ["Engineering", "Robotics", "Technology"],
+      "format_preferences": ["Summer Program", "Workshop/Training", "Competition"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "location_flexible": ">=50%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-04",
+      "name": "Low-income 12th grader - Mathematics interest, Hybrid preference",
+      "financial_situation": "Low",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 15,
+      "support_needed": "Low",
+      "stem_interests": "mathematics calculus statistics data analysis mathematical modeling",
+      "stem_fields": ["Mathematics", "Statistics", "Data Science"],
+      "format_preferences": ["Research Opportunity", "Competition", "Scholarship"],
+      "expected_alignment": {
+        "low_free_resources": ">=60%",
+        "location_flexible": ">=50%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-05",
+      "name": "Medium-income 8th grader - Chemistry interest, Virtual preference",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 8,
+      "academic_level": "Beginner",
+      "time_availability": 6,
+      "support_needed": "High",
+      "stem_interests": "chemistry chemical reactions lab experiments molecules atoms science",
+      "stem_fields": ["Chemistry", "Physical Sciences", "Life Sciences"],
+      "format_preferences": ["Online Course", "Learning Platform", "Camp"],
+      "expected_alignment": {
+        "mixed_cost_resources": ">=50%",
+        "location_virtual": ">=70%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-06",
+      "name": "Medium-income 10th grader - Computer Science interest, In-person",
+      "financial_situation": "Medium",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "computer science programming web development apps mobile software",
+      "stem_fields": ["Computer Science", "Software Engineering", "Web Development"],
+      "format_preferences": ["Summer Program", "Bootcamp", "Internship"],
+      "expected_alignment": {
+        "mixed_cost_resources": ">=50%",
+        "location_in_person": ">=60%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-07",
+      "name": "Medium-income 11th grader - Environmental Science, Hybrid",
+      "financial_situation": "Medium",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Intermediate",
+      "time_availability": 12,
+      "support_needed": "Medium",
+      "stem_interests": "environment climate change sustainability ecology conservation biodiversity",
+      "stem_fields": ["Earth Sciences", "Biology", "Environmental Science"],
+      "format_preferences": ["Research Opportunity", "Summer Program", "Field Study"],
+      "expected_alignment": {
+        "mixed_cost_resources": ">=50%",
+        "location_flexible": ">=50%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-08",
+      "name": "High-income 12th grader - Robotics interest, In-person preferred",
+      "financial_situation": "High",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 20,
+      "support_needed": "Low",
+      "stem_interests": "robotics autonomous systems mechatronics control engineering programming",
+      "stem_fields": ["Robotics", "Engineering", "Computer Science"],
+      "format_preferences": ["Competition", "Research Opportunity", "Internship"],
+      "expected_alignment": {
+        "all_cost_levels": ">=30%",
+        "location_in_person": ">=70%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-09",
+      "name": "High-income 9th grader - Aerospace interest, Flexible location",
+      "financial_situation": "High",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 9,
+      "academic_level": "Intermediate",
+      "time_availability": 15,
+      "support_needed": "Medium",
+      "stem_interests": "aerospace aviation flight rockets space engineering physics",
+      "stem_fields": ["Aerospace Engineering", "Engineering", "Physics"],
+      "format_preferences": ["Summer Program", "Camp", "Research Opportunity"],
+      "expected_alignment": {
+        "all_cost_levels": ">=30%",
+        "location_flexible": ">=50%",
+        "grade_appropriate": ">=80%"
+      }
+    },
+    {
+      "profile_id": "FD-10",
+      "name": "High-income 11th grader - Biomedical Engineering, In-person",
+      "financial_situation": "High",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 18,
+      "support_needed": "Low",
+      "stem_interests": "biomedical engineering medical devices prosthetics tissue engineering healthcare",
+      "stem_fields": ["Biomedical Sciences", "Engineering", "Biology"],
+      "format_preferences": ["Research Opportunity", "Internship", "Mentorship Program"],
+      "expected_alignment": {
+        "all_cost_levels": ">=30%",
+        "location_in_person": ">=70%",
+        "grade_appropriate": ">=80%"
+      }
+    }
+  ]
+}

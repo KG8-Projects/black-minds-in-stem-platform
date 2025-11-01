@@ -1,0 +1,26 @@
+{
+  "profile_id": "GD-05",
+  "name": "10th grader - Advanced physics student",
+  "student_profile": {
+    "financial_situation": "High",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 10,
+    "academic_level": "Advanced",
+    "time_availability": 15,
+    "support_needed": "Low",
+    "stem_interests": "physics quantum mechanics relativity astrophysics cosmology research",
+    "stem_fields": [
+      "Physics",
+      "Astronomy",
+      "Mathematics"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Competition",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.172673"
+}

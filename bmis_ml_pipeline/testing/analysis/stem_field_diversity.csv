@@ -1,0 +1,46 @@
+profile_id,total_recs,unique_stem_fields,stem_fields
+EC-01,17,6,"Computer Science, Other STEM, Artificial Intelligence/Machine Learning, Robotics, Mathematics"
+EC-02,20,2,"Biology, Engineering"
+EC-03,20,1,Web Development
+EC-04,20,3,"Biology, Earth Sciences, Engineering"
+EC-05,20,3,"Data Science, Biology, Artificial Intelligence/Machine Learning"
+EC-06,20,3,"Mathematics, Software Engineering, Technology"
+EC-07,16,4,"Engineering, Computer Science, Chemistry, Mathematics"
+EC-08,19,4,"Engineering, Computer Science, Software Engineering, Artificial Intelligence/Machine Learning"
+EC-09,20,4,"Software Engineering, Computer Science, Artificial Intelligence/Machine Learning, Data Science"
+EC-10,8,4,"Computer Science, Engineering, Web Development, Other STEM"
+FD-01,20,1,Artificial Intelligence/Machine Learning
+FD-02,20,1,Biology
+FD-03,20,3,"Engineering, Software Engineering, Robotics"
+FD-04,20,3,"Mathematics, Data Science, Artificial Intelligence/Machine Learning"
+FD-05,20,2,"Engineering, Chemistry"
+FD-06,20,1,Web Development
+FD-07,20,3,"Biology, Earth Sciences, Data Science"
+FD-08,20,1,Software Engineering
+FD-09,20,1,Engineering
+FD-10,20,2,"Biology, Engineering"
+GD-01,2,1,Earth Sciences
+GD-02,20,2,"Software Engineering, Computer Science"
+GD-03,16,3,"Engineering, Software Engineering, Mathematics"
+GD-04,20,2,"Biology, Technology"
+GD-05,20,4,"Physics, Other STEM, Computer Science, Mathematics"
+GD-06,20,2,"Artificial Intelligence/Machine Learning, Software Engineering"
+GD-07,15,4,"Engineering, Computer Science, Chemistry, Biology"
+ID-01,20,2,"Software Engineering, Data Science"
+ID-02,20,1,Artificial Intelligence/Machine Learning
+ID-03,20,2,"Web Development, Software Engineering"
+ID-04,20,1,Web Development
+ID-05,20,2,"Artificial Intelligence/Machine Learning, Data Science"
+ID-06,20,1,Biology
+ID-07,20,3,"Biology, Engineering, Health Sciences"
+ID-08,14,1,Engineering
+ID-09,20,3,"Software Engineering, Engineering, Robotics"
+ID-10,20,1,Mathematics
+ID-11,20,4,"Physics, Other STEM, Computer Science, Mathematics"
+ID-12,20,2,"Chemistry, Engineering"
+ID-13,20,5,"Other STEM, Earth Sciences, Biology, Data Science, Engineering"
+ID-14,20,3,"Biology, Earth Sciences, Data Science"
+ID-15,20,2,"Other STEM, Engineering"
+ID-16,20,1,Engineering
+ID-17,20,2,"Cybersecurity, Technology"
+ID-18,20,2,"Software Engineering, Game Development"

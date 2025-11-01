@@ -1,0 +1,89 @@
+================================================================================
+COMPUTER SCIENCE TIER1 CONSOLIDATION ANALYSIS REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Dataset: 2,237 resources
+Original CS concentration: 917 resources (41.0%)
+
+DECISION: SPLIT RECOMMENDED AND APPLIED
+New CS concentration: 189 resources (8.4%)
+Improvement: -32.5 percentage points
+New tier1 categories: 18
+Maximum concentration: 18.4%
+
+SUB-DOMAIN ANALYSIS
+--------------------------------------------------------------------------------
+  [LARGE ] Software Engineering
+           Count: 411 resources
+           % of CS: 44.8%
+           % of dataset: 18.4%
+
+  [LARGE ] Computer Science (General)
+           Count: 189 resources
+           % of CS: 20.6%
+           % of dataset: 8.4%
+
+  [MEDIUM] Artificial Intelligence/Machine Learning
+           Count: 85 resources
+           % of CS: 9.3%
+           % of dataset: 3.8%
+
+  [MEDIUM] Web Development
+           Count: 71 resources
+           % of CS: 7.7%
+           % of dataset: 3.2%
+
+  [MEDIUM] Data Science
+           Count: 65 resources
+           % of CS: 7.1%
+           % of dataset: 2.9%
+
+  [MEDIUM] Cybersecurity
+           Count: 60 resources
+           % of CS: 6.5%
+           % of dataset: 2.7%
+
+  [SMALL ] Robotics
+           Count: 24 resources
+           % of CS: 2.6%
+           % of dataset: 1.1%
+
+  [SMALL ] Game Development
+           Count: 12 resources
+           % of CS: 1.3%
+           % of dataset: 0.5%
+
+RECOMMENDATION RATIONALE
+--------------------------------------------------------------------------------
+Large sub-domains (>=100 resources): 2
+Medium sub-domains (50-99 resources): 4
+
+SPLIT DECISION:
+  - Multiple distinct sub-domains with significant resource counts
+  - Splitting improves clustering balance and precision
+  - Students will receive more targeted recommendations
+
+FINAL TIER1 DISTRIBUTION
+--------------------------------------------------------------------------------
+  Software Engineering                            411 ( 18.4%)
+  Engineering                                     394 ( 17.6%)
+  Biology                                         274 ( 12.2%)
+  Mathematics                                     235 ( 10.5%)
+  Computer Science                                189 (  8.4%)
+  Other STEM                                      137 (  6.1%)
+  Technology                                       88 (  3.9%)
+  Artificial Intelligence/Machine Learning         85 (  3.8%)
+  Web Development                                  71 (  3.2%)
+  Multidisciplinary STEM                           70 (  3.1%)
+  Data Science                                     65 (  2.9%)
+  Cybersecurity                                    60 (  2.7%)
+  Earth Sciences                                   57 (  2.5%)
+  Chemistry                                        48 (  2.1%)
+  Robotics                                         24 (  1.1%)
+  Physics                                          15 (  0.7%)
+  Game Development                                 12 (  0.5%)
+  Health Sciences                                   2 (  0.1%)
+
+================================================================================

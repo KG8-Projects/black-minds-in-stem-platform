@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-15",
+  "name": "Astronomy & Space Science enthusiast",
+  "student_profile": {
+    "financial_situation": "High",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 15,
+    "support_needed": "Low",
+    "stem_interests": "astronomy astrophysics space planets stars galaxies cosmology telescopes",
+    "stem_fields": [
+      "Astronomy",
+      "Physics",
+      "Aerospace Engineering"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Summer Program",
+      "Observatory Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.658656"
+}

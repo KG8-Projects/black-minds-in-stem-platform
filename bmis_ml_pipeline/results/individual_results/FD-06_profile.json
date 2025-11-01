@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-06",
+  "name": "Medium-income 10th grader - Computer Science interest, In-person",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "In-person",
+    "transportation_available": true,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "computer science programming web development apps mobile software",
+    "stem_fields": [
+      "Computer Science",
+      "Software Engineering",
+      "Web Development"
+    ],
+    "format_preferences": [
+      "Summer Program",
+      "Bootcamp",
+      "Internship"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:07.980341"
+}

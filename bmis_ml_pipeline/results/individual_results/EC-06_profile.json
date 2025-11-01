@@ -1,0 +1,25 @@
+{
+  "profile_id": "EC-06",
+  "name": "Very young student: 6th grade advanced learner",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 6,
+    "academic_level": "Advanced",
+    "time_availability": 12,
+    "support_needed": "Medium",
+    "stem_interests": "mathematics competition problem solving mathematical olympiad number theory",
+    "stem_fields": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "format_preferences": [
+      "Competition",
+      "Online Course",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.955996"
+}

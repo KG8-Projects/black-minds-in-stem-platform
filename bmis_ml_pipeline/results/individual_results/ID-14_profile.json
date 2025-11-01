@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-14",
+  "name": "Environmental Science enthusiast",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "environment sustainability climate change conservation ecology biodiversity",
+    "stem_fields": [
+      "Environmental Science",
+      "Earth Sciences",
+      "Biology"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Research Opportunity",
+      "Advocacy Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.627696"
+}

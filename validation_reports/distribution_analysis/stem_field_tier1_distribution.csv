@@ -1,0 +1,417 @@
+stem_field_tier1,count,percentage
+Computer Science,156,6.97362539114886
+Mathematics,147,6.57130084935181
+Computer Science; Other STEM,144,6.437192668752793
+Computer Science; Engineering; Robotics,67,2.9950827000447027
+Mathematics; Other STEM,59,2.637460885113992
+Other STEM,49,2.1904336164506035
+Environmental Science; Other STEM,42,1.8775145283862316
+Multi-disciplinary STEM,39,1.743406347787215
+Biology; Other STEM,38,1.6987036209208761
+Computer Science; Information Technology,37,1.6540008940545372
+Engineering; Other STEM,36,1.6092981671881983
+Computer Science; Information Technology; Other STEM,34,1.519892713455521
+Computer Science; Engineering; Mathematics; Technology,33,1.475189986589182
+Information Technology; Other STEM,33,1.475189986589182
+Multi-disciplinary STEM; Other STEM,28,1.2516763522574879
+Chemical Engineering; Chemistry,24,1.0728654447921324
+Engineering; Other STEM; Robotics,24,1.0728654447921324
+Other STEM; Technology,23,1.0281627179257935
+Artificial Intelligence/Machine Learning; Computer Science,22,0.9834599910594547
+Biology; Environmental Science; Other STEM,21,0.9387572641931158
+Engineering; Technology,21,0.9387572641931158
+Engineering; Other STEM; Technology,20,0.8940545373267769
+Computer Science; Other STEM; Robotics,20,0.8940545373267769
+Computer Science; Engineering; Mathematics,18,0.8046490835940991
+Physics,15,0.6705409029950827
+Computer Science; Engineering; Mathematics; Multi-disciplinary STEM; Technology,15,0.6705409029950827
+Engineering; Other STEM; Physics,14,0.6258381761287439
+Artificial Intelligence/Machine Learning; Computer Science; Other STEM,14,0.6258381761287439
+Computer Science; Data Science,14,0.6258381761287439
+Computer Science; Technology,14,0.6258381761287439
+Information Technology; Mathematics; Other STEM,14,0.6258381761287439
+Computer Science; Engineering; Other STEM,13,0.581135449262405
+Computer Science; Cybersecurity,13,0.581135449262405
+Astronomy/Space Science; Physics,12,0.5364327223960662
+Biology; Chemistry; Other STEM,12,0.5364327223960662
+Artificial Intelligence/Machine Learning; Computer Science; Data Science,12,0.5364327223960662
+Biology; Environmental Science,12,0.5364327223960662
+Engineering,12,0.5364327223960662
+Engineering; Environmental Science; Other STEM,11,0.49172999552972735
+Computer Science; Cybersecurity; Information Technology,11,0.49172999552972735
+Computer Science; Robotics,11,0.49172999552972735
+Chemistry; Other STEM,11,0.49172999552972735
+Computer Science; Other STEM; Technology,11,0.49172999552972735
+Computer Science; Engineering; Other STEM; Robotics,11,0.49172999552972735
+Computer Science; Cybersecurity; Other STEM,10,0.44702726866338843
+Computer Science; Mathematics,10,0.44702726866338843
+Aerospace Engineering; Engineering; Physics,10,0.44702726866338843
+Information Technology; Other STEM; Technology,10,0.44702726866338843
+Computer Science; Engineering; Technology,10,0.44702726866338843
+Other STEM; Physics,10,0.44702726866338843
+Aerospace Engineering; Engineering; Other STEM,10,0.44702726866338843
+Engineering; Mathematics; Other STEM; Technology,10,0.44702726866338843
+Information Technology; Multi-disciplinary STEM; Other STEM,9,0.4023245417970496
+Mathematics; Statistics,9,0.4023245417970496
+Computer Science; Engineering,9,0.4023245417970496
+Computer Science; Data Science; Statistics,9,0.4023245417970496
+Engineering; Robotics,9,0.4023245417970496
+Biology; Biomedical Engineering; Chemistry,8,0.35762181493071077
+Computer Science; Other STEM; Physics,8,0.35762181493071077
+Computer Science; Engineering; Multi-disciplinary STEM,8,0.35762181493071077
+Biology; Biotechnology,8,0.35762181493071077
+Biology; Environmental Science; Marine Biology,8,0.35762181493071077
+Computer Science; Engineering; Mathematics; Robotics,8,0.35762181493071077
+Engineering; Physics,7,0.31291908806437196
+Computer Science; Engineering; Mathematics; Other STEM,7,0.31291908806437196
+Biology; Biotechnology; Other STEM,7,0.31291908806437196
+Engineering; Robotics; Technology,7,0.31291908806437196
+Chemistry; Engineering; Materials Science; Physics,7,0.31291908806437196
+Astronomy/Space Science; Other STEM; Physics,7,0.31291908806437196
+Computer Science; Physics,6,0.2682163611980331
+Engineering; Environmental Science; Physics,6,0.2682163611980331
+Biology; Biotechnology; Technology,6,0.2682163611980331
+Engineering; Multi-disciplinary STEM; Other STEM,6,0.2682163611980331
+Biology; Chemistry; Computer Science; Engineering; Mathematics; Physics,6,0.2682163611980331
+Civil Engineering; Electrical Engineering; Engineering; Mechanical Engineering,6,0.2682163611980331
+Chemistry,6,0.2682163611980331
+Artificial Intelligence/Machine Learning; Information Technology; Other STEM,5,0.22351363433169422
+Biology; Computer Science; Other STEM,5,0.22351363433169422
+Biology; Chemistry; Computer Science; Engineering; Environmental Science; Mathematics; Physics,5,0.22351363433169422
+Engineering; Information Technology; Robotics,5,0.22351363433169422
+Biology; Biomedical Engineering; Medicine/Healthcare; Neuroscience,5,0.22351363433169422
+Biology; Biomedical Engineering; Other STEM,5,0.22351363433169422
+Biology; Biomedical Engineering; Medicine/Healthcare; Other STEM,5,0.22351363433169422
+Computer Science; Engineering; Other STEM; Technology,5,0.22351363433169422
+Artificial Intelligence/Machine Learning; Other STEM,5,0.22351363433169422
+Computer Science; Cybersecurity; Technology,5,0.22351363433169422
+Biomedical Engineering; Medicine/Healthcare; Other STEM,5,0.22351363433169422
+Astronomy/Space Science; Other STEM,5,0.22351363433169422
+Environmental Science; Marine Biology; Other STEM,5,0.22351363433169422
+Engineering; Mechanical Engineering; Physics,5,0.22351363433169422
+Chemistry; Engineering; Materials Science,5,0.22351363433169422
+Data Science; Mathematics; Statistics,5,0.22351363433169422
+Computer Science; Engineering; Mathematics; Physics,5,0.22351363433169422
+Artificial Intelligence/Machine Learning; Computer Science; Mathematics,5,0.22351363433169422
+Biology; Chemistry; Technology,5,0.22351363433169422
+Environmental Science,4,0.17881090746535538
+Information Technology; Mathematics,4,0.17881090746535538
+Other STEM; Robotics,4,0.17881090746535538
+Information Technology; Other STEM; Robotics,4,0.17881090746535538
+Chemical Engineering; Chemistry; Materials Science,4,0.17881090746535538
+Biology,4,0.17881090746535538
+Engineering; Mathematics; Physics,4,0.17881090746535538
+Information Technology; Robotics; Technology,4,0.17881090746535538
+Applied Mathematics; Mathematics; Statistics,4,0.17881090746535538
+Biology; Computer Science; Engineering; Multi-disciplinary STEM,4,0.17881090746535538
+Electrical Engineering; Engineering; Physics,4,0.17881090746535538
+Biology; Other STEM; Technology,4,0.17881090746535538
+Biology; Chemistry; Environmental Science; Physics,4,0.17881090746535538
+Civil Engineering; Engineering; Mathematics,4,0.17881090746535538
+Data Science; Environmental Science; Other STEM,4,0.17881090746535538
+Biology; Neuroscience; Other STEM,4,0.17881090746535538
+Cybersecurity; Other STEM,4,0.17881090746535538
+Computer Science; Mathematics; Other STEM,4,0.17881090746535538
+Computer Science; Multi-disciplinary STEM; Other STEM,4,0.17881090746535538
+Computer Science; Mathematics; Multi-disciplinary STEM,4,0.17881090746535538
+Chemistry; Computer Science,4,0.17881090746535538
+Computer Science; Engineering; Multi-disciplinary STEM; Technology,3,0.13410818059901655
+Artificial Intelligence/Machine Learning; Other STEM; Technology,3,0.13410818059901655
+Aerospace Engineering; Other STEM,3,0.13410818059901655
+Aerospace Engineering; Engineering; Other STEM; Physics,3,0.13410818059901655
+Engineering; Environmental Science; Technology,3,0.13410818059901655
+Biology; Engineering; Environmental Science,3,0.13410818059901655
+Engineering; Physics; Robotics,3,0.13410818059901655
+Data Science; Environmental Science,3,0.13410818059901655
+Engineering; Mathematics; Other STEM,3,0.13410818059901655
+Biology; Chemistry; Computer Science; Engineering; Physics,3,0.13410818059901655
+Biomedical Engineering; Biotechnology; Neuroscience; Other STEM,3,0.13410818059901655
+Computer Science; Data Science; Mathematics,3,0.13410818059901655
+Astronomy/Space Science; Mathematics; Physics,3,0.13410818059901655
+Biology; Engineering; Other STEM,3,0.13410818059901655
+Biology; Biomedical Engineering; Biotechnology,3,0.13410818059901655
+Biology; Chemistry,3,0.13410818059901655
+Biology; Chemistry; Computer Science; Mathematics; Physics,3,0.13410818059901655
+Engineering; Mathematics,3,0.13410818059901655
+Biology; Information Technology; Neuroscience; Other STEM,3,0.13410818059901655
+Biology; Chemistry; Computer Science; Other STEM; Physics,3,0.13410818059901655
+Computer Science; Data Science; Mathematics; Statistics,3,0.13410818059901655
+Engineering; Environmental Science; Other STEM; Physics,3,0.13410818059901655
+Astronomy/Space Science; Engineering; Robotics,3,0.13410818059901655
+Engineering; Multi-disciplinary STEM; Technology,3,0.13410818059901655
+Biology; Chemistry; Computer Science; Physics,3,0.13410818059901655
+Technology,3,0.13410818059901655
+Artificial Intelligence/Machine Learning; Other STEM; Robotics,3,0.13410818059901655
+Data Science; Marine Biology; Other STEM,2,0.08940545373267769
+Applied Mathematics; Mathematics,2,0.08940545373267769
+Engineering; Multi-disciplinary STEM,2,0.08940545373267769
+Other STEM; Robotics; Technology,2,0.08940545373267769
+Computer Science; Data Science; Technology,2,0.08940545373267769
+Computer Science; Data Science; Mathematics; Physics,2,0.08940545373267769
+Aerospace Engineering; Computer Science; Other STEM; Robotics,2,0.08940545373267769
+Multi-disciplinary STEM; Other STEM; Technology,2,0.08940545373267769
+Cybersecurity; Information Technology,2,0.08940545373267769
+Engineering; Other STEM; Physics; Technology,2,0.08940545373267769
+Biology; Biomedical Engineering; Biotechnology; Medicine/Healthcare; Other STEM,2,0.08940545373267769
+Aerospace Engineering; Mechanical Engineering; Other STEM; Physics,2,0.08940545373267769
+Biology; Biomedical Engineering; Chemistry; Neuroscience,2,0.08940545373267769
+Biology; Computer Science; Mathematics; Physics,2,0.08940545373267769
+Aerospace Engineering; Astronomy/Space Science; Engineering,2,0.08940545373267769
+Biology; Computer Science; Engineering; Physics,2,0.08940545373267769
+Biomedical Engineering; Other STEM,2,0.08940545373267769
+Engineering; Mechanical Engineering; Other STEM,2,0.08940545373267769
+Engineering; Information Technology; Other STEM; Technology,2,0.08940545373267769
+Chemical Engineering; Chemistry; Engineering,2,0.08940545373267769
+Cybersecurity,2,0.08940545373267769
+Aerospace Engineering; Engineering; Robotics,2,0.08940545373267769
+Chemistry; Computer Science; Engineering; Physics,2,0.08940545373267769
+Aerospace Engineering; Astronomy/Space Science; Physics,2,0.08940545373267769
+Artificial Intelligence/Machine Learning; Engineering; Other STEM,2,0.08940545373267769
+Data Science; Other STEM,2,0.08940545373267769
+Artificial Intelligence/Machine Learning; Data Science; Other STEM; Statistics,2,0.08940545373267769
+Engineering; Mechanical Engineering; Robotics,2,0.08940545373267769
+Computer Science; Multi-disciplinary STEM; Technology,2,0.08940545373267769
+Applied Mathematics; Mathematics; Other STEM; Statistics,2,0.08940545373267769
+Biomedical Engineering; Engineering; Mechanical Engineering; Multi-disciplinary STEM,2,0.08940545373267769
+Computer Science; Information Technology; Technology,2,0.08940545373267769
+Biology; Medicine/Healthcare; Other STEM,2,0.08940545373267769
+Marine Biology; Other STEM,2,0.08940545373267769
+Environmental Science; Other STEM; Physics,2,0.08940545373267769
+Chemical Engineering; Chemistry; Engineering; Other STEM,2,0.08940545373267769
+Biology; Environmental Science; Marine Biology; Other STEM,2,0.08940545373267769
+Civil Engineering; Engineering; Other STEM,2,0.08940545373267769
+Aerospace Engineering; Biomedical Engineering; Civil Engineering; Engineering,2,0.08940545373267769
+Aerospace Engineering; Other STEM; Physics,2,0.08940545373267769
+Mathematics; Other STEM; Physics,2,0.08940545373267769
+Biology; Chemistry; Environmental Science,2,0.08940545373267769
+Engineering; Information Technology; Mathematics; Other STEM; Technology,2,0.08940545373267769
+Mathematics; Physics,2,0.08940545373267769
+Biology; Multi-disciplinary STEM; Other STEM,2,0.08940545373267769
+Data Science; Information Technology; Mathematics; Statistics,2,0.08940545373267769
+Biology; Biotechnology; Neuroscience,2,0.08940545373267769
+Biology; Biomedical Engineering; Medicine/Healthcare,2,0.08940545373267769
+Engineering; Information Technology; Other STEM,2,0.08940545373267769
+Engineering; Other STEM; Robotics; Technology,2,0.08940545373267769
+Aerospace Engineering; Engineering,2,0.08940545373267769
+Artificial Intelligence/Machine Learning; Biology; Information Technology; Neuroscience; Other STEM,2,0.08940545373267769
+Electrical Engineering; Engineering; Other STEM,2,0.08940545373267769
+Artificial Intelligence/Machine Learning; Computer Science; Other STEM; Robotics,2,0.08940545373267769
+Astronomy/Space Science; Biology; Chemistry; Engineering; Physics,2,0.08940545373267769
+Computer Science; Engineering; Mathematics; Other STEM; Technology,2,0.08940545373267769
+Artificial Intelligence/Machine Learning; Computer Science; Robotics,2,0.08940545373267769
+Biology; Chemistry; Computer Science; Engineering; Environmental Science; Physics,2,0.08940545373267769
+Chemistry; Environmental Science,2,0.08940545373267769
+Chemistry; Physics,2,0.08940545373267769
+Artificial Intelligence/Machine Learning; Computer Science; Robotics; Technology,1,0.044702726866338846
+Biology; Biomedical Engineering; Medicine/Healthcare; Technology,1,0.044702726866338846
+Cybersecurity; Information Technology; Other STEM,1,0.044702726866338846
+Computer Science; Cybersecurity; Mathematics,1,0.044702726866338846
+Computer Science; Mathematics; Multi-disciplinary STEM; Technology,1,0.044702726866338846
+Civil Engineering; Engineering,1,0.044702726866338846
+Electrical Engineering; Engineering,1,0.044702726866338846
+Engineering; Mechanical Engineering,1,0.044702726866338846
+Chemistry; Computer Science; Engineering,1,0.044702726866338846
+Computer Science; Engineering; Robotics; Technology,1,0.044702726866338846
+Engineering; Materials Science; Other STEM,1,0.044702726866338846
+Engineering; Multi-disciplinary STEM; Robotics; Technology,1,0.044702726866338846
+Electrical Engineering; Information Technology; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Biology; Environmental Science; Other STEM,1,0.044702726866338846
+Biomedical Engineering; Computer Science; Engineering,1,0.044702726866338846
+Astronomy/Space Science; Biology; Chemistry; Environmental Science,1,0.044702726866338846
+Biology; Chemistry; Engineering; Multi-disciplinary STEM; Physics,1,0.044702726866338846
+Biology; Chemistry; Engineering; Multi-disciplinary STEM,1,0.044702726866338846
+Biology; Chemistry; Engineering; Physics,1,0.044702726866338846
+Aerospace Engineering; Computer Science; Physics,1,0.044702726866338846
+Biology; Computer Science; Physics,1,0.044702726866338846
+Biology; Computer Science,1,0.044702726866338846
+Civil Engineering; Engineering; Robotics,1,0.044702726866338846
+Electrical Engineering; Engineering; Technology,1,0.044702726866338846
+Chemistry; Environmental Science; Marine Biology; Other STEM; Physics,1,0.044702726866338846
+Applied Mathematics; Mathematics; Other STEM,1,0.044702726866338846
+Applied Mathematics; Data Science; Mathematics,1,0.044702726866338846
+Aerospace Engineering; Cybersecurity; Engineering; Technology,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Engineering; Robotics,1,0.044702726866338846
+Engineering; Materials Science,1,0.044702726866338846
+Computer Science; Engineering; Mechanical Engineering,1,0.044702726866338846
+Astronomy/Space Science; Computer Science; Environmental Science; Physics,1,0.044702726866338846
+Computer Science; Electrical Engineering; Engineering,1,0.044702726866338846
+Computer Science; Engineering; Physics,1,0.044702726866338846
+Computer Science; Data Science; Engineering; Physics,1,0.044702726866338846
+Computer Science; Data Science; Robotics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Other STEM; Technology,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Mathematics; Robotics,1,0.044702726866338846
+Mathematics; Technology,1,0.044702726866338846
+Aerospace Engineering; Mathematics; Physics,1,0.044702726866338846
+Engineering; Materials Science; Physics,1,0.044702726866338846
+Engineering; Mathematics; Robotics,1,0.044702726866338846
+Computer Science; Engineering; Medicine/Healthcare; Technology,1,0.044702726866338846
+Medicine/Healthcare; Other STEM,1,0.044702726866338846
+Aerospace Engineering; Engineering; Robotics; Technology,1,0.044702726866338846
+Computer Science; Data Science; Engineering; Technology,1,0.044702726866338846
+Computer Science; Environmental Science; Marine Biology; Other STEM,1,0.044702726866338846
+Computer Science; Engineering; Environmental Science; Technology,1,0.044702726866338846
+Biology; Information Technology; Other STEM,1,0.044702726866338846
+Biology; Biotechnology; Engineering; Other STEM,1,0.044702726866338846
+Environmental Science; Technology,1,0.044702726866338846
+Biology; Engineering; Other STEM; Physics,1,0.044702726866338846
+Chemistry; Engineering; Materials Science; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Environmental Science; Other STEM,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Data Science; Other STEM,1,0.044702726866338846
+Information Technology; Multi-disciplinary STEM,1,0.044702726866338846
+Aerospace Engineering; Computer Science; Robotics,1,0.044702726866338846
+Biomedical Engineering; Medicine/Healthcare; Neuroscience; Other STEM,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Data Science,1,0.044702726866338846
+Aerospace Engineering; Astronomy/Space Science; Engineering; Other STEM,1,0.044702726866338846
+Aerospace Engineering; Astronomy/Space Science,1,0.044702726866338846
+Aerospace Engineering; Astronomy/Space Science; Multi-disciplinary STEM,1,0.044702726866338846
+Engineering; Mathematics; Multi-disciplinary STEM; Other STEM,1,0.044702726866338846
+Aerospace Engineering; Astronomy/Space Science; Engineering; Technology,1,0.044702726866338846
+Aerospace Engineering; Astronomy/Space Science; Engineering; Physics,1,0.044702726866338846
+Aerospace Engineering; Engineering; Mathematics; Other STEM,1,0.044702726866338846
+Biology; Biotechnology; Other STEM; Technology,1,0.044702726866338846
+Artificial Intelligence/Machine Learning,1,0.044702726866338846
+Aerospace Engineering; Engineering; Multi-disciplinary STEM; Physics,1,0.044702726866338846
+Biology; Biomedical Engineering; Engineering; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Computer Science; Information Technology; Physics,1,0.044702726866338846
+Chemical Engineering; Chemistry; Materials Science; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Computer Science; Data Science; Physics,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Chemistry; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Computer Science; Mathematics; Physics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Data Science; Mathematics; Statistics,1,0.044702726866338846
+Biology; Biotechnology; Chemistry; Other STEM,1,0.044702726866338846
+Biology; Biotechnology; Data Science; Other STEM,1,0.044702726866338846
+Biology; Computer Science; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Biotechnology; Other STEM,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Neuroscience,1,0.044702726866338846
+Biomedical Engineering; Neuroscience; Other STEM,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Medicine/Healthcare,1,0.044702726866338846
+Biomedical Engineering; Biotechnology; Neuroscience,1,0.044702726866338846
+Biomedical Engineering; Biotechnology; Medicine/Healthcare; Other STEM,1,0.044702726866338846
+Engineering; Information Technology; Other STEM; Robotics,1,0.044702726866338846
+Computer Science; Engineering; Multi-disciplinary STEM; Robotics,1,0.044702726866338846
+Computer Science; Information Technology; Other STEM; Robotics,1,0.044702726866338846
+Computer Science; Information Technology; Robotics,1,0.044702726866338846
+Computer Science; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Biology; Chemistry; Information Technology; Other STEM,1,0.044702726866338846
+Computer Science; Engineering; Information Technology; Multi-disciplinary STEM,1,0.044702726866338846
+Applied Mathematics; Data Science; Mathematics; Statistics,1,0.044702726866338846
+Electrical Engineering; Engineering; Other STEM; Physics,1,0.044702726866338846
+Information Technology,1,0.044702726866338846
+Information Technology; Neuroscience; Other STEM,1,0.044702726866338846
+Aerospace Engineering; Engineering; Mathematics; Physics,1,0.044702726866338846
+Chemistry; Computer Science; Mathematics; Physics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Environmental Science,1,0.044702726866338846
+Aerospace Engineering; Other STEM; Technology,1,0.044702726866338846
+Aerospace Engineering; Materials Science; Mathematics; Other STEM,1,0.044702726866338846
+Chemical Engineering; Electrical Engineering; Mechanical Engineering,1,0.044702726866338846
+Mechanical Engineering; Other STEM; Technology,1,0.044702726866338846
+Mathematics; Other STEM; Robotics,1,0.044702726866338846
+Electrical Engineering; Engineering; Mechanical Engineering,1,0.044702726866338846
+Biology; Engineering,1,0.044702726866338846
+Information Technology; Mathematics; Other STEM; Statistics,1,0.044702726866338846
+Computer Science; Information Technology; Mathematics; Other STEM,1,0.044702726866338846
+Engineering; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Information Technology; Other STEM; Robotics; Technology,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Data Science; Statistics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Cybersecurity; Engineering; Robotics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Information Technology,1,0.044702726866338846
+Biology; Chemistry; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Biology; Chemistry; Engineering; Other STEM; Physics; Technology,1,0.044702726866338846
+Computer Science; Data Science; Mathematics; Other STEM; Statistics,1,0.044702726866338846
+Computer Science; Data Science; Other STEM,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Engineering; Multi-disciplinary STEM; Other STEM,1,0.044702726866338846
+Computer Science; Engineering; Multi-disciplinary STEM; Other STEM,1,0.044702726866338846
+Biology; Engineering; Other STEM; Technology,1,0.044702726866338846
+Computer Science; Information Technology; Mathematics,1,0.044702726866338846
+Mathematics; Mechanical Engineering; Other STEM; Physics,1,0.044702726866338846
+Engineering; Information Technology; Mathematics; Other STEM,1,0.044702726866338846
+Biotechnology; Information Technology; Other STEM,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Engineering; Other STEM,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Environmental Science,1,0.044702726866338846
+Environmental Science; Information Technology,1,0.044702726866338846
+Aerospace Engineering; Engineering; Mechanical Engineering,1,0.044702726866338846
+Biomedical Engineering; Engineering,1,0.044702726866338846
+Civil Engineering; Electrical Engineering; Engineering; Robotics,1,0.044702726866338846
+Aerospace Engineering; Biomedical Engineering; Engineering,1,0.044702726866338846
+Chemical Engineering; Civil Engineering; Engineering; Mechanical Engineering,1,0.044702726866338846
+Civil Engineering; Engineering; Mechanical Engineering; Robotics,1,0.044702726866338846
+Biology; Biotechnology; Computer Science; Other STEM; Physics,1,0.044702726866338846
+Astronomy/Space Science; Biology; Computer Science; Other STEM; Physics,1,0.044702726866338846
+Biology; Computer Science; Other STEM; Physics; Technology,1,0.044702726866338846
+Biology; Computer Science; Other STEM; Physics,1,0.044702726866338846
+Mathematics; Other STEM; Statistics,1,0.044702726866338846
+Computer Science; Mathematics; Other STEM; Robotics,1,0.044702726866338846
+Biomedical Engineering; Electrical Engineering; Engineering; Mechanical Engineering,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Computer Science; Data Science; Mathematics,1,0.044702726866338846
+Aerospace Engineering; Computer Science; Engineering,1,0.044702726866338846
+Computer Science; Engineering; Information Technology; Robotics,1,0.044702726866338846
+Multi-disciplinary STEM; Other STEM; Robotics,1,0.044702726866338846
+Computer Science; Engineering; Mathematics; Physics; Robotics,1,0.044702726866338846
+Engineering; Information Technology; Physics,1,0.044702726866338846
+Computer Science; Information Technology; Physics; Robotics,1,0.044702726866338846
+Aerospace Engineering; Computer Science; Physics; Robotics,1,0.044702726866338846
+Engineering; Environmental Science; Materials Science; Robotics,1,0.044702726866338846
+Neuroscience; Other STEM,1,0.044702726866338846
+Environmental Science; Other STEM; Technology,1,0.044702726866338846
+Astronomy/Space Science; Engineering; Other STEM,1,0.044702726866338846
+Aerospace Engineering; Astronomy/Space Science; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Computer Science,1,0.044702726866338846
+Biology; Engineering; Mathematics; Physics,1,0.044702726866338846
+Astronomy/Space Science; Computer Science; Engineering,1,0.044702726866338846
+Computer Science; Engineering; Neuroscience; Physics,1,0.044702726866338846
+Environmental Science; Multi-disciplinary STEM; Other STEM,1,0.044702726866338846
+Biology; Biotechnology; Information Technology; Other STEM,1,0.044702726866338846
+Data Science; Technology,1,0.044702726866338846
+Astronomy/Space Science; Computer Science; Other STEM,1,0.044702726866338846
+Computer Science; Information Technology; Other STEM; Physics,1,0.044702726866338846
+Chemistry; Computer Science; Other STEM,1,0.044702726866338846
+Biology; Biotechnology; Computer Science,1,0.044702726866338846
+Astronomy/Space Science; Biology; Chemistry; Computer Science; Physics,1,0.044702726866338846
+Astronomy/Space Science; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Electrical Engineering; Engineering; Mechanical Engineering; Other STEM; Robotics,1,0.044702726866338846
+Biology; Biotechnology; Neuroscience; Other STEM; Technology,1,0.044702726866338846
+Applied Mathematics; Information Technology; Mathematics; Other STEM,1,0.044702726866338846
+Other STEM; Statistics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Data Science; Information Technology; Statistics,1,0.044702726866338846
+Electrical Engineering; Engineering; Mechanical Engineering; Robotics,1,0.044702726866338846
+Computer Science; Engineering; Environmental Science,1,0.044702726866338846
+Biology; Biotechnology; Engineering; Other STEM; Technology,1,0.044702726866338846
+Biology; Marine Biology; Other STEM,1,0.044702726866338846
+Astronomy/Space Science; Engineering; Other STEM; Robotics,1,0.044702726866338846
+Data Science; Mathematics; Other STEM; Statistics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Information Technology; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Engineering; Information Technology; Other STEM; Physics,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Information Technology; Other STEM; Robotics,1,0.044702726866338846
+Biology; Computer Science; Engineering; Mathematics,1,0.044702726866338846
+Information Technology; Physics,1,0.044702726866338846
+Chemistry; Materials Science; Other STEM,1,0.044702726866338846
+Computer Science; Cybersecurity; Engineering; Materials Science; Robotics,1,0.044702726866338846
+Chemistry; Environmental Science; Other STEM; Physics,1,0.044702726866338846
+Biomedical Engineering; Civil Engineering; Electrical Engineering; Mechanical Engineering,1,0.044702726866338846
+Biology; Chemistry; Mathematics; Physics,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Neuroscience; Other STEM,1,0.044702726866338846
+Computer Science; Engineering; Environmental Science; Mathematics,1,0.044702726866338846
+Biomedical Engineering; Engineering; Other STEM,1,0.044702726866338846
+Engineering; Environmental Science; Other STEM; Technology,1,0.044702726866338846
+Chemistry; Materials Science,1,0.044702726866338846
+Computer Science; Cybersecurity; Information Technology; Other STEM,1,0.044702726866338846
+Biology; Biomedical Engineering; Other STEM; Technology,1,0.044702726866338846
+Biology; Chemistry; Environmental Science; Other STEM; Physics,1,0.044702726866338846
+Chemistry; Computer Science; Mathematics; Multi-disciplinary STEM,1,0.044702726866338846
+Astronomy/Space Science; Biology; Neuroscience; Physics,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Other STEM,1,0.044702726866338846
+Biology; Chemistry; Computer Science; Engineering; Neuroscience; Physics,1,0.044702726866338846
+Biology; Biotechnology; Neuroscience; Other STEM,1,0.044702726866338846
+Computer Science; Engineering; Mathematics; Multi-disciplinary STEM,1,0.044702726866338846
+Biology; Chemistry; Engineering; Environmental Science; Physics,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Medicine/Healthcare; Neuroscience,1,0.044702726866338846
+Biology; Biomedical Engineering; Medicine/Healthcare; Neuroscience; Other STEM,1,0.044702726866338846
+Biology; Biomedical Engineering; Biotechnology; Chemistry; Neuroscience,1,0.044702726866338846
+Biology; Biomedical Engineering; Chemistry; Engineering; Medicine/Healthcare,1,0.044702726866338846
+Biology; Chemistry; Computer Science; Mathematics; Other STEM; Physics,1,0.044702726866338846
+Engineering; Other STEM; Physics; Robotics,1,0.044702726866338846
+Cybersecurity; Technology,1,0.044702726866338846
+Biology; Biomedical Engineering; Chemistry; Medicine/Healthcare; Other STEM,1,0.044702726866338846
+Data Science; Engineering; Other STEM,1,0.044702726866338846
+Computer Science; Mathematics; Multi-disciplinary STEM; Other STEM,1,0.044702726866338846
+Artificial Intelligence/Machine Learning; Data Science; Technology,1,0.044702726866338846

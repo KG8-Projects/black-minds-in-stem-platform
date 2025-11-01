@@ -1,0 +1,6 @@
+Database Coverage Analysis
+================================================================================
+
+Total Resources in Database: 2237
+Unique Resources Recommended: 565
+Coverage: 25.26%

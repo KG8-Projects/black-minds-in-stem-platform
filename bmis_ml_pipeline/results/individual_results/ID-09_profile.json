@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-09",
+  "name": "Robotics enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "In-person",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 15,
+    "support_needed": "Low",
+    "stem_interests": "robotics autonomous systems programming mechatronics control engineering",
+    "stem_fields": [
+      "Robotics",
+      "Engineering",
+      "Computer Science"
+    ],
+    "format_preferences": [
+      "Competition",
+      "Summer Program",
+      "Workshop/Training"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.471960"
+}

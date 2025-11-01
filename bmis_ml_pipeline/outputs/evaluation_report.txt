@@ -1,0 +1,50 @@
+================================================================================
+BMIS ML PIPELINE EVALUATION REPORT
+================================================================================
+
+CLUSTERING QUALITY METRICS
+--------------------------------------------------------------------------------
+
+ACCESSIBILITY:
+  Clusters: 15
+  Silhouette: 0.688
+  Davies-Bouldin: 0.743
+
+ACADEMIC:
+  Clusters: 12
+  Silhouette: 0.549
+  Davies-Bouldin: 0.782
+
+STEM_FIELD:
+  Clusters: 19
+  Silhouette: 0.419
+  Davies-Bouldin: 1.273
+
+FORMAT:
+  Clusters: 15
+  Silhouette: 0.757
+  Davies-Bouldin: 0.773
+
+
+CLUSTER SIZE DISTRIBUTION
+--------------------------------------------------------------------------------
+
+ACCESSIBILITY:
+  Min: 28
+  Max: 550
+  Mean: 114.3
+
+ACADEMIC:
+  Min: 21
+  Max: 340
+  Mean: 186.4
+
+STEM_FIELD:
+  Min: 38
+  Max: 258
+  Mean: 117.7
+
+FORMAT:
+  Min: 21
+  Max: 408
+  Mean: 149.1

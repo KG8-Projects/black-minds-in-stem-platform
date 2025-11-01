@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-10",
+  "name": "Mathematics enthusiast",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 12,
+    "support_needed": "Low",
+    "stem_interests": "mathematics algebra calculus geometry proofs mathematical reasoning",
+    "stem_fields": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Statistics"
+    ],
+    "format_preferences": [
+      "Competition",
+      "Online Course",
+      "Mentorship Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.502963"
+}

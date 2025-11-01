@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-08",
+  "name": "Engineering enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 12,
+    "support_needed": "Medium",
+    "stem_interests": "engineering design build systems mechanical electrical projects",
+    "stem_fields": [
+      "Engineering",
+      "Technology",
+      "Applied Sciences"
+    ],
+    "format_preferences": [
+      "Summer Program",
+      "Workshop/Training",
+      "Competition"
+    ]
+  },
+  "num_recommendations": 14,
+  "timestamp": "2025-10-15T23:02:08.441957"
+}

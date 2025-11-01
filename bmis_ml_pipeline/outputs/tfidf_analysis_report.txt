@@ -1,0 +1,28 @@
+================================================================================
+BMIS TF-IDF Similarity Analysis Report
+================================================================================
+
+TF-IDF Vectorizer Configuration:
+  Vocabulary Size: 500
+  Matrix Shape: (2237, 500)
+  Matrix Density: 0.0819
+
+Similarity Distribution:
+  Mean: 0.098
+  Median: 0.067
+  Std: 0.101
+  Min: 0.000
+  Max: 1.000
+
+Percentiles:
+  25th: 0.034
+  50th: 0.067
+  75th: 0.126
+  90th: 0.220
+  95th: 0.300
+  99th: 0.499
+
+Pairs with similarity >0.5: 49732 (0.99%)
+Pairs with similarity >0.6: 21904 (0.44%)
+Pairs with similarity >0.7: 8672 (0.17%)
+Pairs with similarity >0.8: 3128 (0.06%)

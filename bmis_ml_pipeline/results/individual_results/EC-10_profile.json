@@ -1,0 +1,27 @@
+{
+  "profile_id": "EC-10",
+  "name": "Student seeking career transition: Technical skills",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 12,
+    "academic_level": "Intermediate",
+    "time_availability": 15,
+    "support_needed": "Medium",
+    "stem_interests": "career skills job training technical certifications employability workforce development",
+    "stem_fields": [
+      "Computer Science",
+      "Technology",
+      "Information Technology"
+    ],
+    "format_preferences": [
+      "Certification Program",
+      "Bootcamp",
+      "Online Course",
+      "Internship"
+    ]
+  },
+  "num_recommendations": 8,
+  "timestamp": "2025-10-15T23:02:09.063997"
+}

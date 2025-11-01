@@ -1,0 +1,26 @@
+{
+  "profile_id": "GD-03",
+  "name": "8th grader - Math and engineering interest",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 8,
+    "academic_level": "Intermediate",
+    "time_availability": 8,
+    "support_needed": "Medium",
+    "stem_interests": "mathematics engineering design building structures bridges",
+    "stem_fields": [
+      "Mathematics",
+      "Engineering",
+      "Technology"
+    ],
+    "format_preferences": [
+      "Summer Program",
+      "Camp",
+      "Competition"
+    ]
+  },
+  "num_recommendations": 16,
+  "timestamp": "2025-10-15T23:02:08.129680"
+}

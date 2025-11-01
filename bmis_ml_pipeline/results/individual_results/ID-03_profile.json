@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-03",
+  "name": "Software Engineering enthusiast",
+  "student_profile": {
+    "financial_situation": "High",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Advanced",
+    "time_availability": 12,
+    "support_needed": "Low",
+    "stem_interests": "software engineering development programming java python web applications",
+    "stem_fields": [
+      "Software Engineering",
+      "Computer Science",
+      "Web Development"
+    ],
+    "format_preferences": [
+      "Internship",
+      "Bootcamp",
+      "Online Course"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.289951"
+}

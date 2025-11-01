@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-13",
+  "name": "Earth Sciences enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 9,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "earth science geology climate environment ecology conservation",
+    "stem_fields": [
+      "Earth Sciences",
+      "Environmental Science",
+      "Biology"
+    ],
+    "format_preferences": [
+      "Summer Program",
+      "Research Opportunity",
+      "Field Study"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.593953"
+}

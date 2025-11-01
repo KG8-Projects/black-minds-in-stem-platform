@@ -1,0 +1,26 @@
+{
+  "profile_id": "EC-03",
+  "name": "Very limited time availability: 3 hours/week",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 11,
+    "academic_level": "Intermediate",
+    "time_availability": 3,
+    "support_needed": "High",
+    "stem_interests": "computer science programming web development",
+    "stem_fields": [
+      "Computer Science",
+      "Web Development",
+      "Software Engineering"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Learning Platform",
+      "Self-Paced"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.866008"
+}

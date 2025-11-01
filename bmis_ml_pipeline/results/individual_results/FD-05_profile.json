@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-05",
+  "name": "Medium-income 8th grader - Chemistry interest, Virtual preference",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 8,
+    "academic_level": "Beginner",
+    "time_availability": 6,
+    "support_needed": "High",
+    "stem_interests": "chemistry chemical reactions lab experiments molecules atoms science",
+    "stem_fields": [
+      "Chemistry",
+      "Physical Sciences",
+      "Life Sciences"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Learning Platform",
+      "Camp"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:07.959330"
+}

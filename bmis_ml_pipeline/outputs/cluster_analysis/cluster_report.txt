@@ -1,0 +1,101 @@
+================================================================================
+BMIS K-Means Clustering Report
+================================================================================
+
+
+ACCESSIBILITY MODEL
+--------------------------------------------------------------------------------
+Number of Clusters: 15
+Silhouette Score: 0.688
+Davies-Bouldin Index: 0.743
+Inertia: 631.58
+
+Cluster Size Distribution:
+  Cluster 0: 170 resources (9.9%)
+  Cluster 1: 130 resources (7.6%)
+  Cluster 2: 550 resources (32.1%)
+  Cluster 3: 143 resources (8.3%)
+  Cluster 4: 42 resources (2.4%)
+  Cluster 5: 66 resources (3.8%)
+  Cluster 6: 28 resources (1.6%)
+  Cluster 7: 57 resources (3.3%)
+  Cluster 8: 87 resources (5.1%)
+  Cluster 9: 38 resources (2.2%)
+  Cluster 10: 111 resources (6.5%)
+  Cluster 11: 57 resources (3.3%)
+  Cluster 12: 35 resources (2.0%)
+  Cluster 13: 109 resources (6.4%)
+  Cluster 14: 92 resources (5.4%)
+
+ACADEMIC MODEL
+--------------------------------------------------------------------------------
+Number of Clusters: 12
+Silhouette Score: 0.549
+Davies-Bouldin Index: 0.782
+Inertia: 872.15
+
+Cluster Size Distribution:
+  Cluster 0: 340 resources (15.2%)
+  Cluster 1: 209 resources (9.3%)
+  Cluster 2: 249 resources (11.1%)
+  Cluster 3: 21 resources (0.9%)
+  Cluster 4: 83 resources (3.7%)
+  Cluster 5: 101 resources (4.5%)
+  Cluster 6: 205 resources (9.2%)
+  Cluster 7: 302 resources (13.5%)
+  Cluster 8: 278 resources (12.4%)
+  Cluster 9: 185 resources (8.3%)
+  Cluster 10: 93 resources (4.2%)
+  Cluster 11: 171 resources (7.6%)
+
+STEM_FIELD MODEL
+--------------------------------------------------------------------------------
+Number of Clusters: 19
+Silhouette Score: 0.419
+Davies-Bouldin Index: 1.273
+Inertia: 1382.75
+
+Cluster Size Distribution:
+  Cluster 0: 177 resources (7.9%)
+  Cluster 1: 100 resources (4.5%)
+  Cluster 2: 81 resources (3.6%)
+  Cluster 3: 146 resources (6.5%)
+  Cluster 4: 218 resources (9.7%)
+  Cluster 5: 132 resources (5.9%)
+  Cluster 6: 76 resources (3.4%)
+  Cluster 7: 107 resources (4.8%)
+  Cluster 8: 53 resources (2.4%)
+  Cluster 9: 118 resources (5.3%)
+  Cluster 10: 258 resources (11.5%)
+  Cluster 11: 38 resources (1.7%)
+  Cluster 12: 138 resources (6.2%)
+  Cluster 13: 53 resources (2.4%)
+  Cluster 14: 235 resources (10.5%)
+  Cluster 15: 67 resources (3.0%)
+  Cluster 16: 87 resources (3.9%)
+  Cluster 17: 92 resources (4.1%)
+  Cluster 18: 61 resources (2.7%)
+
+FORMAT MODEL
+--------------------------------------------------------------------------------
+Number of Clusters: 15
+Silhouette Score: 0.757
+Davies-Bouldin Index: 0.773
+Inertia: 477.91
+
+Cluster Size Distribution:
+  Cluster 0: 341 resources (15.2%)
+  Cluster 1: 408 resources (18.2%)
+  Cluster 2: 147 resources (6.6%)
+  Cluster 3: 21 resources (0.9%)
+  Cluster 4: 137 resources (6.1%)
+  Cluster 5: 134 resources (6.0%)
+  Cluster 6: 154 resources (6.9%)
+  Cluster 7: 177 resources (7.9%)
+  Cluster 8: 114 resources (5.1%)
+  Cluster 9: 181 resources (8.1%)
+  Cluster 10: 85 resources (3.8%)
+  Cluster 11: 67 resources (3.0%)
+  Cluster 12: 55 resources (2.5%)
+  Cluster 13: 71 resources (3.2%)
+  Cluster 14: 145 resources (6.5%)

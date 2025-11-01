@@ -1,0 +1,26 @@
+{
+  "profile_id": "FD-07",
+  "name": "Medium-income 11th grader - Environmental Science, Hybrid",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 11,
+    "academic_level": "Intermediate",
+    "time_availability": 12,
+    "support_needed": "Medium",
+    "stem_interests": "environment climate change sustainability ecology conservation biodiversity",
+    "stem_fields": [
+      "Earth Sciences",
+      "Biology",
+      "Environmental Science"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Summer Program",
+      "Field Study"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.000328"
+}

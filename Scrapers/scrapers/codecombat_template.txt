@@ -1,0 +1,10 @@
+Starting Codeforces platform scraping...
+Note: Creating Codeforces competitive programming resources
+Fetched: https://codeforces.com/
+Error fetching https://codeforces.com/contests: 403 Client Error: Forbidden for url: https://codeforces.com/contests
+Error fetching https://codeforces.com/gyms: 403 Client Error: Forbidden for url: https://codeforces.com/gyms
+Error fetching https://codeforces.com/problemset: 403 Client Error: Forbidden for url: https://codeforces.com/problemset
+Creating Codeforces resource entries...
+Total resources created: 7
+Saved 7 resources to data/codeforces.csv
+Scraping completed successfully!

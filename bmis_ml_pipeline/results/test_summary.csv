@@ -1,0 +1,46 @@
+profile_id,name,category,financial_situation,grade_level,academic_level,location,stem_fields,num_recommendations,success
+FD-01,"Low-income 9th grader - AI/ML interest, Virtual-only",Financial Diversity,Low,9,Beginner,Virtual,"Artificial Intelligence/Machine Learning, Computer Science, Software Engineering",20,True
+FD-02,"Low-income 11th grader - Biology interest, Virtual-only",Financial Diversity,Low,11,Intermediate,Virtual,"Biology, Life Sciences, Biomedical Sciences",20,True
+FD-03,"Low-income 10th grader - Engineering interest, Flexible location",Financial Diversity,Low,10,Intermediate,Hybrid,"Engineering, Robotics, Technology",20,True
+FD-04,"Low-income 12th grader - Mathematics interest, Hybrid preference",Financial Diversity,Low,12,Advanced,Hybrid,"Mathematics, Statistics, Data Science",20,True
+FD-05,"Medium-income 8th grader - Chemistry interest, Virtual preference",Financial Diversity,Medium,8,Beginner,Virtual,"Chemistry, Physical Sciences, Life Sciences",20,True
+FD-06,"Medium-income 10th grader - Computer Science interest, In-person",Financial Diversity,Medium,10,Intermediate,In-person,"Computer Science, Software Engineering, Web Development",20,True
+FD-07,"Medium-income 11th grader - Environmental Science, Hybrid",Financial Diversity,Medium,11,Intermediate,Hybrid,"Earth Sciences, Biology, Environmental Science",20,True
+FD-08,"High-income 12th grader - Robotics interest, In-person preferred",Financial Diversity,High,12,Advanced,In-person,"Robotics, Engineering, Computer Science",20,True
+FD-09,"High-income 9th grader - Aerospace interest, Flexible location",Financial Diversity,High,9,Intermediate,Hybrid,"Aerospace Engineering, Engineering, Physics",20,True
+FD-10,"High-income 11th grader - Biomedical Engineering, In-person",Financial Diversity,High,11,Advanced,In-person,"Biomedical Sciences, Engineering, Biology",20,True
+GD-01,6th grader - Beginner science interest,Grade Diversity,Medium,6,Beginner,Virtual,"Life Sciences, Biology, Earth Sciences",2,False
+GD-02,7th grader - Coding beginner,Grade Diversity,Low,7,Beginner,Virtual,"Computer Science, Software Engineering, Game Design",20,True
+GD-03,8th grader - Math and engineering interest,Grade Diversity,Medium,8,Intermediate,Hybrid,"Mathematics, Engineering, Technology",16,True
+GD-04,9th grader - Intermediate biology student,Grade Diversity,Medium,9,Intermediate,In-person,"Biology, Life Sciences, Biomedical Sciences",20,True
+GD-05,10th grader - Advanced physics student,Grade Diversity,High,10,Advanced,Hybrid,"Physics, Astronomy, Mathematics",20,True
+GD-06,11th grader - Advanced computer science student,Grade Diversity,Medium,11,Advanced,Virtual,"Computer Science, Artificial Intelligence/Machine Learning, Software Engineering",20,True
+GD-07,12th grader - Pre-college engineering student,Grade Diversity,Low,12,Advanced,Hybrid,"Engineering, Technology, Applied Sciences",15,True
+ID-01,Computer Science enthusiast,Interest Diversity,Medium,10,Intermediate,Virtual,"Computer Science, Software Engineering",20,True
+ID-02,Artificial Intelligence & Machine Learning enthusiast,Interest Diversity,Medium,11,Advanced,Virtual,"Artificial Intelligence/Machine Learning, Computer Science, Data Science",20,True
+ID-03,Software Engineering enthusiast,Interest Diversity,High,11,Advanced,Hybrid,"Software Engineering, Computer Science, Web Development",20,True
+ID-04,Web Development enthusiast,Interest Diversity,Low,10,Intermediate,Virtual,"Web Development, Software Engineering, Computer Science",20,True
+ID-05,Data Science enthusiast,Interest Diversity,Medium,11,Advanced,Virtual,"Data Science, Statistics, Artificial Intelligence/Machine Learning",20,True
+ID-06,Biology enthusiast,Interest Diversity,Medium,10,Intermediate,In-person,"Biology, Life Sciences, Biomedical Sciences",20,True
+ID-07,Biomedical Sciences enthusiast,Interest Diversity,High,12,Advanced,In-person,"Biomedical Sciences, Biology, Life Sciences",20,True
+ID-08,Engineering enthusiast,Interest Diversity,Medium,10,Intermediate,Hybrid,"Engineering, Technology, Applied Sciences",14,False
+ID-09,Robotics enthusiast,Interest Diversity,Medium,11,Advanced,In-person,"Robotics, Engineering, Computer Science",20,True
+ID-10,Mathematics enthusiast,Interest Diversity,Low,11,Advanced,Virtual,"Mathematics, Applied Mathematics, Statistics",20,True
+ID-11,Physics enthusiast,Interest Diversity,Medium,11,Advanced,Hybrid,"Physics, Physical Sciences, Astronomy",20,True
+ID-12,Chemistry enthusiast,Interest Diversity,Medium,10,Intermediate,In-person,"Chemistry, Physical Sciences, Life Sciences",20,True
+ID-13,Earth Sciences enthusiast,Interest Diversity,Medium,9,Intermediate,Hybrid,"Earth Sciences, Environmental Science, Biology",20,True
+ID-14,Environmental Science enthusiast,Interest Diversity,Low,10,Intermediate,Virtual,"Environmental Science, Earth Sciences, Biology",20,True
+ID-15,Astronomy & Space Science enthusiast,Interest Diversity,High,11,Advanced,Hybrid,"Astronomy, Physics, Aerospace Engineering",20,True
+ID-16,Aerospace Engineering enthusiast,Interest Diversity,Medium,12,Advanced,In-person,"Aerospace Engineering, Engineering, Physics",20,True
+ID-17,Cybersecurity enthusiast,Interest Diversity,Medium,11,Advanced,Virtual,"Cybersecurity, Computer Science, Information Technology",20,True
+ID-18,Game Design & Development enthusiast,Interest Diversity,Low,9,Beginner,Virtual,"Game Design, Computer Science, Software Engineering",20,True
+EC-01,Niche interest: Quantum Computing,Edge Cases,Medium,12,Advanced,Virtual,"Physics, Computer Science, Quantum Computing",17,True
+EC-02,Conflicting constraints: Low budget + In-person only,Edge Cases,Low,10,Intermediate,In-person,"Biology, Life Sciences, Biomedical Sciences",20,True
+EC-03,Very limited time availability: 3 hours/week,Edge Cases,Medium,11,Intermediate,Virtual,"Computer Science, Web Development, Software Engineering",20,True
+EC-04,Rural location: Limited access to technology,Edge Cases,Low,9,Beginner,Virtual,"Environmental Science, Earth Sciences, Biology",20,True
+EC-05,Multiple STEM interests: Interdisciplinary student,Edge Cases,Medium,11,Advanced,Hybrid,"Biomedical Sciences, Biology, Computer Science, Data Science, Engineering",20,True
+EC-06,Very young student: 6th grade advanced learner,Edge Cases,Medium,6,Advanced,Virtual,"Mathematics, Computer Science",20,True
+EC-07,Senior with very specific college prep needs,Edge Cases,Low,12,Advanced,Hybrid,"Engineering, Technology, Applied Sciences",16,True
+EC-08,Non-traditional STEM interest: Music Technology,Edge Cases,Medium,10,Intermediate,Virtual,"Technology, Engineering, Computer Science, Physics",19,True
+EC-09,Student with accessibility needs: High support required,Edge Cases,Low,10,Beginner,Virtual,"Computer Science, Technology, Software Engineering",20,True
+EC-10,Student seeking career transition: Technical skills,Edge Cases,Low,12,Intermediate,Virtual,"Computer Science, Technology, Information Technology",8,False

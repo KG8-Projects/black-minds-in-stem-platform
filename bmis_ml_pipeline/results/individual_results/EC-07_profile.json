@@ -1,0 +1,27 @@
+{
+  "profile_id": "EC-07",
+  "name": "Senior with very specific college prep needs",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Hybrid",
+    "transportation_available": true,
+    "grade_level": 12,
+    "academic_level": "Advanced",
+    "time_availability": 25,
+    "support_needed": "Low",
+    "stem_interests": "engineering scholarships college preparation STEM careers undergraduate research",
+    "stem_fields": [
+      "Engineering",
+      "Technology",
+      "Applied Sciences"
+    ],
+    "format_preferences": [
+      "Scholarship",
+      "College Prep",
+      "Mentorship Program",
+      "Research Opportunity"
+    ]
+  },
+  "num_recommendations": 16,
+  "timestamp": "2025-10-15T23:02:08.981994"
+}

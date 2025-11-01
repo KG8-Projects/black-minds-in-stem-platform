@@ -1,0 +1,596 @@
+type,value
+category,Professional Development
+category,Industry Program
+category,STEM Pipeline Program
+category,Physics Contest
+category,International Championship
+category,National Finals Event
+category,Educational Program
+category,Academic Program
+category,Space Programming Competition
+category,Hour of Code
+category,Academic Recognition
+category,Science Program
+category,Leadership Program
+category,Application Resources
+category,National Showcase Event
+category,Cybersecurity Competition
+category,Diversity Program
+category,Outreach Program
+category,Synthetic Biology Competition
+category,Advanced Features
+category,Advanced Competition
+category,Biology Competition
+category,Physics Competition
+category,Educational Resources
+category,Study Program
+category,Research Award
+category,Programming Challenges
+category,Software Access
+category,Competition Program
+category,Career Exploration Program
+category,University Pre-College
+category,Team Competition
+category,Career Readiness
+category,Scholarship Program
+category,Technical Competition
+category,Research Project
+category,Training Event
+category,Research Competition
+category,Alumni Network
+category,Activity Cards
+category,Diversity Scholarship
+category,Educational Webinar
+category,Environmental Competition
+category,Meteorology Program
+category,Online Program
+category,Educational Outreach
+category,Educational Tool
+category,Community Program
+category,Computer Science Program
+category,Tutoring
+category,Educational Travel
+category,Robotics Program
+category,Engineering Program
+category,Programming Platform
+category,STEAM Competition
+category,International Competition
+category,Study Resources
+category,Academic Year Program
+category,Essay Contest
+category,Math Modeling Competition
+category,National Environmental Competition
+category,Expedition Program
+category,Science Project
+category,Curriculum Program
+category,Computer Science Competition
+category,Educational Resource
+category,Career Development
+category,Technical Resources
+category,Afterschool Program
+category,Internship Program
+category,Online Resources
+category,Championship Event
+category,Middle School Program
+category,Video Tutorials
+category,Online Tutorial
+category,Programming Certification
+category,Training Program
+category,Tutorial Library
+category,Support Program
+category,Math Program
+category,Advanced STEM Competition
+category,Computing Award
+category,Programming Course
+category,Early Learning Platform
+category,Regional Competition
+category,High School Program
+category,Career Program
+category,Recognition Program
+category,Special Prize Category
+category,Design Competition
+category,Coding Program
+category,STEM Activity
+category,School Program
+category,Research
+category,Aerospace Competition
+category,Tech Skills Program
+category,Tech Program
+category,Entrepreneurship Competition
+category,Community Event
+category,Federal Program
+category,Citizen Science
+category,Grant Program
+category,Elementary Program
+category,Student Organization
+category,Engineering Challenge
+category,Biomedical Program
+category,Industry Competition
+category,Virtual Program
+category,STEM Program
+category,Membership
+category,Funding Program
+category,Invitational Math Competition
+category,Online Community
+category,Monitoring Program
+category,Innovation Competition
+category,STEM Competition
+category,Team Resources
+category,Ocean Science Competition
+category,Student Chapter
+category,Chemistry Program
+stem_field,Universal Design for Learning
+stem_field,Inspiration
+stem_field,Data Entry
+stem_field,Team Building
+stem_field,Research Skills
+stem_field,Progress Tracking
+stem_field,Ethics
+stem_field,Multi-Subject
+stem_field,Agile
+stem_field,Entrepreneurship
+stem_field,Career Guidance
+stem_field,Shapes
+stem_field,Public Policy
+stem_field,Physical Science
+stem_field,Magnetism
+stem_field,Medical Science
+stem_field,Animation
+stem_field,Esports
+stem_field,Displays
+stem_field,Botany
+stem_field,Strategic Planning
+stem_field,Quadratics
+stem_field,All Topics
+stem_field,Character Design
+stem_field,Color Theory
+stem_field,UX Design
+stem_field,Sight Words
+stem_field,Aerodynamics
+stem_field,Mobile Learning
+stem_field,Space Operations
+stem_field,Game Design
+stem_field,Arduino
+stem_field,C++
+stem_field,Climate Change
+stem_field,Java
+stem_field,Food Webs
+stem_field,Marine Science
+stem_field,Energy Materials
+stem_field,Job Skills
+stem_field,Project-Based Learning
+stem_field,Earth Science
+stem_field,Sensors
+stem_field,Music Theory
+stem_field,Academic Excellence
+stem_field,Tutoring
+stem_field,Media
+stem_field,Educational Assessment
+stem_field,Inclusion
+stem_field,Reading Comprehension
+stem_field,Adaptation
+stem_field,Fashion
+stem_field,Equations
+stem_field,Advanced Topics
+stem_field,Spatial Reasoning
+stem_field,Video Production
+stem_field,Animal Science
+stem_field,Quick Recall
+stem_field,Optimization
+stem_field,Photosynthesis
+stem_field,College Planning
+stem_field,Estimation
+stem_field,Home Education
+stem_field,Scientific Method
+stem_field,Python
+stem_field,Drug Development
+stem_field,Personalization
+stem_field,Visual Discrimination
+stem_field,Life Sciences
+stem_field,Meteorology
+stem_field,Scholarship Applications
+stem_field,Imagination
+stem_field,Public Speaking
+stem_field,Light
+stem_field,Scientific Communication
+stem_field,Online Safety
+stem_field,Career Experience
+stem_field,Machining
+stem_field,Graphics
+stem_field,Chemical Reactions
+stem_field,Computer Graphics
+stem_field,Scientific Inquiry
+stem_field,Waves
+stem_field,All Sciences
+stem_field,Creative Problem Solving
+stem_field,Veterinary Science
+stem_field,History
+stem_field,CRISPR
+stem_field,Sciences
+stem_field,Plate Tectonics
+stem_field,Comparison
+stem_field,Tutorials
+stem_field,Derivatives
+stem_field,Special Education
+stem_field,Bioinformatics
+stem_field,Disease Prevention
+stem_field,Adaptive Learning
+stem_field,Operations Research
+stem_field,Comprehension
+stem_field,Marketing
+stem_field,Management
+stem_field,Collaborative Problem Solving
+stem_field,AP Test Prep
+stem_field,JavaScript
+stem_field,Rock Cycle
+stem_field,Adaptations
+stem_field,Teaching
+stem_field,Properties
+stem_field,Quantum Computing
+stem_field,Petrology
+stem_field,Motivation
+stem_field,NLP
+stem_field,Music
+stem_field,Language Support
+stem_field,Cloud Computing
+stem_field,Classification
+stem_field,Independent Study
+stem_field,Lab Safety
+stem_field,Penetration Testing
+stem_field,Subtraction
+stem_field,Forensic Science
+stem_field,Project Design
+stem_field,Active Learning
+stem_field,Decimals
+stem_field,Psychology
+stem_field,Research Methods
+stem_field,Online Learning
+stem_field,CSS
+stem_field,Graphing
+stem_field,Geology
+stem_field,Code Reading
+stem_field,Alphabet
+stem_field,Educational Media
+stem_field,Communications
+stem_field,Assessment
+stem_field,Philosophy
+stem_field,3D Printing
+stem_field,Advocacy
+stem_field,General Science
+stem_field,Environmental Policy
+stem_field,Technical Drawing
+stem_field,Early Childhood Education
+stem_field,Medical Research
+stem_field,Decision Making
+stem_field,Premium Features
+stem_field,Medical Devices
+stem_field,Multi-Sensory
+stem_field,Career Planning
+stem_field,Molecular Science
+stem_field,Variables
+stem_field,Game Theory
+stem_field,Multiplication
+stem_field,Inquiry
+stem_field,Professional Skills
+stem_field,Geography
+stem_field,Alumni Network
+stem_field,Physical Sciences
+stem_field,Childhood Diseases
+stem_field,Patterns
+stem_field,Future Science
+stem_field,Pediatric Research
+stem_field,Reading
+stem_field,World Cultures
+stem_field,Mechanical Design
+stem_field,Basic Science
+stem_field,Interdisciplinary Studies
+stem_field,Generative Art
+stem_field,Creative Arts
+stem_field,At-Home Learning
+stem_field,Gamification
+stem_field,Energy Efficiency
+stem_field,Access
+stem_field,Physical Computing
+stem_field,Public Health
+stem_field,Computer Skills
+stem_field,Web Design
+stem_field,Hardware
+stem_field,Cardiovascular Science
+stem_field,Collaboration
+stem_field,Structural Design
+stem_field,Academic Support
+stem_field,Creative Application
+stem_field,Data Visualization
+stem_field,Laboratory Science
+stem_field,Achievement
+stem_field,Educational Motivation
+stem_field,Career Development
+stem_field,Creative Computing
+stem_field,Immunology
+stem_field,Natural Language Processing
+stem_field,Networking
+stem_field,Exponentials
+stem_field,Industry Connections
+stem_field,Pythagorean Theorem
+stem_field,Laboratory Research
+stem_field,Product Design
+stem_field,Study Skills
+stem_field,World Languages
+stem_field,Measurement
+stem_field,Paleontology
+stem_field,Natural Resource Management
+stem_field,Pharmacology
+stem_field,Construction
+stem_field,Family Engagement
+stem_field,Logic
+stem_field,Career Preparation
+stem_field,Health Policy
+stem_field,3D Modeling
+stem_field,Observation
+stem_field,Aviation
+stem_field,Water Cycle
+stem_field,Applied Science
+stem_field,Pharmacy
+stem_field,Food Science
+stem_field,Grammar
+stem_field,Planetary Science
+stem_field,Clinical Sciences
+stem_field,Welding
+stem_field,Accessible Education
+stem_field,Immunotherapy
+stem_field,Career Networking
+stem_field,Enzymology
+stem_field,Language Access
+stem_field,Problem Solving
+stem_field,Social-Emotional
+stem_field,Mobile Development
+stem_field,Parametric Design
+stem_field,Proofs
+stem_field,Family Learning
+stem_field,Educational Gamification
+stem_field,Academic Advising
+stem_field,Economics
+stem_field,Cardiovascular Disease
+stem_field,Modeling
+stem_field,Policy
+stem_field,Operations
+stem_field,Number Sense
+stem_field,Plant Science
+stem_field,Human-Computer Interaction
+stem_field,College Preparation
+stem_field,Atmospheric Science
+stem_field,Conservation
+stem_field,Wildlife Management
+stem_field,Clinical Research
+stem_field,Forestry
+stem_field,3D Design
+stem_field,App Design
+stem_field,Admissions
+stem_field,Spanish
+stem_field,Academic Skills
+stem_field,Trial Program
+stem_field,Inclusive Design
+stem_field,UI/UX Design
+stem_field,Archaeology
+stem_field,STEAM (Science
+stem_field,STEAM
+stem_field,Parent Engagement
+stem_field,Database Management
+stem_field,Presentation Skills
+stem_field,Cosmology
+stem_field,Rocketry
+stem_field,Diagnostics
+stem_field,Lua
+stem_field,CAD
+stem_field,Flight Dynamics
+stem_field,Data Structures
+stem_field,Experimental Design
+stem_field,Epidemiology
+stem_field,Behavioral Economics
+stem_field,Project Management
+stem_field,Renewable Energy
+stem_field,Remote Sensing
+stem_field,Inclusive Education
+stem_field,Market Analysis
+stem_field,Physiology
+stem_field,Internet of Things
+stem_field,Criminal Justice
+stem_field,Volunteering
+stem_field,Vocabulary
+stem_field,Design Thinking
+stem_field,Hardware Design
+stem_field,Animal Adaptations
+stem_field,Climate Policy
+stem_field,Mechanics
+stem_field,Manufacturing
+stem_field,Phonics
+stem_field,Blockly
+stem_field,Application Process
+stem_field,Automation
+stem_field,Communication
+stem_field,Play-Based Learning
+stem_field,Multi-Subject Science
+stem_field,Visual Communication
+stem_field,Emerging Tech
+stem_field,Hands-on Projects
+stem_field,Mental Health Research
+stem_field,Public Engagement
+stem_field,Oncology
+stem_field,Self-Paced Education
+stem_field,Swift
+stem_field,Interdependence
+stem_field,Strategy
+stem_field,Cryptography
+stem_field,Visual Learning
+stem_field,Full-Stack Development
+stem_field,Health Tech
+stem_field,Teamwork
+stem_field,Thermodynamics
+stem_field,Science Policy
+stem_field,Scratch
+stem_field,Biological Sciences
+stem_field,Loops
+stem_field,Electronics
+stem_field,Interdisciplinary
+stem_field,Technical Trades
+stem_field,Documentation
+stem_field,Vision
+stem_field,Portfolio Development
+stem_field,Actuarial Science
+stem_field,Observatory Research
+stem_field,Mechatronics
+stem_field,Theoretical Science
+stem_field,Biomimicry
+stem_field,Punnett Squares
+stem_field,Video Learning
+stem_field,Urban Planning
+stem_field,Condensed Matter
+stem_field,Science Communication
+stem_field,Databases
+stem_field,Theoretical CS
+stem_field,Ocean Science
+stem_field,Spelling
+stem_field,Enterprise Computing
+stem_field,Sound
+stem_field,Health Science
+stem_field,Motor Skills
+stem_field,Social Studies
+stem_field,Space Exploration
+stem_field,Anthropology
+stem_field,Stoichiometry
+stem_field,Test Preparation
+stem_field,Attributes
+stem_field,Alumni Relations
+stem_field,Infectious Disease
+stem_field,Media Production
+stem_field,Simulation
+stem_field,Matter
+stem_field,Nature
+stem_field,Neurology
+stem_field,Storytelling
+stem_field,Education
+stem_field,Innovation
+stem_field,Precision
+stem_field,Professional Networking
+stem_field,Energy Flow
+stem_field,Motors
+stem_field,Funding
+stem_field,Social Justice
+stem_field,Social Skills
+stem_field,Computational Thinking
+stem_field,Professional Development
+stem_field,Hands-On Learning
+stem_field,Computer Vision
+stem_field,iOS Development
+stem_field,Life Science
+stem_field,Team Collaboration
+stem_field,Trigonometry
+stem_field,Behavioral Science
+stem_field,Health Informatics
+stem_field,Scholarships
+stem_field,Natural Selection
+stem_field,Energy
+stem_field,Prototyping
+stem_field,African American Studies
+stem_field,Keyboarding
+stem_field,and more)
+stem_field,Research Presentation
+stem_field,Water Science
+stem_field,CAD Design
+stem_field,International Collaboration
+stem_field,Technical Support
+stem_field,Executive Function
+stem_field,Weather
+stem_field,Landforms
+stem_field,Agriculture
+stem_field,Broadcast Meteorology
+stem_field,Career Readiness
+stem_field,Oceanography
+stem_field,Minerals
+stem_field,Pathology
+stem_field,Career Exploration
+stem_field,Arts
+stem_field,Offline Learning
+stem_field,Ratios
+stem_field,Agricultural Science
+stem_field,Memory
+stem_field,Division
+stem_field,Place Value
+stem_field,All Science Fields
+stem_field,Family Education
+stem_field,Invention
+stem_field,Zoology
+stem_field,Product Development
+stem_field,STEAM Education
+stem_field,HVAC
+stem_field,Drones
+stem_field,Outreach
+stem_field,Testing
+stem_field,Functions
+stem_field,Biography
+stem_field,Motion
+stem_field,SQL
+stem_field,Social Impact
+stem_field,Mentorship
+stem_field,Hydrology
+stem_field,Social Sciences
+stem_field,Data Collection
+stem_field,UX/UI Design
+stem_field,Version Control
+stem_field,Visual Arts
+stem_field,Business
+stem_field,Open Source
+stem_field,Number Theory
+stem_field,Independent Research
+stem_field,Counting
+stem_field,Polymers
+stem_field,Emerging Technologies
+stem_field,Forensics
+stem_field,Phase Changes
+stem_field,Transportation
+stem_field,Matching
+stem_field,Presentation
+stem_field,Fine Motor Skills
+stem_field,Protein Science
+stem_field,Language Arts
+stem_field,Mineralogy
+stem_field,Natural Sciences
+stem_field,Quantum Mechanics
+stem_field,Bilingual Education
+stem_field,Health Sciences
+stem_field,Letters
+stem_field,Cultural Studies
+stem_field,Pharmaceutical Sciences
+stem_field,Level Design
+stem_field,User Interface Design
+stem_field,Animal Behavior
+stem_field,Educational Access
+stem_field,Sequencing
+stem_field,Laboratory Techniques
+stem_field,Anatomy
+stem_field,Self-directed Learning
+stem_field,Research
+stem_field,Drug Discovery
+stem_field,Peer Learning
+stem_field,DevOps
+stem_field,Forces
+stem_field,Portfolio Building
+stem_field,Kinematics
+stem_field,Cancer Research
+stem_field,Environmental Justice
+stem_field,Computational Science
+stem_field,Fintech
+stem_field,Scientific Thinking
+stem_field,Evolution
+stem_field,Science History
+stem_field,Leadership
+stem_field,Natural Hazards
+stem_field,Soils Science
+stem_field,Sociology
+stem_field,Photography
+stem_field,Career Awareness
+stem_field,Erosion
+stem_field,Fractions
+stem_field,Laboratory Skills
+stem_field,Social Innovation
+stem_field,Marine Policy

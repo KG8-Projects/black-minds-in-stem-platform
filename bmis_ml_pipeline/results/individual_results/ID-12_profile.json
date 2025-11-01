@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-12",
+  "name": "Chemistry enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "In-person",
+    "transportation_available": true,
+    "grade_level": 10,
+    "academic_level": "Intermediate",
+    "time_availability": 10,
+    "support_needed": "Medium",
+    "stem_interests": "chemistry chemical reactions lab experiments molecules organic inorganic",
+    "stem_fields": [
+      "Chemistry",
+      "Physical Sciences",
+      "Life Sciences"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Summer Program",
+      "Lab Experience"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.556953"
+}

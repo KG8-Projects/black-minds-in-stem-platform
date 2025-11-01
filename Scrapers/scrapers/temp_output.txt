@@ -1,0 +1,68 @@
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Starting NSF STEM programs scraper...
+Fetching: https://www.nsf.gov/edu/programs
+Extracting program links...
+Found 37 potential program links
+Processing program 1/20: https://www.nsf.gov/funding/opportunities/edu
+Fetching: https://www.nsf.gov/funding/opportunities/edu
+ No valid program info found
+Processing program 2/20: https://www.nsf.gov/funding/opportunities/sfs-cybercorps-scholarship-service
+Fetching: https://www.nsf.gov/funding/opportunities/sfs-cybercorps-scholarship-service
+ No valid program info found
+Processing program 3/20: https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research
+Fetching: https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research
+ No valid program info found
+Processing program 4/20: https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program
+Fetching: https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program
+ No valid program info found
+Processing program 5/20: https://www.nsf.gov/funding/opportunities/innovations-graduate-education-program
+Fetching: https://www.nsf.gov/funding/opportunities/innovations-graduate-education-program
+ No valid program info found
+Processing program 6/20: https://www.nsf.gov/funding/opportunities/egfp-nsf-epscor-graduate-fellowship-program
+Fetching: https://www.nsf.gov/funding/opportunities/egfp-nsf-epscor-graduate-fellowship-program
+ No valid program info found
+Processing program 7/20: https://www.nsf.gov/funding/opportunities/us-national-science-foundation-research-traineeship-program
+Fetching: https://www.nsf.gov/funding/opportunities/us-national-science-foundation-research-traineeship-program
+ No valid program info found
+Processing program 8/20: https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace
+Fetching: https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace
+ No valid program info found
+Processing program 9/20: https://www.nsf.gov/funding/opportunities/stemediprf-science-technology-engineering-mathematics-education/505980
+Fetching: https://www.nsf.gov/funding/opportunities/stemediprf-science-technology-engineering-mathematics-education/505980
+ No valid program info found
+Processing program 10/20: https://www.nsf.gov/funding/opportunities/stem-ed-oprf-science-technology-engineering-mathematics-education/506153
+Fetching: https://www.nsf.gov/funding/opportunities/stem-ed-oprf-science-technology-engineering-mathematics-education/506153
+ No valid program info found
+Processing program 11/20: https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793
+Fetching: https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793
+ Extracted: Advancing Informal STEM Learning (AISL)
+Processing program 12/20: https://www.nsf.gov/funding/opportunities/acser-arecibo-center-stem-education-research/506109
+Fetching: https://www.nsf.gov/funding/opportunities/acser-arecibo-center-stem-education-research/506109
+ Extracted: Arecibo Center for STEM Education and Research (ACSER)
+Processing program 13/20: https://www.nsf.gov/funding/opportunities/csforall-research-rpps-computer-science-all/505359
+Fetching: https://www.nsf.gov/funding/opportunities/csforall-research-rpps-computer-science-all/505359
+ Extracted: Computer Science for All (CSforAll: Research and RPPs)
+Processing program 14/20: https://www.nsf.gov/funding/opportunities/drk-12-discovery-research-prek-12/500047
+Fetching: https://www.nsf.gov/funding/opportunities/drk-12-discovery-research-prek-12/500047
+ Extracted: Discovery Research PreK-12 (DRK-12)
+Processing program 15/20: https://www.nsf.gov/funding/opportunities/itest-innovative-technology-experiences-students-teachers
+Fetching: https://www.nsf.gov/funding/opportunities/itest-innovative-technology-experiences-students-teachers
+ Extracted: Innovative Technology Experiences for Students and Teachers (ITEST)
+Processing program 16/20: https://www.nsf.gov/funding/opportunities/national-stem-teacher-corps-pilot-program
+Fetching: https://www.nsf.gov/funding/opportunities/national-stem-teacher-corps-pilot-program
+ Extracted: National STEM Teacher Corps Pilot Program
+Processing program 17/20: https://www.nsf.gov/funding/opportunities/td-translation-diffusion/506386
+Fetching: https://www.nsf.gov/funding/opportunities/td-translation-diffusion/506386
+ Extracted: Translation and Diffusion (TD)
+Processing program 18/20: https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education
+Fetching: https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education
+ Extracted: Advanced Technological Education (ATE)
+Processing program 19/20: https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics
+Fetching: https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics
+ Extracted: NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)
+Processing program 20/20: https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program
+Fetching: https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program
+ Extracted: Robert Noyce Teacher Scholarship Program
+
+Scraping completed. Found 10 programs.
+Error saving to CSV: [Errno 13] Permission denied: 'data/nsf_programs.csv'

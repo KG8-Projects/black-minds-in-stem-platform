@@ -1,0 +1,43 @@
+duplicate_type,count,name,url,files,recommendation,source
+Same name and URL,2,Google Computer Science Summer Institute (CSSI),https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute,"google_cs_edu_programs.csv, tech_internships_hs.csv","Keep one, remove others",
+Same name and URL,2,PLTW Biomedical Science - Biomedical Innovation,https://www.pltw.org/our-programs/pltw-biomedical-science/pltw-biomedical-science-courses/biomedical-innovation,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Biomedical Science - Human Body Systems,https://www.pltw.org/our-programs/pltw-biomedical-science/pltw-biomedical-science-courses/human-body-systems,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Biomedical Science - Medical Interventions,https://www.pltw.org/our-programs/pltw-biomedical-science/pltw-biomedical-science-courses/medical-interventions,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Biomedical Science - Principles of Biomedical Sciences,https://www.pltw.org/our-programs/pltw-biomedical-science/pltw-biomedical-science-courses/principles-biomedical-sciences,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Computer Science - Computer Science A,https://www.pltw.org/our-programs/pltw-computer-science/pltw-computer-science-courses/computer-science-a,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Computer Science - Computer Science Essentials,https://www.pltw.org/our-programs/pltw-computer-science/pltw-computer-science-courses/computer-science-essentials,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Computer Science - Computer Science Principles,https://www.pltw.org/our-programs/pltw-computer-science/pltw-computer-science-courses/computer-science-principles,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Computer Science - Cybersecurity,https://www.pltw.org/our-programs/pltw-computer-science/pltw-computer-science-courses/cybersecurity,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Engineering - Aerospace Engineering,https://www.pltw.org/our-programs/pltw-engineering/pltw-engineering-courses/aerospace-engineering,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Engineering - Digital Electronics,https://www.pltw.org/our-programs/pltw-engineering/pltw-engineering-courses/digital-electronics,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Engineering - Engineering Design and Development,https://www.pltw.org/our-programs/pltw-engineering/pltw-engineering-courses/engineering-design-and-development,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Engineering - Introduction to Engineering Design,https://www.pltw.org/our-programs/pltw-engineering/pltw-engineering-courses/introduction-engineering-design,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Engineering - Principles of Engineering,https://www.pltw.org/our-programs/pltw-engineering/pltw-engineering-courses/principles-engineering,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Gateway - Automation and Robotics,https://www.pltw.org/our-programs/pltw-gateway/gateway-courses/automation-and-robotics,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Gateway - Computer Science for Innovators and Makers,https://www.pltw.org/our-programs/pltw-gateway/gateway-courses/computer-science-innovators-and-makers,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Gateway - Design and Modeling,https://www.pltw.org/our-programs/pltw-gateway/gateway-courses/design-and-modeling,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Gateway - Medical Detectives,https://www.pltw.org/our-programs/pltw-gateway/gateway-courses/medical-detectives,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Launch - Automation and Robotics,https://www.pltw.org/our-programs/pltw-launch/launch-modules/automation-and-robotics,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Launch - Modeling and Analysis,https://www.pltw.org/our-programs/pltw-launch/launch-modules/modeling-and-analysis,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,PLTW Launch - Structure and Function,https://www.pltw.org/our-programs/pltw-launch/launch-modules/structure-and-function,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",
+Same name and URL,2,Purple Comet Math Meet,https://purplecomet.org/,"math_competitions.csv, competitive_learning.csv","Keep one, remove others",
+"Same name, source, and description",2,PLTW Biomedical Science - Biomedical Innovation,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Biomedical Science - Human Body Systems,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Biomedical Science - Medical Interventions,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Biomedical Science - Principles of Biomedical Sciences,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Computer Science - Computer Science A,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Computer Science - Computer Science Essentials,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Computer Science - Computer Science Principles,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Computer Science - Cybersecurity,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Engineering - Aerospace Engineering,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Engineering - Digital Electronics,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Engineering - Engineering Design and Development,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Engineering - Introduction to Engineering Design,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Engineering - Principles of Engineering,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Gateway - Automation and Robotics,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Gateway - Computer Science for Innovators and Makers,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Gateway - Design and Modeling,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Gateway - Medical Detectives,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Launch - Automation and Robotics,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Launch - Modeling and Analysis,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way
+"Same name, source, and description",2,PLTW Launch - Structure and Function,,"pltw_programs.csv, pltw_progress.csv","Keep one, remove others",Project Lead The Way

@@ -1,0 +1,26 @@
+{
+  "profile_id": "EC-09",
+  "name": "Student with accessibility needs: High support required",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 10,
+    "academic_level": "Beginner",
+    "time_availability": 6,
+    "support_needed": "High",
+    "stem_interests": "computer science accessible technology assistive tech programming",
+    "stem_fields": [
+      "Computer Science",
+      "Technology",
+      "Software Engineering"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Mentorship Program",
+      "Self-Paced"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:09.036001"
+}

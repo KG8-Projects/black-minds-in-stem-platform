@@ -1,0 +1,26 @@
+{
+  "profile_id": "EC-04",
+  "name": "Rural location: Limited access to technology",
+  "student_profile": {
+    "financial_situation": "Low",
+    "location": "Virtual",
+    "transportation_available": false,
+    "grade_level": 9,
+    "academic_level": "Beginner",
+    "time_availability": 10,
+    "support_needed": "High",
+    "stem_interests": "agriculture environmental science farming sustainability rural development",
+    "stem_fields": [
+      "Environmental Science",
+      "Earth Sciences",
+      "Biology"
+    ],
+    "format_preferences": [
+      "Online Course",
+      "Correspondence Program",
+      "Self-Study"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.896000"
+}

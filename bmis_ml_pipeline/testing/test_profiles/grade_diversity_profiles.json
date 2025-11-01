@@ -1,0 +1,140 @@
+{
+  "description": "Grade Diversity Test Profiles - Testing academic appropriateness across all grade levels",
+  "total_profiles": 7,
+  "profiles": [
+    {
+      "profile_id": "GD-01",
+      "name": "6th grader - Beginner science interest",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 6,
+      "academic_level": "Beginner",
+      "time_availability": 5,
+      "support_needed": "High",
+      "stem_interests": "science experiments animals plants nature exploration discovery",
+      "stem_fields": ["Life Sciences", "Biology", "Earth Sciences"],
+      "format_preferences": ["Online Course", "Camp", "Learning Platform"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "beginner_friendly": ">=70%",
+        "age_appropriate_content": ">=90%"
+      }
+    },
+    {
+      "profile_id": "GD-02",
+      "name": "7th grader - Coding beginner",
+      "financial_situation": "Low",
+      "location": "Virtual",
+      "transportation_available": false,
+      "grade_level": 7,
+      "academic_level": "Beginner",
+      "time_availability": 6,
+      "support_needed": "High",
+      "stem_interests": "coding programming games apps scratch python beginner",
+      "stem_fields": ["Computer Science", "Software Engineering", "Game Design"],
+      "format_preferences": ["Online Course", "Learning Platform", "Workshop/Training"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "beginner_friendly": ">=80%",
+        "low_free_resources": ">=60%"
+      }
+    },
+    {
+      "profile_id": "GD-03",
+      "name": "8th grader - Math and engineering interest",
+      "financial_situation": "Medium",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 8,
+      "academic_level": "Intermediate",
+      "time_availability": 8,
+      "support_needed": "Medium",
+      "stem_interests": "mathematics engineering design building structures bridges",
+      "stem_fields": ["Mathematics", "Engineering", "Technology"],
+      "format_preferences": ["Summer Program", "Camp", "Competition"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "middle_school_appropriate": ">=70%",
+        "hands_on_activities": ">=50%"
+      }
+    },
+    {
+      "profile_id": "GD-04",
+      "name": "9th grader - Intermediate biology student",
+      "financial_situation": "Medium",
+      "location": "In-person",
+      "transportation_available": true,
+      "grade_level": 9,
+      "academic_level": "Intermediate",
+      "time_availability": 10,
+      "support_needed": "Medium",
+      "stem_interests": "biology genetics DNA cells research lab work microscopy",
+      "stem_fields": ["Biology", "Life Sciences", "Biomedical Sciences"],
+      "format_preferences": ["Research Opportunity", "Summer Program", "Mentorship Program"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "high_school_appropriate": ">=80%",
+        "lab_opportunities": ">=40%"
+      }
+    },
+    {
+      "profile_id": "GD-05",
+      "name": "10th grader - Advanced physics student",
+      "financial_situation": "High",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 10,
+      "academic_level": "Advanced",
+      "time_availability": 15,
+      "support_needed": "Low",
+      "stem_interests": "physics quantum mechanics relativity astrophysics cosmology research",
+      "stem_fields": ["Physics", "Astronomy", "Mathematics"],
+      "format_preferences": ["Research Opportunity", "Competition", "Mentorship Program"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "advanced_content": ">=60%",
+        "research_opportunities": ">=50%"
+      }
+    },
+    {
+      "profile_id": "GD-06",
+      "name": "11th grader - Advanced computer science student",
+      "financial_situation": "Medium",
+      "location": "Virtual",
+      "transportation_available": true,
+      "grade_level": 11,
+      "academic_level": "Advanced",
+      "time_availability": 12,
+      "support_needed": "Low",
+      "stem_interests": "computer science algorithms data structures machine learning AI programming",
+      "stem_fields": ["Computer Science", "Artificial Intelligence/Machine Learning", "Software Engineering"],
+      "format_preferences": ["Online Course", "Competition", "Internship"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "advanced_content": ">=70%",
+        "competitive_opportunities": ">=40%"
+      }
+    },
+    {
+      "profile_id": "GD-07",
+      "name": "12th grader - Pre-college engineering student",
+      "financial_situation": "Low",
+      "location": "Hybrid",
+      "transportation_available": true,
+      "grade_level": 12,
+      "academic_level": "Advanced",
+      "time_availability": 20,
+      "support_needed": "Low",
+      "stem_interests": "engineering research university preparation college readiness scholarships",
+      "stem_fields": ["Engineering", "Technology", "Applied Sciences"],
+      "format_preferences": ["Research Opportunity", "Scholarship", "Internship", "Mentorship Program"],
+      "expected_alignment": {
+        "grade_appropriate": ">=80%",
+        "senior_appropriate": ">=70%",
+        "scholarship_opportunities": ">=30%",
+        "low_free_resources": ">=60%"
+      }
+    }
+  ]
+}

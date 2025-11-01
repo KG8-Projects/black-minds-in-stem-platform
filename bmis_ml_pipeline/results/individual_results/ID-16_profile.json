@@ -1,0 +1,26 @@
+{
+  "profile_id": "ID-16",
+  "name": "Aerospace Engineering enthusiast",
+  "student_profile": {
+    "financial_situation": "Medium",
+    "location": "In-person",
+    "transportation_available": true,
+    "grade_level": 12,
+    "academic_level": "Advanced",
+    "time_availability": 18,
+    "support_needed": "Low",
+    "stem_interests": "aerospace aviation flight rockets spacecraft propulsion aerodynamics",
+    "stem_fields": [
+      "Aerospace Engineering",
+      "Engineering",
+      "Physics"
+    ],
+    "format_preferences": [
+      "Research Opportunity",
+      "Internship",
+      "Summer Program"
+    ]
+  },
+  "num_recommendations": 20,
+  "timestamp": "2025-10-15T23:02:08.702026"
+}
