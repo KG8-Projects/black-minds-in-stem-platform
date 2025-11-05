@@ -15,15 +15,18 @@ import pandas as pd
 import joblib
 from scipy.sparse import load_npz
 from sklearn.preprocessing import StandardScaler
+from pathlib import Path
 
 
 class BMISRecommendationEngine:
     """Complete recommendation system for BMIS resources"""
 
-    def __init__(self, models_dir='models', preprocessors_dir='preprocessors', data_path='data/bmis_final_ml_ready_dataset_cs_refined.csv'):
-        self.models_dir = models_dir
-        self.preprocessors_dir = preprocessors_dir
-        self.data_path = data_path
+    def __init__(self, models_dir=None, preprocessors_dir=None, data_path=None):
+        # Use Path for cross-platform compatibility and proper relative paths
+        base_dir = Path(__file__).parent.parent
+        self.models_dir = Path(models_dir) if models_dir else base_dir / 'models'
+        self.preprocessors_dir = Path(preprocessors_dir) if preprocessors_dir else base_dir / 'preprocessors'
+        self.data_path = Path(data_path) if data_path else base_dir / 'data' / 'bmis_final_ml_ready_dataset_cs_refined.csv'
 
         # Models and data
         self.df = None
@@ -40,21 +43,21 @@ class BMISRecommendationEngine:
         print("-" * 60)
 
         # Load original data
-        self.df = pd.read_csv(self.data_path)
+        self.df = pd.read_csv(str(self.data_path))
         print(f"[OK] Loaded {len(self.df)} resources")
 
         # Load preprocessed data
-        self.preprocessed_df = pd.read_csv(f'{self.preprocessors_dir}/preprocessed_data.csv')
+        self.preprocessed_df = pd.read_csv(str(self.preprocessors_dir / 'preprocessed_data.csv'))
         print(f"[OK] Loaded preprocessed data")
 
         # Load K-Means models
         for model_name in ['accessibility', 'academic', 'stem_field', 'format']:
             try:
-                self.kmeans_models[model_name] = joblib.load(f'{self.models_dir}/{model_name}_kmeans.pkl')
+                self.kmeans_models[model_name] = joblib.load(str(self.models_dir / f'{model_name}_kmeans.pkl'))
                 print(f"[OK] Loaded {model_name} K-Means model")
 
                 # Load cluster assignments
-                clusters = pd.read_csv(f'{self.models_dir}/{model_name}_clusters.csv', index_col=0)
+                clusters = pd.read_csv(str(self.models_dir / f'{model_name}_clusters.csv'), index_col=0)
                 self.cluster_assignments[model_name] = clusters.iloc[:, 0]
             except Exception as e:
                 print(f"[WARNING] Could not load {model_name} model: {e}")
@@ -62,15 +65,15 @@ class BMISRecommendationEngine:
         # Load scalers
         for scaler_name in ['accessibility', 'academic', 'format']:
             try:
-                self.scalers[scaler_name] = joblib.load(f'{self.preprocessors_dir}/{scaler_name}_scaler.pkl')
+                self.scalers[scaler_name] = joblib.load(str(self.preprocessors_dir / f'{scaler_name}_scaler.pkl'))
                 print(f"[OK] Loaded {scaler_name} scaler")
             except Exception as e:
                 print(f"[WARNING] Could not load {scaler_name} scaler: {e}")
 
         # Load TF-IDF models
         try:
-            self.tfidf_vectorizer = joblib.load(f'{self.models_dir}/tfidf_vectorizer.pkl')
-            self.tfidf_matrix = load_npz(f'{self.models_dir}/tfidf_matrix.npz')
+            self.tfidf_vectorizer = joblib.load(str(self.models_dir / 'tfidf_vectorizer.pkl'))
+            self.tfidf_matrix = load_npz(str(self.models_dir / 'tfidf_matrix.npz'))
             print(f"[OK] Loaded TF-IDF vectorizer and matrix")
         except Exception as e:
             print(f"[WARNING] Could not load TF-IDF models: {e}")

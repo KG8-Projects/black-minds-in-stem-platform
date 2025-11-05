@@ -1600,16 +1600,17 @@ def display_recommendation_card(rec, rank, show_save_button=True):
 def display_logo():
     """Display the BMIS logo at the top of the page, centered"""
     try:
+        import base64
         logo_path = Path(__file__).parent / 'assets' / 'BMIS Logo.png'
         if logo_path.exists():
             # Center logo using CSS
-            st.markdown("""
+            with open(str(logo_path), 'rb') as logo_file:
+                logo_data = base64.b64encode(logo_file.read()).decode()
+            st.markdown(f"""
             <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
-                <img src="data:image/png;base64,{}" width="200" style="display: block;">
+                <img src="data:image/png;base64,{logo_data}" width="200" style="display: block;">
             </div>
-            """.format(
-                __import__('base64').b64encode(open(str(logo_path), 'rb').read()).decode()
-            ), unsafe_allow_html=True)
+            """, unsafe_allow_html=True)
     except Exception:
         # Silently fail if logo can't be loaded
         pass
@@ -1838,7 +1839,7 @@ def render_home_tab():
     try:
         dataset_path = Path(__file__).parent / 'data' / 'bmis_final_ml_ready_dataset_cs_refined.csv'
         if dataset_path.exists():
-            stats_df = pd.read_csv(dataset_path)
+            stats_df = pd.read_csv(str(dataset_path))
 
             total_resources = len(stats_df)
             free_low_cost = len(stats_df[stats_df['financial_barrier'].isin(['Free', 'Low'])])
@@ -2393,7 +2394,7 @@ def render_browse_tab():
             st.error("❌ Resource database not found. Please contact support.")
             st.stop()
 
-        all_resources = pd.read_csv(dataset_path)
+        all_resources = pd.read_csv(str(dataset_path))
 
         # Search bar with button
         col_search, col_button = st.columns([4, 1])
